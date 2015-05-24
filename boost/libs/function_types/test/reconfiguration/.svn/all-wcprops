@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/reconfiguration
+END
+partial_arity_preprocessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/reconfiguration/partial_arity_preprocessing.cpp
+END
+preprocessing_mode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/reconfiguration/preprocessing_mode.cpp
+END
+cc_preprocessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/reconfiguration/cc_preprocessing.cpp
+END
+simple_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/reconfiguration/simple_test.hpp
+END

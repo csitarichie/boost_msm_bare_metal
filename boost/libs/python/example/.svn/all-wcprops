@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example
+END
+test_getting_started2.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/test_getting_started2.py
+END
+std_pair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/std_pair.cpp
+END
+project.zip
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/project.zip
+END
+boost-build.jam
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/boost-build.jam
+END
+getting_started1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/getting_started1.cpp
+END
+getting_started2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/getting_started2.cpp
+END
+Jamroot
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/Jamroot
+END
+test_std_pair.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/test_std_pair.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/README
+END
+test_getting_started1.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/python/example/test_getting_started1.py
+END

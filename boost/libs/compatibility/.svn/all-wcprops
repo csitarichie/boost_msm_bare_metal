@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/compatibility
+END
+generate_cpp_c_headers.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/compatibility/generate_cpp_c_headers.py
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/compatibility/index.html
+END

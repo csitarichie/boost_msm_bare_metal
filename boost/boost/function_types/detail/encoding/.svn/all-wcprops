@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/function_types/detail/encoding
+END
+def.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/function_types/detail/encoding/def.hpp
+END
+aliases_def.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/function_types/detail/encoding/aliases_def.hpp
+END
+undef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/function_types/detail/encoding/undef.hpp
+END
+aliases_undef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/function_types/detail/encoding/aliases_undef.hpp
+END

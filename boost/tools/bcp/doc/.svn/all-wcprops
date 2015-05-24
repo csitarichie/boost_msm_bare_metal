@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/bcp/doc
+END
+bcp.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/bcp/doc/bcp.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/bcp/doc/Jamfile.v2
+END

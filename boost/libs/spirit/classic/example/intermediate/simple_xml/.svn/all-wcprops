@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/intermediate/simple_xml
+END
+tag.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/intermediate/simple_xml/tag.hpp
+END
+actions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/intermediate/simple_xml/actions.hpp
+END
+driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/intermediate/simple_xml/driver.cpp
+END
+tag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/intermediate/simple_xml/tag.cpp
+END
+xml_g.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/intermediate/simple_xml/xml_g.hpp
+END

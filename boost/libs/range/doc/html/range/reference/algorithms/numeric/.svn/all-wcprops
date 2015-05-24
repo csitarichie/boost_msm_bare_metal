@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/numeric
+END
+partial_sum.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/numeric/partial_sum.html
+END
+accumulate.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/numeric/accumulate.html
+END
+adjacent_difference.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/numeric/adjacent_difference.html
+END
+inner_product.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/numeric/inner_product.html
+END

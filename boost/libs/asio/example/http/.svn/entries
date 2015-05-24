@@ -1,0 +1,46 @@
+10
+
+dir
+62045
+http://svn.boost.org/svn/boost/tags/release/Boost_1_43_0/libs/asio/example/http
+http://svn.boost.org/svn/boost
+
+
+
+2010-03-18T02:21:32.724551Z
+60686
+chris_kohlhoff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8fc166d-592f-0410-95f2-cb63ce0dd405
+
+server
+dir
+
+doc_root
+dir
+
+server2
+dir
+
+server3
+dir
+
+server4
+dir
+
+client
+dir
+

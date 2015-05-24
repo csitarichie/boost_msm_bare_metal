@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma
+END
+pattern2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/pattern2.cpp
+END
+pattern3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/pattern3.cpp
+END
+char_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/char_class.cpp
+END
+rule_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/rule_fail.cpp
+END
+attribute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/attribute.cpp
+END
+tricky_alignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/tricky_alignment.cpp
+END
+format_manip_attr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/format_manip_attr.cpp
+END
+auto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/auto.cpp
+END
+sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/sequence.cpp
+END
+buffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/buffer.cpp
+END
+list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/list.cpp
+END
+char.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/char.cpp
+END
+pattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/pattern.cpp
+END
+test_attr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/test_attr.hpp
+END
+eol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/eol.cpp
+END
+repeat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/repeat.cpp
+END
+grammar_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/grammar_fail.cpp
+END
+plus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/plus.cpp
+END
+test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/test.hpp
+END
+maxwidth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/maxwidth.cpp
+END
+grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/grammar.cpp
+END
+lit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/lit.cpp
+END
+left_alignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/left_alignment.cpp
+END
+symbols.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/symbols.cpp
+END
+int_numerics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/int_numerics.cpp
+END
+actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/actions.cpp
+END
+test_manip_attr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/test_manip_attr.hpp
+END
+kleene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/kleene.cpp
+END
+omit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/omit.cpp
+END
+right_alignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/right_alignment.cpp
+END
+format_manip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/format_manip.cpp
+END
+alternative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/alternative.cpp
+END
+center_alignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/center_alignment.cpp
+END
+delimiter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/delimiter.cpp
+END
+lazy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/lazy.cpp
+END
+case_handling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/case_handling.cpp
+END
+not_predicate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/not_predicate.cpp
+END
+columns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/columns.cpp
+END
+and_predicate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/and_predicate.cpp
+END
+generate_attr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/generate_attr.cpp
+END
+binary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/binary.cpp
+END
+optional.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/optional.cpp
+END
+encoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/encoding.cpp
+END
+eps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/eps.cpp
+END
+real_numerics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/real_numerics.cpp
+END
+format_pointer_container.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/format_pointer_container.cpp
+END
+bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/bool.cpp
+END
+stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/karma/stream.cpp
+END

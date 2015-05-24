@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl
+END
+context_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl/context_base.cpp
+END
+context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl/context.cpp
+END
+context_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl/context_service.cpp
+END
+basic_context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl/basic_context.cpp
+END
+stream_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl/stream_base.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl/Jamfile
+END
+stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl/stream.cpp
+END
+stream_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl/stream_service.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/ssl/Jamfile.v2
+END

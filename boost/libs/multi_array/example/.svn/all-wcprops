@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example
+END
+basic1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example/basic1.cpp
+END
+basic2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example/basic2.cpp
+END
+op_paren.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example/op_paren.cpp
+END
+subview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example/subview.cpp
+END
+foreach_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example/foreach_test.cpp
+END
+subview2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example/subview2.cpp
+END
+foreach_test2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example/foreach_test2.cpp
+END
+print_array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example/print_array.cpp
+END
+for_each.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/example/for_each.hpp
+END

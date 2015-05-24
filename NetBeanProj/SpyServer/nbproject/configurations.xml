@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="62">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <df name="gnu" root="../../fw/ql/tools/qspy/linux/gnu">
+      <in>com.cpp</in>
+      <in>tcp.cpp</in>
+    </df>
+    <df name="source" root="../../fw/ql/tools/qspy/source">
+      <in>dict.cpp</in>
+      <in>getopt.c</in>
+      <in>main.cpp</in>
+      <in>qspy.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>../../fw/ql/tools/qspy/linux/gnu/Makefile</itemPath>
+      <itemPath>SpyServer-Makefile.mk</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject|build|test|rel|dbg)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>../../fw/ql/tools/qspy/linux/gnu</Elem>
+    <Elem>../../fw/ql/tools/qspy/source</Elem>
+  </sourceRootList>
+  <projectmakefile>SpyServer-Makefile.mk</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>../../fw/ql/tools/qspy/linux/gnu</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>../../fw/ql/tools/qspy/linux/gnu/dbg/qspy</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>../../fw/ql/tools/qspy/include</pElem>
+              <pElem>../../fw/ql/include</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>Q_SPY</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+    </conf>
+  </confs>
+</configurationDescriptor>

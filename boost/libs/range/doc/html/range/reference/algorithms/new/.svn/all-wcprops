@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new
+END
+iota.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/iota.html
+END
+remove_erase.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/remove_erase.html
+END
+erase.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/erase.html
+END
+push_back.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/push_back.html
+END
+insert.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/insert.html
+END
+for_each.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/for_each.html
+END
+overwrite.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/overwrite.html
+END
+copy_n.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/copy_n.html
+END
+push_front.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/push_front.html
+END
+remove_erase_if.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/remove_erase_if.html
+END
+is_sorted.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new/is_sorted.html
+END

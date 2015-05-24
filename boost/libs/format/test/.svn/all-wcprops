@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/format/test
+END
+format_test_wstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/format/test/format_test_wstring.cpp
+END
+format_test1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/format/test/format_test1.cpp
+END
+format_test2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/format/test/format_test2.cpp
+END
+format_test3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/format/test/format_test3.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/format/test/Jamfile.v2
+END

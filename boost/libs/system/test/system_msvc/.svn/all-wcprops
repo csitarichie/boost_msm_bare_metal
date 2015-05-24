@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/system/test/system_msvc
+END
+common.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/system/test/system_msvc/common.vsprops
+END
+system_msvc.sln
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/system/test/system_msvc/system_msvc.sln
+END

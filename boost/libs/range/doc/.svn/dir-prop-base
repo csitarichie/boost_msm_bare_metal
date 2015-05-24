@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 244
+/devel/libs/range/doc:38327-38328
+/sandbox-branches/bhy/py3k/libs/range/doc:52115-56304
+/sandbox-branches/intrusive_fix_SunCC/libs/range/doc:55764-55783
+/trunk/boost/libs/range/doc:33417-38326
+/trunk/libs/range/doc:38329-61653,61674,61717,61766
+END

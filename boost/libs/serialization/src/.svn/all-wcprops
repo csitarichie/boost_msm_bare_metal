@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src
+END
+utf8_codecvt_facet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/utf8_codecvt_facet.cpp
+END
+basic_oarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_oarchive.cpp
+END
+xml_wiarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/xml_wiarchive.cpp
+END
+basic_xml_archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_xml_archive.cpp
+END
+stl_port.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/stl_port.cpp
+END
+xml_grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/xml_grammar.cpp
+END
+xml_woarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/xml_woarchive.cpp
+END
+extended_type_info_no_rtti.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/extended_type_info_no_rtti.cpp
+END
+xml_iarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/xml_iarchive.cpp
+END
+void_cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/void_cast.cpp
+END
+basic_text_wiprimitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_text_wiprimitive.cpp
+END
+basic_xml_grammar.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_xml_grammar.ipp
+END
+xml_archive_exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/xml_archive_exception.cpp
+END
+xml_oarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/xml_oarchive.cpp
+END
+basic_archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_archive.cpp
+END
+basic_iserializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_iserializer.cpp
+END
+basic_pointer_iserializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_pointer_iserializer.cpp
+END
+basic_text_woprimitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_text_woprimitive.cpp
+END
+text_wiarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/text_wiarchive.cpp
+END
+binary_wiarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/binary_wiarchive.cpp
+END
+basic_oserializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_oserializer.cpp
+END
+basic_pointer_oserializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_pointer_oserializer.cpp
+END
+shared_ptr_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/shared_ptr_helper.cpp
+END
+extended_type_info_typeid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/extended_type_info_typeid.cpp
+END
+text_woarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/text_woarchive.cpp
+END
+binary_woarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/binary_woarchive.cpp
+END
+xml_wgrammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/xml_wgrammar.cpp
+END
+text_iarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/text_iarchive.cpp
+END
+binary_iarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/binary_iarchive.cpp
+END
+archive_exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/archive_exception.cpp
+END
+text_oarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/text_oarchive.cpp
+END
+binary_oarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/binary_oarchive.cpp
+END
+basic_serializer_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_serializer_map.cpp
+END
+extended_type_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/extended_type_info.cpp
+END
+polymorphic_iarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/polymorphic_iarchive.cpp
+END
+codecvt_null.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/codecvt_null.cpp
+END
+polymorphic_oarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/polymorphic_oarchive.cpp
+END
+basic_text_iprimitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_text_iprimitive.cpp
+END
+basic_iarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_iarchive.cpp
+END
+basic_text_oprimitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/src/basic_text_oprimitive.cpp
+END

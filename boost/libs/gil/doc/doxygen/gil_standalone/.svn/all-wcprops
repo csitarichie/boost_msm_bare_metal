@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/gil/doc/doxygen/gil_standalone
+END
+header_html.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/gil/doc/doxygen/gil_standalone/header_html.txt
+END
+gil_boost.doxygen
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/gil/doc/doxygen/gil_standalone/gil_boost.doxygen
+END
+main.dox
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/gil/doc/doxygen/gil_standalone/main.dox
+END

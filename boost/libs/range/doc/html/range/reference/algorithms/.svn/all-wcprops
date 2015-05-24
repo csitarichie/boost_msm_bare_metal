@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms
+END
+heap.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/heap.html
+END
+non_mutating.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating.html
+END
+numeric.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/numeric.html
+END
+permutation.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/permutation.html
+END
+mutating.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/mutating.html
+END
+new.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/new.html
+END
+non.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non.html
+END
+set.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/set.html
+END

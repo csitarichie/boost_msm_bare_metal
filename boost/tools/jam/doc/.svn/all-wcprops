@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/jam/doc
+END
+bjam.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/jam/doc/bjam.qbk
+END
+build.jam
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/jam/doc/build.jam
+END
+history.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/jam/doc/history.qbk
+END

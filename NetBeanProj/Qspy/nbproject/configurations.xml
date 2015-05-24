@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="62">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <df name="gnu" root="../../fw/ql/ports/80x86/linux/gnu">
+      <df name="src">
+        <in>qf_port.cpp</in>
+        <in>qs_port.cpp</in>
+      </df>
+      <in>qep_port.h</in>
+      <in>qf_port.h</in>
+      <in>qp_port.h</in>
+      <in>qs_port.h</in>
+    </df>
+    <df name="source" root="../../fw/ql/qs/source">
+      <in>qs.cpp</in>
+      <in>qs_.cpp</in>
+      <in>qs_blk.cpp</in>
+      <in>qs_byte.cpp</in>
+      <in>qs_f32.cpp</in>
+      <in>qs_f64.cpp</in>
+      <in>qs_mem.cpp</in>
+      <in>qs_pkg.h</in>
+      <in>qs_str.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>../../fw/ql/ports/80x86/linux/gnu/Makefile</itemPath>
+      <itemPath>Qspy-Makefile.mk</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject|build|test|dbg|rel|spy)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>../../fw/ql/ports/80x86/linux/gnu</Elem>
+    <Elem>../../fw/ql/qs/source</Elem>
+  </sourceRootList>
+  <projectmakefile>Qspy-Makefile.mk</projectmakefile>
+  <confs>
+    <conf name="Spy" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>../../fw/ql/ports/80x86/linux/gnu</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile spy</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile spy_clean</cleanCommand>
+          <executablePath>../../fw/ql/ports/80x86/linux/gnu/spy/libqs.a</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>../../fw/ql/ports/80x86/linux/gnu</pElem>
+              <pElem>../../fw/ql/include</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>Q_SPY</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="../../fw/ql/ports/80x86/linux/gnu/src/qs_port.cpp"
+            ex="false"
+            tool="1">
+        <ccTool>
+          <incDir>
+            <pElem>../../fw/ql/qs/source</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

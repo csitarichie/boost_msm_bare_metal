@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/assign
+END
+std.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/assign/std.hpp
+END
+ptr_list_inserter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/assign/ptr_list_inserter.hpp
+END
+ptr_map_inserter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/assign/ptr_map_inserter.hpp
+END
+list_of.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/assign/list_of.hpp
+END
+ptr_list_of.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/assign/ptr_list_of.hpp
+END
+assignment_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/assign/assignment_exception.hpp
+END
+list_inserter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/assign/list_inserter.hpp
+END

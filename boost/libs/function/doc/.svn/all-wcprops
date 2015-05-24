@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function/doc
+END
+history.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function/doc/history.xml
+END
+tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function/doc/tests.xml
+END
+tutorial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function/doc/tutorial.xml
+END
+function.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function/doc/function.xml
+END
+faq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function/doc/faq.xml
+END
+misc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function/doc/misc.xml
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function/doc/Jamfile.v2
+END
+reference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function/doc/reference.xml
+END

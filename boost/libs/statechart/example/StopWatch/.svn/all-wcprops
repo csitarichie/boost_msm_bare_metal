@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/statechart/example/StopWatch
+END
+StopWatch2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/statechart/example/StopWatch/StopWatch2.cpp
+END
+StopWatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/statechart/example/StopWatch/StopWatch.cpp
+END
+StopWatch.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/statechart/example/StopWatch/StopWatch.vcproj
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build
+END
+vc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/vc.mak
+END
+test_example_custom_data_type.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_example_custom_data_type.vcproj
+END
+test_example_debug_settings.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_example_debug_settings.vcproj
+END
+test_json_parser.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_json_parser.vcproj
+END
+test_ini_parser.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_ini_parser.vcproj
+END
+test_info_grammar_spirit.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_info_grammar_spirit.vcproj
+END
+tests.sln
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/tests.sln
+END
+sandbox.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/sandbox.vcproj
+END
+test_multi_module.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_multi_module.vcproj
+END
+gcc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/gcc.mak
+END
+Makefile-Common
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/Makefile-Common
+END
+test_property_tree.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_property_tree.vcproj
+END
+test_example_empty_ptree_trick.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_example_empty_ptree_trick.vcproj
+END
+settings_non-existent.info
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/settings_non-existent.info
+END
+icc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/icc.mak
+END
+debug_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/debug_settings.xml
+END
+settings_fully-existent.info
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/settings_fully-existent.info
+END
+test_info_parser.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_info_parser.vcproj
+END
+settings_partially-existent.info
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/settings_partially-existent.info
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/Makefile
+END
+test_xml_parser.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/property_tree/test/custom-build/test_xml_parser.vcproj
+END

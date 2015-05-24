@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional
+END
+make_fused_function_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/make_fused_function_object.cpp
+END
+make_unfused_rvalue_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/make_unfused_rvalue_args.cpp
+END
+fused_function_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/fused_function_object.cpp
+END
+make_unfused_generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/make_unfused_generic.cpp
+END
+make_fused.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/make_fused.cpp
+END
+invoke_procedure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/invoke_procedure.cpp
+END
+unfused_rvalue_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/unfused_rvalue_args.cpp
+END
+unfused_generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/unfused_generic.cpp
+END
+make_unfused.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/make_unfused.cpp
+END
+fused.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/fused.cpp
+END
+unfused.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/unfused.cpp
+END
+make_fused_procedure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/make_fused_procedure.cpp
+END
+fused_procedure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/fused_procedure.cpp
+END
+unfused_typed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/unfused_typed.cpp
+END
+invoke_function_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/invoke_function_object.cpp
+END
+make_unfused_lvalue_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/make_unfused_lvalue_args.cpp
+END
+invoke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/invoke.cpp
+END
+unfused_lvalue_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/functional/unfused_lvalue_args.cpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/vc71_fix
+END
+instantiate_all.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/vc71_fix/instantiate_all.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/vc71_fix/Jamfile.v2
+END

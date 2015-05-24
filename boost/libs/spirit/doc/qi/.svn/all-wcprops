@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi
+END
+parse_api.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/parse_api.qbk
+END
+basics.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/basics.qbk
+END
+string.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/string.qbk
+END
+complex.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/complex.qbk
+END
+auxiliary.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/auxiliary.qbk
+END
+auto.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/auto.qbk
+END
+warming_up.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/warming_up.qbk
+END
+num_list2.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/num_list2.qbk
+END
+mini_xml.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/mini_xml.qbk
+END
+roman.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/roman.qbk
+END
+num_list3.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/num_list3.qbk
+END
+char.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/char.qbk
+END
+action.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/action.qbk
+END
+directive.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/directive.qbk
+END
+concepts.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/concepts.qbk
+END
+num_list4.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/num_list4.qbk
+END
+tutorial_intro.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/tutorial_intro.qbk
+END
+employee.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/employee.qbk
+END
+binary.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/binary.qbk
+END
+nonterminal.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/nonterminal.qbk
+END
+sum_tutorial.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/sum_tutorial.qbk
+END
+quick_reference.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/quick_reference.qbk
+END
+operator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/operator.qbk
+END
+stream.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/stream.qbk
+END
+error_handling.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/error_handling.qbk
+END
+actions.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/actions.qbk
+END
+numeric.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/qi/numeric.qbk
+END

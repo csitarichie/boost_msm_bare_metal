@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/example/karma
+END
+calc2_ast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/example/karma/calc2_ast.hpp
+END
+calc2_ast_dump_sr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/example/karma/calc2_ast_dump_sr.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/example/karma/Jamfile
+END
+confix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/example/karma/confix.cpp
+END
+mini_xml_karma_sr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/example/karma/mini_xml_karma_sr.cpp
+END

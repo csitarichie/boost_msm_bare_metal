@@ -1,0 +1,73 @@
+@echo off
+rem ==========================================================================
+rem Product: QUDP buld script for Win32 port with GNU (MinGW)
+rem Last Updated for Version: 4.0.03
+rem Date of the Last Update:  Mar 16, 2009
+rem
+rem                    Q u a n t u m     L e a P s
+rem                    ---------------------------
+rem                    innovating embedded systems
+rem
+rem Copyright (C) 2002-2009 Quantum Leaps, LLC. All rights reserved.
+rem
+rem This software may be distributed and modified under the terms of the GNU
+rem General Public License version 2 (GPL) as published by the Free Software
+rem Foundation and appearing in the file GPL.TXT included in the packaging of
+rem this file. Please note that GPL Section 2[b] requires that all works based
+rem on this software must also be made publicly available under the terms of
+rem the GPL ("Copyleft").
+rem
+rem Alternatively, this software may be distributed and modified under the
+rem terms of Quantum Leaps commercial licenses, which expressly supersede
+rem the GPL and are specifically designed for licensees interested in
+rem retaining the proprietary status of their code.
+rem
+rem Contact information:
+rem Quantum Leaps Web site:  http://www.quantum-leaps.com
+rem e-mail:                  info@quantum-leaps.com
+rem ==========================================================================
+setlocal
+
+rem NOTE:
+rem -----
+rem The following two symbols define the location of the compiler and the
+rem archiver. 
+
+set MINGW=C:\tools\MinGW
+
+set CC=%MINGW%\bin\g++
+set LINK=%MINGW%\bin\g++
+set LIBDIR=%MINGW%\lib
+
+rem ==========================================================================
+set QP_PRTDIR=.
+
+if "%1"=="" (
+    echo default selected
+    set BINDIR=%QP_PRTDIR%\dbg
+    set CCFLAGS=-g -c -Wall 
+)
+if "%1"=="rel" (
+    echo rel selected
+    set BINDIR=%QP_PRTDIR%\rel
+    set CCFLAGS=-O -c -Wall 
+)
+
+set LINKFLAGS=
+
+rem QSPY ---------------------------------------------------------------------
+set SRCDIR=..\..\source
+set CCINC=-I..\..\include
+
+@echo on
+%CC% %CCFLAGS% %CCINC% -o%BINDIR%\qudp.o      ..\qudp.cpp     
+%LINK% %LINKFLAGS% -o %BINDIR%\qudp.exe  %BINDIR%\qudp.o  %LIBDIR%\libwsock32.a
+
+%CC% %CCFLAGS% %CCINC% -o%BINDIR%\qudps.o     ..\qudps.cpp     
+%LINK% %LINKFLAGS% -o %BINDIR%\qudps.exe %BINDIR%\qudps.o %LIBDIR%\libwsock32.a
+@echo off
+erase %BINDIR%\*.o
+
+:end
+
+endlocal

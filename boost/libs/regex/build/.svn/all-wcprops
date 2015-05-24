@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build
+END
+generic.mak
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/generic.mak
+END
+bcb6.mak
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/bcb6.mak
+END
+bc_gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/bc_gen.sh
+END
+vc71.mak
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/vc71.mak
+END
+vc71-stlport.mak
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/vc71-stlport.mak
+END
+sunpro.mak
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/sunpro.mak
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/Jamfile.v2
+END
+gcc_gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/gcc_gen.sh
+END
+common.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/common.sh
+END
+gcc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/gcc.mak
+END
+vc6.mak
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/vc6.mak
+END
+vc7.mak
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/vc7.mak
+END
+sun_gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/sun_gen.sh
+END
+gcc-shared.mak
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/gcc-shared.mak
+END
+vc8.mak
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/vc8.mak
+END
+vc9.mak
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/vc9.mak
+END
+vc6-stlport.mak
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/vc6-stlport.mak
+END
+vc_gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/vc_gen.sh
+END
+vc7-stlport.mak
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/vc7-stlport.mak
+END
+generic_gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/build/generic_gen.sh
+END

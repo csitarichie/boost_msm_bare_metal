@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert
+END
+static_assert_test_fail_10.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_10.cpp
+END
+static_assert_example_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_example_1.cpp
+END
+static_assert_example_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_example_2.cpp
+END
+static_assert_example_3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_example_3.cpp
+END
+static_assert_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/Jamfile.v2
+END
+static_assert.htm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert.htm
+END
+static_assert_test_fail_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_1.cpp
+END
+static_assert_test_fail_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_2.cpp
+END
+static_assert_test_fail_3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_3.cpp
+END
+static_assert_test_fail_4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_4.cpp
+END
+static_assert_test_fail_5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_5.cpp
+END
+static_assert_test_fail_6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_6.cpp
+END
+static_assert_test_fail_7.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_7.cpp
+END
+static_assert_test_fail_8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_8.cpp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/index.html
+END
+static_assert_test_fail_9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/static_assert/static_assert_test_fail_9.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/abstracts
+END
+attributes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/abstracts/attributes.qbk
+END
+syntax_diagram.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/abstracts/syntax_diagram.qbk
+END
+peg.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/abstracts/peg.qbk
+END

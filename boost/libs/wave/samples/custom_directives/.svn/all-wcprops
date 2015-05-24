@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/custom_directives
+END
+custom_directives.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/custom_directives/custom_directives.hpp
+END
+custom_directives.input
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/custom_directives/custom_directives.input
+END
+custom_directives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/custom_directives/custom_directives.cpp
+END

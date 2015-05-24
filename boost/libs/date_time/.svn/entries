@@ -1,0 +1,83 @@
+10
+
+dir
+62045
+http://svn.boost.org/svn/boost/tags/release/Boost_1_43_0/libs/date_time
+http://svn.boost.org/svn/boost
+
+
+
+2009-11-22T22:07:24.510494Z
+57851
+andysem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8fc166d-592f-0410-95f2-cb63ce0dd405
+
+build
+dir
+
+test
+dir
+
+doc
+dir
+
+xmldoc
+dir
+
+src
+dir
+
+data
+dir
+
+index.html
+file
+
+
+
+
+2010-05-16T21:09:45.726004Z
+46a8036b71002273e90cb91d03aa728d
+2006-07-20T15:55:16.000000Z
+34640
+az_sw_dude
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+554
+
+example
+dir
+

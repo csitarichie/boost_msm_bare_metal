@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/karma
+END
+confix.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/karma/confix.qbk
+END
+nonterminals.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/karma/nonterminals.qbk
+END
+compound_generators.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/karma/compound_generators.qbk
+END
+directives.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/karma/directives.qbk
+END
+primitive_generators.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/karma/primitive_generators.qbk
+END
+subrule.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/karma/subrule.qbk
+END

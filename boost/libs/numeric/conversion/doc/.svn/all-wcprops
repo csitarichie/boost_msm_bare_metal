@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc
+END
+requirements.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc/requirements.qbk
+END
+conversion.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc/conversion.qbk
+END
+converter.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc/converter.qbk
+END
+bounds.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc/bounds.qbk
+END
+conversion_traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc/conversion_traits.qbk
+END
+definitions.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc/definitions.qbk
+END
+numeric_cast.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc/numeric_cast.qbk
+END
+converter_policies.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc/converter_policies.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/conversion/doc/Jamfile.v2
+END

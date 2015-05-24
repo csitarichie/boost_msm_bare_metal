@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex
+END
+regression003_generate_switch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/regression003_generate_switch.cpp
+END
+lexertl1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/lexertl1.cpp
+END
+test_parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/test_parser.hpp
+END
+regression001.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/regression001.cpp
+END
+lexertl2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/lexertl2.cpp
+END
+dedent_handling_phoenix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/dedent_handling_phoenix.cpp
+END
+regression002.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/regression002.cpp
+END
+lexertl3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/lexertl3.cpp
+END
+regression003.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/regression003.cpp
+END
+lexertl4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/lexertl4.cpp
+END
+regression004.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/regression004.cpp
+END
+lexertl5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/lexertl5.cpp
+END
+regression005.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/regression005.cpp
+END
+regression003_generate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/regression003_generate.cpp
+END
+matlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/matlib.h
+END
+set_token_value_phoenix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/set_token_value_phoenix.cpp
+END
+semantic_actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/semantic_actions.cpp
+END
+regression003_switch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/regression003_switch.cpp
+END
+test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/test.hpp
+END
+lexer_state_switcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/lexer_state_switcher.cpp
+END
+set_token_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/set_token_value.cpp
+END
+state_switcher_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/test/lex/state_switcher_test.cpp
+END

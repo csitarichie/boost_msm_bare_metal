@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/conversion/test
+END
+implicit_cast_fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/conversion/test/implicit_cast_fail.cpp
+END
+lexical_cast_noncopyable_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/conversion/test/lexical_cast_noncopyable_test.cpp
+END
+implicit_cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/conversion/test/implicit_cast.cpp
+END
+lexical_cast_loopback_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/conversion/test/lexical_cast_loopback_test.cpp
+END
+lexical_cast_vc8_bug_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/conversion/test/lexical_cast_vc8_bug_test.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/conversion/test/Jamfile.v2
+END
+lexical_cast_abstract_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/conversion/test/lexical_cast_abstract_test.cpp
+END

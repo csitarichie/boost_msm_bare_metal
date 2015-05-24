@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/inspect/build/msvc
+END
+boost_inspect.sln
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/inspect/build/msvc/boost_inspect.sln
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/inspect/build/msvc/readme.txt
+END
+boost_inspect.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/inspect/build/msvc/boost_inspect.vcproj
+END

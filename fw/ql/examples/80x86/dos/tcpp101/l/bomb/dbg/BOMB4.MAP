@@ -1,0 +1,964 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 075A5H 075A6H _TEXT              CODE
+ 075A6H 07AEAH 00545H BOMB4_TEXT         CODE
+ 07AEBH 07BB1H 000C7H BSP_TEXT           CODE
+ 07BB2H 07BBDH 0000CH QEP_TEXT           CODE
+ 07BBEH 07C32H 00075H QFSM_INI_TEXT      CODE
+ 07C33H 07C90H 0005EH QFSM_DIS_TEXT      CODE
+ 07CA0H 07CA0H 00000H _FARDATA           FAR_DATA
+ 07CA0H 07CA0H 00000H BOMB45_FAR         FAR_DATA
+ 07CA0H 07CA0H 00000H BOMB46_FAR         FAR_DATA
+ 07CA0H 07CA0H 00000H BOMB47_FAR         FAR_DATA
+ 07CA0H 07CA0H 00000H BOMB48_FAR         FAR_DATA
+ 07CA0H 07CA0H 00000H BOMB49_FAR         FAR_DATA
+ 07CA0H 07CA0H 00000H BOMB410_FAR        FAR_DATA
+ 07CA0H 07CA0H 00000H BSP5_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H BSP6_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H BSP7_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H BSP8_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H BSP9_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H BSP10_FAR          FAR_DATA
+ 07CA0H 07CA0H 00000H FSTREAM5_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H FSTREAM6_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H FSTREAM7_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H FSTREAM8_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H FSTREAM9_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H FSTREAM10_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H FSTREAM11_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H IOSTREAM5_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H IOSTREAM6_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H IOSTREAM7_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H IOSTREAM8_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H IOSTREAM9_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H IOSTREAM10_FAR     FAR_DATA
+ 07CA0H 07CA0H 00000H IOSTREAM11_FAR     FAR_DATA
+ 07CA0H 07CA0H 00000H IOS5_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H IOS6_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H IOS7_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H IOS8_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H IOS9_FAR           FAR_DATA
+ 07CA0H 07CA0H 00000H IOS10_FAR          FAR_DATA
+ 07CA0H 07CA0H 00000H ISTREAMN5_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H ISTREAMN6_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H ISTREAMN7_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H ISTREAMN8_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H ISTREAMN9_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H ISTREAMN10_FAR     FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMN5_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMN6_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMN7_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMN8_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMN9_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMN10_FAR     FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMI5_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMI6_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMI7_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMI8_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMI9_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H OSTREAMI10_FAR     FAR_DATA
+ 07CA0H 07CA0H 00000H STRMBFN5_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H STRMBFN6_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H STRMBFN7_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H STRMBFN8_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H STRMBFN9_FAR       FAR_DATA
+ 07CA0H 07CA0H 00000H STRMBFN10_FAR      FAR_DATA
+ 07CA0H 07CA0H 00000H _OVERLAY_          OVRINFO
+ 07CA0H 07CBDH 0001EH _INIT_             INITDATA
+ 07CBEH 07CBEH 00000H _INITEND_          INITDATA
+ 07CBEH 07CCFH 00012H _EXIT_             EXITDATA
+ 07CD0H 07CD0H 00000H _EXITEND_          EXITDATA
+ 07CD0H 07CD0H 00000H _1STUB_            STUBSEG
+ 07CD0H 083E7H 00718H _DATA              DATA
+ 083E8H 083E8H 00000H _CVTSEG            DATA
+ 083E8H 083E8H 00000H _SCNSEG            DATA
+ 083E8H 0847BH 00094H _BSS               BSS
+ 0847CH 0847CH 00000H _BSSEND            ENDBSS
+ 08480H 08483H 00004H _COMDEF_AA_        ENDBSS
+ 08490H 0850FH 00080H _STACK             STACK
+
+
+Detailed map of segments
+
+ 0000:0000 020A C=CODE   S=_TEXT          G=(none)  M=c0.ASM     ACBP=28
+ 0000:020A 002D C=CODE   S=_TEXT          G=(none)  M=ATEXIT     ACBP=28
+ 0000:0237 002D C=CODE   S=_TEXT          G=(none)  M=CLOSE      ACBP=28
+ 0000:0264 014C C=CODE   S=_TEXT          G=(none)  M=CPRINTF    ACBP=28
+ 0000:03B0 0000 C=CODE   S=_TEXT          G=(none)  M=CTYPE      ACBP=28
+ 0000:03B0 0026 C=CODE   S=_TEXT          G=(none)  M=EXIT       ACBP=28
+ 0000:03D6 012C C=CODE   S=_TEXT          G=(none)  M=FBRK       ACBP=28
+ 0000:0502 00D0 C=CODE   S=_TEXT          G=(none)  M=FFLUSH     ACBP=28
+ 0000:05D2 0000 C=CODE   S=_TEXT          G=(none)  M=FILES      ACBP=28
+ 0000:05D2 0000 C=CODE   S=_TEXT          G=(none)  M=FILES2     ACBP=28
+ 0000:05D2 0043 C=CODE   S=_TEXT          G=(none)  M=FLUSHALL   ACBP=28
+ 0000:0615 0000 C=CODE   S=_TEXT          G=(none)  M=FMODE      ACBP=28
+ 0000:0615 0154 C=CODE   S=_TEXT          G=(none)  M=FSEEK      ACBP=28
+ 0000:0769 008B C=CODE   S=_TEXT          G=(none)  M=GPTEXT     ACBP=28
+ 0000:07F4 00A6 C=CODE   S=_TEXT          G=(none)  M=MOVETEXT   ACBP=28
+ 0000:089A 0017 C=CODE   S=_TEXT          G=(none)  M=PUTCH      ACBP=28
+ 0000:08B1 01B1 C=CODE   S=_TEXT          G=(none)  M=SCREEN     ACBP=28
+ 0000:0A62 0192 C=CODE   S=_TEXT          G=(none)  M=SCROLL     ACBP=28
+ 0000:0BF4 0079 C=CODE   S=_TEXT          G=(none)  M=SETUPIO    ACBP=28
+ 0000:0C6D 011F C=CODE   S=_TEXT          G=(none)  M=SETVBUF    ACBP=28
+ 0000:0D8C 0000 C=CODE   S=_TEXT          G=(none)  M=STKLEN     ACBP=28
+ 0000:0D8C 001A C=CODE   S=_TEXT          G=(none)  M=TELL       ACBP=28
+ 0000:0DA6 002C C=CODE   S=_TEXT          G=(none)  M=WHEREXY    ACBP=28
+ 0000:0DD2 012D C=CODE   S=_TEXT          G=(none)  M=WRITE      ACBP=28
+ 0000:0EFF 0000 C=CODE   S=_TEXT          G=(none)  M=WSCROLL    ACBP=28
+ 0000:0EFF 003A C=CODE   S=_TEXT          G=(none)  M=XFFLUSH    ACBP=28
+ 0000:0F39 001D C=CODE   S=_TEXT          G=(none)  M=CHMODA     ACBP=28
+ 0000:0F56 001E C=CODE   S=_TEXT          G=(none)  M=CLOSEA     ACBP=28
+ 0000:0F74 01BA C=CODE   S=_TEXT          G=(none)  M=CRTINIT    ACBP=28
+ 0000:112E 007D C=CODE   S=_TEXT          G=(none)  M=DELAY      ACBP=28
+ 0000:11AB 005C C=CODE   S=_TEXT          G=(none)  M=GETCH      ACBP=28
+ 0000:1207 0029 C=CODE   S=_TEXT          G=(none)  M=IOCTL      ACBP=28
+ 0000:1230 003D C=CODE   S=_TEXT          G=(none)  M=IOERROR    ACBP=28
+ 0000:126D 0011 C=CODE   S=_TEXT          G=(none)  M=ISATTY     ACBP=28
+ 0000:127E 0006 C=CODE   S=_TEXT          G=(none)  M=KBHIT      ACBP=28
+ 0000:1284 0029 C=CODE   S=_TEXT          G=(none)  M=LSEEK      ACBP=28
+ 0000:12AD 00F1 C=CODE   S=_TEXT          G=(none)  M=LTOA       ACBP=28
+ 0000:139E 0024 C=CODE   S=_TEXT          G=(none)  M=MEMCPY     ACBP=28
+ 0000:13C2 017D C=CODE   S=_TEXT          G=(none)  M=OPEN       ACBP=28
+ 0000:153F 004E C=CODE   S=_TEXT          G=(none)  M=OPENA      ACBP=28
+ 0000:158D 00BE C=CODE   S=_TEXT          G=(none)  M=READ       ACBP=28
+ 0000:164B 001C C=CODE   S=_TEXT          G=(none)  M=READA      ACBP=28
+ 0000:1667 001C C=CODE   S=_TEXT          G=(none)  M=SETBLOCK   ACBP=28
+ 0000:1683 001F C=CODE   S=_TEXT          G=(none)  M=STRLEN     ACBP=28
+ 0000:16A2 04F0 C=CODE   S=_TEXT          G=(none)  M=VPRINTER   ACBP=28
+ 0000:1B92 009F C=CODE   S=_TEXT          G=(none)  M=VRAM       ACBP=28
+ 0000:1C31 004B C=CODE   S=_TEXT          G=(none)  M=WRITEA     ACBP=28
+ 0000:1C7C 0012 C=CODE   S=_TEXT          G=(none)  M=DEL        ACBP=28
+ 0000:1C8E 1B7F C=CODE   S=_TEXT          G=(none)  M=FSTREAM    ACBP=28
+ 0000:380D 05A1 C=CODE   S=_TEXT          G=(none)  M=IOSTREAM   ACBP=28
+ 0000:3DAE 05D9 C=CODE   S=_TEXT          G=(none)  M=IOS        ACBP=28
+ 0000:4387 15D1 C=CODE   S=_TEXT          G=(none)  M=ISTREAMN   ACBP=28
+ 0000:5958 006C C=CODE   S=_TEXT          G=(none)  M=NEW        ACBP=28
+ 0000:59C4 0B0F C=CODE   S=_TEXT          G=(none)  M=OSTREAMN   ACBP=28
+ 0000:64D3 042A C=CODE   S=_TEXT          G=(none)  M=OSTREAMI   ACBP=28
+ 0000:68FD 075A C=CODE   S=_TEXT          G=(none)  M=STRMBFN    ACBP=28
+ 0000:7060 03FC C=CODE   S=_TEXT          G=(none)  M=FARHEAP    ACBP=68
+ 0000:745C 00AE C=CODE   S=_TEXT          G=(none)  M=H_LDIV     ACBP=28
+ 0000:750A 0060 C=CODE   S=_TEXT          G=(none)  M=H_PADD     ACBP=28
+ 0000:756A 0017 C=CODE   S=_TEXT          G=(none)  M=N_LXMUL    ACBP=28
+ 0000:7581 0021 C=CODE   S=_TEXT          G=(none)  M=N_PCMP     ACBP=28
+ 0000:75A2 0004 C=CODE   S=_TEXT          G=(none)  M=REALCVT    ACBP=28
+ 075A:0006 0545 C=CODE   S=BOMB4_TEXT     G=(none)  M=BOMB4.CPP  ACBP=28
+ 07AE:000B 00C7 C=CODE   S=BSP_TEXT       G=(none)  M=BSP.CPP    ACBP=28
+ 07BB:0002 000C C=CODE   S=QEP_TEXT       G=(none)  M=QEP        ACBP=28
+ 07BB:000E 0075 C=CODE   S=QFSM_INI_TEXT  G=(none)  M=QFSM_INI   ACBP=28
+ 07C3:0003 005E C=CODE   S=QFSM_DIS_TEXT  G=(none)  M=QFSM_DIS   ACBP=28
+ 07CA:0000 0000 C=FAR_DATA S=_FARDATA       G=(none)  M=c0.ASM     ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BOMB45_FAR     G=(none)  M=BOMB4.CPP  ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BOMB46_FAR     G=(none)  M=BOMB4.CPP  ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BOMB47_FAR     G=(none)  M=BOMB4.CPP  ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BOMB48_FAR     G=(none)  M=BOMB4.CPP  ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BOMB49_FAR     G=(none)  M=BOMB4.CPP  ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BOMB410_FAR    G=(none)  M=BOMB4.CPP  ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BSP5_FAR       G=(none)  M=BSP.CPP    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BSP6_FAR       G=(none)  M=BSP.CPP    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BSP7_FAR       G=(none)  M=BSP.CPP    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BSP8_FAR       G=(none)  M=BSP.CPP    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BSP9_FAR       G=(none)  M=BSP.CPP    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=BSP10_FAR      G=(none)  M=BSP.CPP    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=FSTREAM5_FAR   G=(none)  M=FSTREAM    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=FSTREAM6_FAR   G=(none)  M=FSTREAM    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=FSTREAM7_FAR   G=(none)  M=FSTREAM    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=FSTREAM8_FAR   G=(none)  M=FSTREAM    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=FSTREAM9_FAR   G=(none)  M=FSTREAM    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=FSTREAM10_FAR  G=(none)  M=FSTREAM    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=FSTREAM11_FAR  G=(none)  M=FSTREAM    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOSTREAM5_FAR  G=(none)  M=IOSTREAM   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOSTREAM6_FAR  G=(none)  M=IOSTREAM   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOSTREAM7_FAR  G=(none)  M=IOSTREAM   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOSTREAM8_FAR  G=(none)  M=IOSTREAM   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOSTREAM9_FAR  G=(none)  M=IOSTREAM   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOSTREAM10_FAR G=(none)  M=IOSTREAM   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOSTREAM11_FAR G=(none)  M=IOSTREAM   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOS5_FAR       G=(none)  M=IOS        ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOS6_FAR       G=(none)  M=IOS        ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOS7_FAR       G=(none)  M=IOS        ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOS8_FAR       G=(none)  M=IOS        ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOS9_FAR       G=(none)  M=IOS        ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=IOS10_FAR      G=(none)  M=IOS        ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=ISTREAMN5_FAR  G=(none)  M=ISTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=ISTREAMN6_FAR  G=(none)  M=ISTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=ISTREAMN7_FAR  G=(none)  M=ISTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=ISTREAMN8_FAR  G=(none)  M=ISTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=ISTREAMN9_FAR  G=(none)  M=ISTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=ISTREAMN10_FAR G=(none)  M=ISTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMN5_FAR  G=(none)  M=OSTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMN6_FAR  G=(none)  M=OSTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMN7_FAR  G=(none)  M=OSTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMN8_FAR  G=(none)  M=OSTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMN9_FAR  G=(none)  M=OSTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMN10_FAR G=(none)  M=OSTREAMN   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMI5_FAR  G=(none)  M=OSTREAMI   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMI6_FAR  G=(none)  M=OSTREAMI   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMI7_FAR  G=(none)  M=OSTREAMI   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMI8_FAR  G=(none)  M=OSTREAMI   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMI9_FAR  G=(none)  M=OSTREAMI   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=OSTREAMI10_FAR G=(none)  M=OSTREAMI   ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=STRMBFN5_FAR   G=(none)  M=STRMBFN    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=STRMBFN6_FAR   G=(none)  M=STRMBFN    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=STRMBFN7_FAR   G=(none)  M=STRMBFN    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=STRMBFN8_FAR   G=(none)  M=STRMBFN    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=STRMBFN9_FAR   G=(none)  M=STRMBFN    ACBP=68
+ 07CA:0000 0000 C=FAR_DATA S=STRMBFN10_FAR  G=(none)  M=STRMBFN    ACBP=68
+ 07CA:0000 0000 C=OVRINFO S=_OVERLAY_      G=(none)  M=c0.ASM     ACBP=68
+ 07CA:0000 0000 C=INITDATA S=_INIT_         G=IGROUP  M=c0.ASM     ACBP=48
+ 07CA:0000 0006 C=INITDATA S=_INIT_         G=IGROUP  M=BOMB4.CPP  ACBP=48
+ 07CA:0006 0006 C=INITDATA S=_INIT_         G=IGROUP  M=SETUPIO    ACBP=48
+ 07CA:000C 0006 C=INITDATA S=_INIT_         G=IGROUP  M=CRTINIT    ACBP=48
+ 07CA:0012 000C C=INITDATA S=_INIT_         G=IGROUP  M=IOSTREAM   ACBP=48
+ 07CA:001E 0000 C=INITDATA S=_INITEND_      G=IGROUP  M=c0.ASM     ACBP=28
+ 07CB:000E 0000 C=EXITDATA S=_EXIT_         G=EGROUP  M=c0.ASM     ACBP=48
+ 07CB:000E 0006 C=EXITDATA S=_EXIT_         G=EGROUP  M=BOMB4.CPP  ACBP=48
+ 07CB:0014 000C C=EXITDATA S=_EXIT_         G=EGROUP  M=IOSTREAM   ACBP=48
+ 07CB:0020 0000 C=EXITDATA S=_EXITEND_      G=EGROUP  M=c0.ASM     ACBP=28
+ 07CD:0000 0000 C=STUBSEG S=_1STUB_        G=(none)  M=c0.ASM     ACBP=68
+ 07CD:0000 008F C=DATA   S=_DATA          G=DGROUP  M=c0.ASM     ACBP=68
+ 07CD:0090 00C0 C=DATA   S=_DATA          G=DGROUP  M=BOMB4.CPP  ACBP=48
+ 07CD:0150 0029 C=DATA   S=_DATA          G=DGROUP  M=BSP.CPP    ACBP=48
+ 07CD:017A 000F C=DATA   S=_DATA          G=DGROUP  M=QEP        ACBP=48
+ 07CD:018A 0009 C=DATA   S=_DATA          G=DGROUP  M=QFSM_INI   ACBP=48
+ 07CD:0194 0000 C=DATA   S=_DATA          G=DGROUP  M=QFSM_DIS   ACBP=48
+ 07CD:0194 0002 C=DATA   S=_DATA          G=DGROUP  M=ATEXIT     ACBP=48
+ 07CD:0196 0000 C=DATA   S=_DATA          G=DGROUP  M=CLOSE      ACBP=48
+ 07CD:0196 0000 C=DATA   S=_DATA          G=DGROUP  M=CPRINTF    ACBP=48
+ 07CD:0196 0101 C=DATA   S=_DATA          G=DGROUP  M=CTYPE      ACBP=48
+ 07CD:0298 000C C=DATA   S=_DATA          G=DGROUP  M=EXIT       ACBP=48
+ 07CD:02A4 0002 C=DATA   S=_DATA          G=DGROUP  M=FBRK       ACBP=48
+ 07CD:02A6 0000 C=DATA   S=_DATA          G=DGROUP  M=FFLUSH     ACBP=48
+ 07CD:02A6 0190 C=DATA   S=_DATA          G=DGROUP  M=FILES      ACBP=48
+ 07CD:0436 0028 C=DATA   S=_DATA          G=DGROUP  M=FILES2     ACBP=48
+ 07CD:045E 0000 C=DATA   S=_DATA          G=DGROUP  M=FLUSHALL   ACBP=48
+ 07CD:045E 0004 C=DATA   S=_DATA          G=DGROUP  M=FMODE      ACBP=48
+ 07CD:0462 0000 C=DATA   S=_DATA          G=DGROUP  M=FSEEK      ACBP=48
+ 07CD:0462 0000 C=DATA   S=_DATA          G=DGROUP  M=GPTEXT     ACBP=48
+ 07CD:0462 0000 C=DATA   S=_DATA          G=DGROUP  M=MOVETEXT   ACBP=48
+ 07CD:0462 0000 C=DATA   S=_DATA          G=DGROUP  M=PUTCH      ACBP=48
+ 07CD:0462 0000 C=DATA   S=_DATA          G=DGROUP  M=SCREEN     ACBP=48
+ 07CD:0462 0000 C=DATA   S=_DATA          G=DGROUP  M=SCROLL     ACBP=48
+ 07CD:0462 0000 C=DATA   S=_DATA          G=DGROUP  M=SETUPIO    ACBP=48
+ 07CD:0462 0004 C=DATA   S=_DATA          G=DGROUP  M=SETVBUF    ACBP=48
+ 07CD:0466 0002 C=DATA   S=_DATA          G=DGROUP  M=STKLEN     ACBP=48
+ 07CD:0468 0000 C=DATA   S=_DATA          G=DGROUP  M=TELL       ACBP=48
+ 07CD:0468 0000 C=DATA   S=_DATA          G=DGROUP  M=WHEREXY    ACBP=48
+ 07CD:0468 0000 C=DATA   S=_DATA          G=DGROUP  M=WRITE      ACBP=48
+ 07CD:0468 0002 C=DATA   S=_DATA          G=DGROUP  M=WSCROLL    ACBP=48
+ 07CD:046A 0000 C=DATA   S=_DATA          G=DGROUP  M=XFFLUSH    ACBP=48
+ 07CD:046A 0000 C=DATA   S=_DATA          G=DGROUP  M=CHMODA     ACBP=48
+ 07CD:046A 0000 C=DATA   S=_DATA          G=DGROUP  M=CLOSEA     ACBP=48
+ 07CD:046A 0018 C=DATA   S=_DATA          G=DGROUP  M=CRTINIT    ACBP=48
+ 07CD:0482 0000 C=DATA   S=_DATA          G=DGROUP  M=DELAY      ACBP=48
+ 07CD:0482 0002 C=DATA   S=_DATA          G=DGROUP  M=GETCH      ACBP=48
+ 07CD:0484 0000 C=DATA   S=_DATA          G=DGROUP  M=IOCTL      ACBP=48
+ 07CD:0484 005B C=DATA   S=_DATA          G=DGROUP  M=IOERROR    ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=ISATTY     ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=KBHIT      ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=LSEEK      ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=LTOA       ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=MEMCPY     ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=OPEN       ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=OPENA      ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=READ       ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=READA      ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=SETBLOCK   ACBP=48
+ 07CD:04E0 0000 C=DATA   S=_DATA          G=DGROUP  M=STRLEN     ACBP=48
+ 07CD:04E0 0067 C=DATA   S=_DATA          G=DGROUP  M=VPRINTER   ACBP=48
+ 07CD:0548 0000 C=DATA   S=_DATA          G=DGROUP  M=VRAM       ACBP=48
+ 07CD:0548 0000 C=DATA   S=_DATA          G=DGROUP  M=WRITEA     ACBP=48
+ 07CD:0548 0000 C=DATA   S=_DATA          G=DGROUP  M=DEL        ACBP=48
+ 07CD:0548 005E C=DATA   S=_DATA          G=DGROUP  M=FSTREAM    ACBP=48
+ 07CD:05A6 00D2 C=DATA   S=_DATA          G=DGROUP  M=IOSTREAM   ACBP=48
+ 07CD:0678 001E C=DATA   S=_DATA          G=DGROUP  M=IOS        ACBP=48
+ 07CD:0696 0010 C=DATA   S=_DATA          G=DGROUP  M=ISTREAMN   ACBP=48
+ 07CD:06A6 0000 C=DATA   S=_DATA          G=DGROUP  M=NEW        ACBP=48
+ 07CD:06A6 0010 C=DATA   S=_DATA          G=DGROUP  M=OSTREAMN   ACBP=48
+ 07CD:06B6 0036 C=DATA   S=_DATA          G=DGROUP  M=OSTREAMI   ACBP=48
+ 07CD:06EC 002C C=DATA   S=_DATA          G=DGROUP  M=STRMBFN    ACBP=48
+ 07CD:0718 0000 C=DATA   S=_CVTSEG        G=DGROUP  M=c0.ASM     ACBP=48
+ 07CD:0718 0000 C=DATA   S=_CVTSEG        G=DGROUP  M=REALCVT    ACBP=48
+ 07CD:0718 0000 C=DATA   S=_SCNSEG        G=DGROUP  M=c0.ASM     ACBP=48
+ 07CD:0718 0000 C=BSS    S=_BSS           G=DGROUP  M=c0.ASM     ACBP=48
+ 07CD:0718 0003 C=BSS    S=_BSS           G=DGROUP  M=BOMB4.CPP  ACBP=48
+ 07CD:071C 0000 C=BSS    S=_BSS           G=DGROUP  M=BSP.CPP    ACBP=48
+ 07CD:071C 0080 C=BSS    S=_BSS           G=DGROUP  M=ATEXIT     ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=CLOSE      ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=SETUPIO    ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=CHMODA     ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=CLOSEA     ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=CRTINIT    ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=DELAY      ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=GETCH      ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=IOCTL      ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=IOERROR    ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=ISATTY     ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=KBHIT      ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=LSEEK      ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=LTOA       ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=MEMCPY     ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=OPEN       ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=OPENA      ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=READ       ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=READA      ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=SETBLOCK   ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=STRLEN     ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=VPRINTER   ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=VRAM       ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=WRITEA     ACBP=48
+ 07CD:079C 0000 C=BSS    S=_BSS           G=DGROUP  M=FSTREAM    ACBP=48
+ 07CD:079C 000C C=BSS    S=_BSS           G=DGROUP  M=IOSTREAM   ACBP=48
+ 07CD:07A8 0000 C=BSS    S=_BSS           G=DGROUP  M=IOS        ACBP=48
+ 07CD:07A8 0000 C=BSS    S=_BSS           G=DGROUP  M=ISTREAMN   ACBP=48
+ 07CD:07A8 0004 C=BSS    S=_BSS           G=DGROUP  M=NEW        ACBP=48
+ 07CD:07AC 0000 C=BSS    S=_BSS           G=DGROUP  M=OSTREAMN   ACBP=48
+ 07CD:07AC 0000 C=BSS    S=_BSS           G=DGROUP  M=OSTREAMI   ACBP=48
+ 07CD:07AC 0000 C=BSS    S=_BSS           G=DGROUP  M=STRMBFN    ACBP=48
+ 07CD:07AC 0000 C=ENDBSS S=_BSSEND        G=DGROUP  M=c0.ASM     ACBP=28
+ 0848:0000 0004 C=ENDBSS S=_COMDEF_AA_    G=(none)  M=BOMB4.CPP  ACBP=60
+ 0849:0000 0080 C=STACK  S=_STACK         G=(none)  M=c0.ASM     ACBP=74
+
+  Address         Publics by Name
+
+ 0000:1C7C       operator delete(void far*)
+ 0000:5982       operator new(unsigned int)
+ 07CD:0148       Bomb4::
+ 075A:045F       Bomb4::Bomb4(unsigned char)
+ 075A:0515       Bomb4::~Bomb4()
+ 075A:0006 idle  Bomb4::initial(Bomb4 far*,const QEvent far*)
+ 075A:0025 idle  Bomb4::setting(Bomb4 far*,const QEvent far*)
+ 075A:009F idle  Bomb4::timing(Bomb4 far*,const QEvent far*)
+ 07AE:0053       BSP_boom()
+ 07AE:000B       BSP_display(unsigned char)
+ 0000:40AB idle  dec(ios far&)
+ 0000:6208       endl(ostream far&)
+ 0000:6230 idle  ends(ostream far&)
+ 0000:1D81       filebuf::filebuf(int)
+ 0000:1E75 idle  filebuf::filebuf(int,char far*,int)
+ 0000:1C8E idle  filebuf::filebuf()
+ 0000:1EF8 idle  filebuf::~filebuf()
+ 0000:223B idle  filebuf::attach(int)
+ 0000:20D9 idle  filebuf::close()
+ 0000:1F62 idle  filebuf::open(const char far*,int,int)
+ 07CD:0548       filebuf::openprot
+ 0000:2335 idle  filebuf::overflow(int)
+ 0000:26CC idle  filebuf::seekoff(long,seek_dir,int)
+ 0000:217B idle  filebuf::setbuf(char far*,int)
+ 0000:2855 idle  filebuf::sync()
+ 0000:24CF idle  filebuf::underflow()
+ 0000:624C idle  flush(ostream far&)
+ 0000:35A6 idle  fstream::fstream(int)
+ 0000:3663 idle  fstream::fstream(int,char far*,int)
+ 0000:34E0 idle  fstream::fstream(const char far*,int,int)
+ 0000:3426 idle  fstream::fstream()
+ 0000:3729 idle  fstream::~fstream()
+ 0000:37AD       fstream::
+ 0000:2AC9 idle  fstreambase::fstreambase(int)
+ 0000:2B63 idle  fstreambase::fstreambase(int,char far*,int)
+ 0000:2A18 idle  fstreambase::fstreambase(const char far*,int,int)
+ 0000:2982 idle  fstreambase::fstreambase()
+ 0000:2C06 idle  fstreambase::~fstreambase()
+ 0000:3801       fstreambase::
+ 0000:2CDF idle  fstreambase::attach(int)
+ 0000:2D32 idle  fstreambase::close()
+ 0000:2C73 idle  fstreambase::open(const char far*,int,int)
+ 0000:2D75 idle  fstreambase::setbuf(char far*,int)
+ 0000:40D9 idle  hex(ios far&)
+ 0000:2F1F idle  ifstream::ifstream(int)
+ 0000:2FC7 idle  ifstream::ifstream(int,char far*,int)
+ 0000:2E6D idle  ifstream::ifstream(const char far*,int,int)
+ 0000:2DC8 idle  ifstream::ifstream()
+ 0000:3079 idle  ifstream::~ifstream()
+ 0000:37E9       ifstream::
+ 0000:3DF2 idle  ios::ios(streambuf far*)
+ 0000:3DAE       ios::ios()
+ 0000:3E9D       ios::~ios()
+ 07CD:067C       ios::adjustfield
+ 07CD:0678       ios::basefield
+ 0000:41E4 idle  ios::bitalloc()
+ 0000:4135       ios::clear(int)
+ 0000:3F4E       ios::flags(long)
+ 07CD:0680       ios::floatfield
+ 0000:3E4A       ios::init(streambuf far*)
+ 0000:42CD idle  ios::iword(int)
+ 07CD:0684       ios::nextbit
+ 0000:432A idle  ios::pword(int)
+ 0000:4003       ios::setf(long)
+ 0000:3F99       ios::setf(long,long)
+ 0000:416F       ios::setstate(int)
+ 0000:4197       ios::skip(int)
+ 0848:0000       ios::stdioflush
+ 0000:3EE2       ios::tie(ostream far*)
+ 0000:4055 idle  ios::unsetf(long)
+ 07CD:0688       ios::usercount
+ 0000:422D idle  ios::usersize(int)
+ 075A:0428       ios::width(int)
+ 0000:421E idle  ios::xalloc()
+ 0000:380D idle  iostream::iostream(streambuf far*)
+ 0000:38CC       iostream::iostream()
+ 0000:3972       iostream::~iostream()
+ 0000:3D96       iostream::
+ 0000:3C8B idle  Iostream_delete()
+ 0000:3AE9 idle  iostream_withassign::operator =(ios far&)
+ 0000:3B10 idle  iostream_withassign::operator =(streambuf far*)
+ 0000:39F1 idle  iostream_withassign::iostream_withassign()
+ 0000:3A80 idle  iostream_withassign::~iostream_withassign()
+ 0000:3D7E       iostream_withassign::
+ 0000:43FA idle  istream::istream(streambuf far*)
+ 0000:44D8 idle  istream::istream(streambuf far*,int,ostream far*)
+ 0000:4387       istream::istream()
+ 0000:4485       istream::~istream()
+ 0000:54A4 idle  istream::operator >>(unsigned char far&)
+ 0000:5596 idle  istream::operator >>(char far&)
+ 0000:51FF idle  istream::operator >>(streambuf far*)
+ 0000:4FF5 idle  istream::operator >>(ios far&(far*)(ios far&))
+ 0000:5097 idle  istream::operator >>(char far*)
+ 0000:594C       istream::
+ 0000:486A idle  istream::do_get()
+ 0000:47A4 idle  istream::do_ipfx(int)
+ 0000:46D0 idle  istream::eatwhite()
+ 0000:4CA8 idle  istream::get(streambuf far&,char)
+ 0000:5688 idle  istream::get(unsigned char far&)
+ 0000:5781 idle  istream::get(char far&)
+ 0000:48FF idle  istream::get(char far*,int,char)
+ 0000:587A idle  istream::get()
+ 0000:4B63 idle  istream::getline(char far*,int,char)
+ 0000:4EEB idle  istream::ignore(int,int)
+ 0000:4E29 idle  istream::putback(char)
+ 0000:4A46 idle  istream::read(char far*,int)
+ 0000:458E idle  istream::seekg(long)
+ 0000:45F1 idle  istream::seekg(long,seek_dir)
+ 0000:4657 idle  istream::tellg()
+ 0000:5457 idle  istream_withassign::operator =(istream far&)
+ 0000:5481       istream_withassign::operator =(streambuf far*)
+ 0000:5379       istream_withassign::istream_withassign()
+ 0000:53F4       istream_withassign::~istream_withassign()
+ 0000:5940       istream_withassign::
+ 0000:4107 idle  oct(ios far&)
+ 0000:324E idle  ofstream::ofstream(int)
+ 0000:32F6 idle  ofstream::ofstream(int,char far*,int)
+ 0000:319C idle  ofstream::ofstream(const char far*,int,int)
+ 0000:30F7 idle  ofstream::ofstream()
+ 0000:33A8 idle  ofstream::~ofstream()
+ 0000:37D1       ofstream::
+ 0000:5A2E idle  ostream::ostream(streambuf far*)
+ 0000:59C4       ostream::ostream()
+ 0000:5AB0       ostream::~ostream()
+ 075A:0444       ostream::operator <<(int)
+ 0000:65CA       ostream::operator <<(long)
+ 0000:60AD idle  ostream::operator <<(streambuf far*)
+ 0000:61DC idle  ostream::operator <<(ios far&(far*)(ios far&))
+ 075A:0416       ostream::operator <<(ostream far&(far*)(ostream far&))
+ 0000:6881 idle  ostream::operator <<(void far*)
+ 075A:03EF       ostream::operator <<(const char far*)
+ 0000:675B idle  ostream::operator <<(unsigned long)
+ 0000:638E       ostream::operator <<(char)
+ 0000:64C7       ostream::
+ 0000:5B10 idle  ostream::do_opfx()
+ 0000:5B4F idle  ostream::do_osfx()
+ 0000:5CF0       ostream::flush()
+ 0000:5D35       ostream::outstr(const char far*,const char far*)
+ 0000:5BAB idle  ostream::seekp(long)
+ 0000:5C0E idle  ostream::seekp(long,seek_dir)
+ 0000:5C74 idle  ostream::tellp()
+ 0000:6469 idle  ostream::write(const char far*,int)
+ 0000:6341 idle  ostream_withassign::operator =(ostream far&)
+ 0000:636B       ostream_withassign::operator =(streambuf far*)
+ 0000:6263       ostream_withassign::ostream_withassign()
+ 0000:62DE       ostream_withassign::~ostream_withassign()
+ 0000:64BB       ostream_withassign::
+ 07BB:0002 idle  QEP::getVersion()
+ 07CD:014C       QFsm::
+ 075A:04C5       QFsm::QFsm(unsigned char(far*)(void far*,const QEvent far*))
+ 07BB:000E       QFsm::~QFsm()
+ 07C3:0003       QFsm::dispatch(const QEvent far*)
+ 07BB:003A       QFsm::init(const QEvent far*)
+ 0000:5958 idle  set_new_handler(void(far*)())
+ 0000:69A0 idle  streambuf::streambuf(char far*,int)
+ 0000:68FD       streambuf::streambuf()
+ 0000:6A5C       streambuf::~streambuf()
+ 0000:6A9D       streambuf::doallocate()
+ 0000:6CEA       streambuf::do_sgetn(char far*,int)
+ 0000:6E76 idle  streambuf::do_snextc()
+ 0000:6DBF       streambuf::do_sputn(const char far*,int)
+ 0000:6EE5 idle  streambuf::overflow(int)
+ 0000:6EED       streambuf::pbackfail(int)
+ 0000:6EF5 idle  streambuf::seekoff(long,seek_dir,int)
+ 0000:6F00       streambuf::seekpos(long,int)
+ 0000:6AE9       streambuf::setb(char far*,char far*,int)
+ 0000:6C73 idle  streambuf::setbuf(char far*,int)
+ 0000:6C9E idle  streambuf::setbuf(char far*,int,int)
+ 0000:6BA3       streambuf::setg(char far*,char far*,char far*)
+ 0000:6C1A       streambuf::setp(char far*,char far*)
+ 0000:6FED idle  streambuf::sgetn(char far*,int)
+ 0000:6F83       streambuf::sputn(const char far*,int)
+ 0000:6F24 idle  streambuf::sync()
+ 0000:6EA3 idle  streambuf::underflow()
+ 0000:5021 idle  ws(istream far&)
+ 07CD:0000 idle  DATASEG@
+ 0000:0206 idle  DGROUP@
+ 0000:745F idle  F_LDIV@
+ 0000:746E idle  F_LMOD@
+ 0000:7466 idle  F_LUDIV@
+ 0000:7476 idle  F_LUMOD@
+ 0000:750D idle  F_PADD@
+ 0000:753C idle  F_PSUB@
+ 0000:745F idle  LDIV@
+ 0000:746E idle  LMOD@
+ 0000:7466 idle  LUDIV@
+ 0000:7476 idle  LUMOD@
+ 0000:745C idle  N_LDIV@
+ 0000:746B idle  N_LMOD@
+ 0000:7463       N_LUDIV@
+ 0000:7473       N_LUMOD@
+ 0000:756A       N_LXMUL@
+ 0000:750A       N_PADD@
+ 0000:7581       N_PCMP@
+ 0000:7539 idle  N_PSUB@
+ 0000:750D idle  PADD@
+ 0000:753C idle  PSUB@
+ 0000:01F0 idle  _abort
+ 0000:020A idle  _atexit
+ 07CD:0604 idle  _cerr
+ 07CD:05A6 idle  _cin
+ 07CD:0632       _clog
+ 0000:0237       _close
+ 07CD:05D6       _cout
+ 0000:0394 idle  _cprintf
+ 0000:116A       _delay
+ 07CD:0479       _directvideo
+ 07CD:007D       _errno
+ 0000:03B1       _exit
+ 0000:719E idle  _farfree
+ 0000:728E idle  _farmalloc
+ 0000:73EE idle  _farrealloc
+ 0000:0502       _fflush
+ 0000:05D2       _flushall
+ 0000:719E       _free
+ 0000:0699       _fseek
+ 0000:0719 idle  _ftell
+ 0000:11AB       _getch
+ 0000:11C7 idle  _getche
+ 0000:0769       _gettext
+ 0000:1207       _ioctl
+ 0000:126D       _isatty
+ 0000:132F idle  _itoa
+ 0000:127E       _kbhit
+ 0000:1284       _lseek
+ 0000:1376 idle  _ltoa
+ 075A:0152       _main
+ 0000:7284       _malloc
+ 0000:139E       _memcpy
+ 0000:07F4       _movetext
+ 0000:13EF       _open
+ 0000:089A       _putch
+ 0000:07BA       _puttext
+ 07CD:017A       _QEP_reservedEvt_
+ 07AE:0073       _Q_onAssert
+ 0000:158D       _read
+ 0000:73E7 idle  _realloc
+ 0000:1667       _setblock
+ 0000:0C6D       _setvbuf
+ 0000:1683       _strlen
+ 0000:0D8C       _tell
+ 0000:1359 idle  _ultoa
+ 0000:11EB idle  _ungetch
+ 0000:0DB0 idle  _wherex
+ 0000:0DBF idle  _wherey
+ 0000:0DD2       _write
+ 0000:1000 idle  __AHINCR
+ 0000:000C idle  __AHSHIFT
+ 07CD:0194       __atexitcnt
+ 07CD:071C       __atexittbl
+ 0000:0456       __brk
+ 07CD:0087       __brklvl
+ 07CD:0069 idle  __C0argc
+ 07CD:006B idle  __C0argv
+ 0000:1033 idle  __c0crtinit
+ 07CD:006F idle  __C0environ
+ 0000:0F39       __chmod
+ 0000:0F56       __close
+ 0000:0264       __CPUTN
+ 0000:1053 idle  __crtinit
+ 07CD:0196       __ctype
+ 07CD:0484 idle  __doserrno
+ 07CD:0486 idle  __dosErrorToSV
+ 07CD:0073 idle  __envLng
+ 07CD:0075 idle  __envseg
+ 07CD:0077 idle  __envSize
+ 0000:011A       __exit
+ 07CD:0298       __exitbuf
+ 0000:00FA       __exitclean
+ 07CD:029C       __exitfopen
+ 07CD:02A0       __exitopen
+ 07CD:045E       __fmode
+ 07CD:0083       __heapbase
+ 07CD:008B       __heaptop
+ 07CD:0059 idle  __Int0Vector
+ 07CD:005D idle  __Int4Vector
+ 07CD:0061 idle  __Int5Vector
+ 07CD:0065 idle  __Int6Vector
+ 0000:1230       __IOERROR
+ 0000:12AD       __LONGTOA
+ 0000:0208 idle  __MMODEL
+ 07CD:07A8 idle  __new_handler
+ 0000:11C4 idle  __Ngetche
+ 07CD:0460       __notUmask
+ 0000:11E8 idle  __Nungetch
+ 0000:153F       __open
+ 07CD:0436       __openfd
+ 07CD:007B idle  __osmajor
+ 07CD:007C idle  __osminor
+ 07CD:0079       __psp
+ 0000:164B       __read
+ 0000:75A2       __REALCVT
+ 07CD:0718       __RealCvtVector
+ 0000:0178 idle  __restorezero
+ 0000:0495       __sbrk
+ 07CD:0718 idle  __ScanTodVector
+ 0000:09E5       __SCREENIO
+ 0000:0A88       __SCROLL
+ 0000:0BF4       __setupio
+ 07CD:007F idle  __StartTime
+ 07CD:0466       __stklen
+ 07CD:02A6       __streams
+ 0000:0000 idle  __turboCrt
+ 0000:0A22       __VALIDATEXY
+ 07CD:007B idle  __version
+ 07CD:046A       __video
+ 0000:0FAF       __VideoInt
+ 0000:16BA       __VPRINTER
+ 0000:1B92       __VPTR
+ 0000:1BB8       __VRAM
+ 0000:0DA6       __wherexy
+ 0000:1C31       __write
+ 07CD:0468       __wscroll
+ 0000:0EFF       __xfflush
+ 0000:7060 idle  ___first
+ 0000:7062 idle  ___last
+ 0000:7064 idle  ___rover
+
+  Address         Publics by Value
+
+ 0000:0000 idle  __turboCrt
+ 0000:000C idle  __AHSHIFT
+ 0000:1000 idle  __AHINCR
+ 0000:00FA       __exitclean
+ 0000:011A       __exit
+ 0000:0178 idle  __restorezero
+ 0000:01F0 idle  _abort
+ 0000:0206 idle  DGROUP@
+ 0000:0208 idle  __MMODEL
+ 0000:020A idle  _atexit
+ 0000:0237       _close
+ 0000:0264       __CPUTN
+ 0000:0394 idle  _cprintf
+ 0000:03B1       _exit
+ 0000:0456       __brk
+ 0000:0495       __sbrk
+ 0000:0502       _fflush
+ 0000:05D2       _flushall
+ 0000:0699       _fseek
+ 0000:0719 idle  _ftell
+ 0000:0769       _gettext
+ 0000:07BA       _puttext
+ 0000:07F4       _movetext
+ 0000:089A       _putch
+ 0000:09E5       __SCREENIO
+ 0000:0A22       __VALIDATEXY
+ 0000:0A88       __SCROLL
+ 0000:0BF4       __setupio
+ 0000:0C6D       _setvbuf
+ 0000:0D8C       _tell
+ 0000:0DA6       __wherexy
+ 0000:0DB0 idle  _wherex
+ 0000:0DBF idle  _wherey
+ 0000:0DD2       _write
+ 0000:0EFF       __xfflush
+ 0000:0F39       __chmod
+ 0000:0F56       __close
+ 0000:0FAF       __VideoInt
+ 0000:1033 idle  __c0crtinit
+ 0000:1053 idle  __crtinit
+ 0000:116A       _delay
+ 0000:11AB       _getch
+ 0000:11C4 idle  __Ngetche
+ 0000:11C7 idle  _getche
+ 0000:11E8 idle  __Nungetch
+ 0000:11EB idle  _ungetch
+ 0000:1207       _ioctl
+ 0000:1230       __IOERROR
+ 0000:126D       _isatty
+ 0000:127E       _kbhit
+ 0000:1284       _lseek
+ 0000:12AD       __LONGTOA
+ 0000:132F idle  _itoa
+ 0000:1359 idle  _ultoa
+ 0000:1376 idle  _ltoa
+ 0000:139E       _memcpy
+ 0000:13EF       _open
+ 0000:153F       __open
+ 0000:158D       _read
+ 0000:164B       __read
+ 0000:1667       _setblock
+ 0000:1683       _strlen
+ 0000:16BA       __VPRINTER
+ 0000:1B92       __VPTR
+ 0000:1BB8       __VRAM
+ 0000:1C31       __write
+ 0000:1C7C       operator delete(void far*)
+ 0000:1C8E idle  filebuf::filebuf()
+ 0000:1D81       filebuf::filebuf(int)
+ 0000:1E75 idle  filebuf::filebuf(int,char far*,int)
+ 0000:1EF8 idle  filebuf::~filebuf()
+ 0000:1F62 idle  filebuf::open(const char far*,int,int)
+ 0000:20D9 idle  filebuf::close()
+ 0000:217B idle  filebuf::setbuf(char far*,int)
+ 0000:223B idle  filebuf::attach(int)
+ 0000:2335 idle  filebuf::overflow(int)
+ 0000:24CF idle  filebuf::underflow()
+ 0000:26CC idle  filebuf::seekoff(long,seek_dir,int)
+ 0000:2855 idle  filebuf::sync()
+ 0000:2982 idle  fstreambase::fstreambase()
+ 0000:2A18 idle  fstreambase::fstreambase(const char far*,int,int)
+ 0000:2AC9 idle  fstreambase::fstreambase(int)
+ 0000:2B63 idle  fstreambase::fstreambase(int,char far*,int)
+ 0000:2C06 idle  fstreambase::~fstreambase()
+ 0000:2C73 idle  fstreambase::open(const char far*,int,int)
+ 0000:2CDF idle  fstreambase::attach(int)
+ 0000:2D32 idle  fstreambase::close()
+ 0000:2D75 idle  fstreambase::setbuf(char far*,int)
+ 0000:2DC8 idle  ifstream::ifstream()
+ 0000:2E6D idle  ifstream::ifstream(const char far*,int,int)
+ 0000:2F1F idle  ifstream::ifstream(int)
+ 0000:2FC7 idle  ifstream::ifstream(int,char far*,int)
+ 0000:3079 idle  ifstream::~ifstream()
+ 0000:30F7 idle  ofstream::ofstream()
+ 0000:319C idle  ofstream::ofstream(const char far*,int,int)
+ 0000:324E idle  ofstream::ofstream(int)
+ 0000:32F6 idle  ofstream::ofstream(int,char far*,int)
+ 0000:33A8 idle  ofstream::~ofstream()
+ 0000:3426 idle  fstream::fstream()
+ 0000:34E0 idle  fstream::fstream(const char far*,int,int)
+ 0000:35A6 idle  fstream::fstream(int)
+ 0000:3663 idle  fstream::fstream(int,char far*,int)
+ 0000:3729 idle  fstream::~fstream()
+ 0000:37AD       fstream::
+ 0000:37D1       ofstream::
+ 0000:37E9       ifstream::
+ 0000:3801       fstreambase::
+ 0000:380D idle  iostream::iostream(streambuf far*)
+ 0000:38CC       iostream::iostream()
+ 0000:3972       iostream::~iostream()
+ 0000:39F1 idle  iostream_withassign::iostream_withassign()
+ 0000:3A80 idle  iostream_withassign::~iostream_withassign()
+ 0000:3AE9 idle  iostream_withassign::operator =(ios far&)
+ 0000:3B10 idle  iostream_withassign::operator =(streambuf far*)
+ 0000:3C8B idle  Iostream_delete()
+ 0000:3D7E       iostream_withassign::
+ 0000:3D96       iostream::
+ 0000:3DAE       ios::ios()
+ 0000:3DF2 idle  ios::ios(streambuf far*)
+ 0000:3E4A       ios::init(streambuf far*)
+ 0000:3E9D       ios::~ios()
+ 0000:3EE2       ios::tie(ostream far*)
+ 0000:3F4E       ios::flags(long)
+ 0000:3F99       ios::setf(long,long)
+ 0000:4003       ios::setf(long)
+ 0000:4055 idle  ios::unsetf(long)
+ 0000:40AB idle  dec(ios far&)
+ 0000:40D9 idle  hex(ios far&)
+ 0000:4107 idle  oct(ios far&)
+ 0000:4135       ios::clear(int)
+ 0000:416F       ios::setstate(int)
+ 0000:4197       ios::skip(int)
+ 0000:41E4 idle  ios::bitalloc()
+ 0000:421E idle  ios::xalloc()
+ 0000:422D idle  ios::usersize(int)
+ 0000:42CD idle  ios::iword(int)
+ 0000:432A idle  ios::pword(int)
+ 0000:4387       istream::istream()
+ 0000:43FA idle  istream::istream(streambuf far*)
+ 0000:4485       istream::~istream()
+ 0000:44D8 idle  istream::istream(streambuf far*,int,ostream far*)
+ 0000:458E idle  istream::seekg(long)
+ 0000:45F1 idle  istream::seekg(long,seek_dir)
+ 0000:4657 idle  istream::tellg()
+ 0000:46D0 idle  istream::eatwhite()
+ 0000:47A4 idle  istream::do_ipfx(int)
+ 0000:486A idle  istream::do_get()
+ 0000:48FF idle  istream::get(char far*,int,char)
+ 0000:4A46 idle  istream::read(char far*,int)
+ 0000:4B63 idle  istream::getline(char far*,int,char)
+ 0000:4CA8 idle  istream::get(streambuf far&,char)
+ 0000:4E29 idle  istream::putback(char)
+ 0000:4EEB idle  istream::ignore(int,int)
+ 0000:4FF5 idle  istream::operator >>(ios far&(far*)(ios far&))
+ 0000:5021 idle  ws(istream far&)
+ 0000:5097 idle  istream::operator >>(char far*)
+ 0000:51FF idle  istream::operator >>(streambuf far*)
+ 0000:5379       istream_withassign::istream_withassign()
+ 0000:53F4       istream_withassign::~istream_withassign()
+ 0000:5457 idle  istream_withassign::operator =(istream far&)
+ 0000:5481       istream_withassign::operator =(streambuf far*)
+ 0000:54A4 idle  istream::operator >>(unsigned char far&)
+ 0000:5596 idle  istream::operator >>(char far&)
+ 0000:5688 idle  istream::get(unsigned char far&)
+ 0000:5781 idle  istream::get(char far&)
+ 0000:587A idle  istream::get()
+ 0000:5940       istream_withassign::
+ 0000:594C       istream::
+ 0000:5958 idle  set_new_handler(void(far*)())
+ 0000:5982       operator new(unsigned int)
+ 0000:59C4       ostream::ostream()
+ 0000:5A2E idle  ostream::ostream(streambuf far*)
+ 0000:5AB0       ostream::~ostream()
+ 0000:5B10 idle  ostream::do_opfx()
+ 0000:5B4F idle  ostream::do_osfx()
+ 0000:5BAB idle  ostream::seekp(long)
+ 0000:5C0E idle  ostream::seekp(long,seek_dir)
+ 0000:5C74 idle  ostream::tellp()
+ 0000:5CF0       ostream::flush()
+ 0000:5D35       ostream::outstr(const char far*,const char far*)
+ 0000:60AD idle  ostream::operator <<(streambuf far*)
+ 0000:61DC idle  ostream::operator <<(ios far&(far*)(ios far&))
+ 0000:6208       endl(ostream far&)
+ 0000:6230 idle  ends(ostream far&)
+ 0000:624C idle  flush(ostream far&)
+ 0000:6263       ostream_withassign::ostream_withassign()
+ 0000:62DE       ostream_withassign::~ostream_withassign()
+ 0000:6341 idle  ostream_withassign::operator =(ostream far&)
+ 0000:636B       ostream_withassign::operator =(streambuf far*)
+ 0000:638E       ostream::operator <<(char)
+ 0000:6469 idle  ostream::write(const char far*,int)
+ 0000:64BB       ostream_withassign::
+ 0000:64C7       ostream::
+ 0000:65CA       ostream::operator <<(long)
+ 0000:675B idle  ostream::operator <<(unsigned long)
+ 0000:6881 idle  ostream::operator <<(void far*)
+ 0000:68FD       streambuf::streambuf()
+ 0000:69A0 idle  streambuf::streambuf(char far*,int)
+ 0000:6A5C       streambuf::~streambuf()
+ 0000:6A9D       streambuf::doallocate()
+ 0000:6AE9       streambuf::setb(char far*,char far*,int)
+ 0000:6BA3       streambuf::setg(char far*,char far*,char far*)
+ 0000:6C1A       streambuf::setp(char far*,char far*)
+ 0000:6C73 idle  streambuf::setbuf(char far*,int)
+ 0000:6C9E idle  streambuf::setbuf(char far*,int,int)
+ 0000:6CEA       streambuf::do_sgetn(char far*,int)
+ 0000:6DBF       streambuf::do_sputn(const char far*,int)
+ 0000:6E76 idle  streambuf::do_snextc()
+ 0000:6EA3 idle  streambuf::underflow()
+ 0000:6EE5 idle  streambuf::overflow(int)
+ 0000:6EED       streambuf::pbackfail(int)
+ 0000:6EF5 idle  streambuf::seekoff(long,seek_dir,int)
+ 0000:6F00       streambuf::seekpos(long,int)
+ 0000:6F24 idle  streambuf::sync()
+ 0000:6F83       streambuf::sputn(const char far*,int)
+ 0000:6FED idle  streambuf::sgetn(char far*,int)
+ 0000:7060 idle  ___first
+ 0000:7062 idle  ___last
+ 0000:7064 idle  ___rover
+ 0000:719E       _free
+ 0000:719E idle  _farfree
+ 0000:7284       _malloc
+ 0000:728E idle  _farmalloc
+ 0000:73E7 idle  _realloc
+ 0000:73EE idle  _farrealloc
+ 0000:745C idle  N_LDIV@
+ 0000:745F idle  LDIV@
+ 0000:745F idle  F_LDIV@
+ 0000:7463       N_LUDIV@
+ 0000:7466 idle  F_LUDIV@
+ 0000:7466 idle  LUDIV@
+ 0000:746B idle  N_LMOD@
+ 0000:746E idle  F_LMOD@
+ 0000:746E idle  LMOD@
+ 0000:7473       N_LUMOD@
+ 0000:7476 idle  LUMOD@
+ 0000:7476 idle  F_LUMOD@
+ 0000:750A       N_PADD@
+ 0000:750D idle  F_PADD@
+ 0000:750D idle  PADD@
+ 0000:7539 idle  N_PSUB@
+ 0000:753C idle  F_PSUB@
+ 0000:753C idle  PSUB@
+ 0000:756A       N_LXMUL@
+ 0000:7581       N_PCMP@
+ 0000:75A2       __REALCVT
+ 075A:0006 idle  Bomb4::initial(Bomb4 far*,const QEvent far*)
+ 075A:0025 idle  Bomb4::setting(Bomb4 far*,const QEvent far*)
+ 075A:009F idle  Bomb4::timing(Bomb4 far*,const QEvent far*)
+ 075A:0152       _main
+ 075A:03EF       ostream::operator <<(const char far*)
+ 075A:0416       ostream::operator <<(ostream far&(far*)(ostream far&))
+ 075A:0428       ios::width(int)
+ 075A:0444       ostream::operator <<(int)
+ 075A:045F       Bomb4::Bomb4(unsigned char)
+ 075A:04C5       QFsm::QFsm(unsigned char(far*)(void far*,const QEvent far*))
+ 075A:0515       Bomb4::~Bomb4()
+ 07AE:000B       BSP_display(unsigned char)
+ 07AE:0053       BSP_boom()
+ 07AE:0073       _Q_onAssert
+ 07BB:0002 idle  QEP::getVersion()
+ 07BB:000E       QFsm::~QFsm()
+ 07BB:003A       QFsm::init(const QEvent far*)
+ 07C3:0003       QFsm::dispatch(const QEvent far*)
+ 07CD:0000 idle  DATASEG@
+ 07CD:0059 idle  __Int0Vector
+ 07CD:005D idle  __Int4Vector
+ 07CD:0061 idle  __Int5Vector
+ 07CD:0065 idle  __Int6Vector
+ 07CD:0069 idle  __C0argc
+ 07CD:006B idle  __C0argv
+ 07CD:006F idle  __C0environ
+ 07CD:0073 idle  __envLng
+ 07CD:0075 idle  __envseg
+ 07CD:0077 idle  __envSize
+ 07CD:0079       __psp
+ 07CD:007B idle  __osmajor
+ 07CD:007B idle  __version
+ 07CD:007C idle  __osminor
+ 07CD:007D       _errno
+ 07CD:007F idle  __StartTime
+ 07CD:0083       __heapbase
+ 07CD:0087       __brklvl
+ 07CD:008B       __heaptop
+ 07CD:0148       Bomb4::
+ 07CD:014C       QFsm::
+ 07CD:017A       _QEP_reservedEvt_
+ 07CD:0194       __atexitcnt
+ 07CD:0196       __ctype
+ 07CD:0298       __exitbuf
+ 07CD:029C       __exitfopen
+ 07CD:02A0       __exitopen
+ 07CD:02A6       __streams
+ 07CD:0436       __openfd
+ 07CD:045E       __fmode
+ 07CD:0460       __notUmask
+ 07CD:0466       __stklen
+ 07CD:0468       __wscroll
+ 07CD:046A       __video
+ 07CD:0479       _directvideo
+ 07CD:0484 idle  __doserrno
+ 07CD:0486 idle  __dosErrorToSV
+ 07CD:0548       filebuf::openprot
+ 07CD:05A6 idle  _cin
+ 07CD:05D6       _cout
+ 07CD:0604 idle  _cerr
+ 07CD:0632       _clog
+ 07CD:0678       ios::basefield
+ 07CD:067C       ios::adjustfield
+ 07CD:0680       ios::floatfield
+ 07CD:0684       ios::nextbit
+ 07CD:0688       ios::usercount
+ 07CD:0718 idle  __ScanTodVector
+ 07CD:0718       __RealCvtVector
+ 07CD:071C       __atexittbl
+ 07CD:07A8 idle  __new_handler
+ 0848:0000       ios::stdioflush
+
+Program entry point at 0000:0000
+

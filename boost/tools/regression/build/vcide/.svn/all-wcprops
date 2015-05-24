@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/build/vcide
+END
+compiler_status.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/build/vcide/compiler_status.vcproj
+END
+process_jam_log.sln
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/build/vcide/process_jam_log.sln
+END
+process_jam_log.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/build/vcide/process_jam_log.vcproj
+END
+library_status.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/build/vcide/library_status.vcproj
+END
+regression.sln
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/build/vcide/regression.sln
+END

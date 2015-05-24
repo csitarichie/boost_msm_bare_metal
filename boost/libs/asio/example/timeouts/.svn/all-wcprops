@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/example/timeouts
+END
+connect_timeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/example/timeouts/connect_timeout.cpp
+END
+stream_receive_timeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/example/timeouts/stream_receive_timeout.cpp
+END
+accept_timeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/example/timeouts/accept_timeout.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/example/timeouts/Jamfile
+END
+datagram_receive_timeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/example/timeouts/datagram_receive_timeout.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/example/timeouts/Jamfile.v2
+END

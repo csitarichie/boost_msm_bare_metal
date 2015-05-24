@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test
+END
+static_min_max_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/static_min_max_test.cpp
+END
+integer_include_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/integer_include_test.cpp
+END
+integer_fwd_include_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/integer_fwd_include_test.cpp
+END
+static_min_max_include_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/static_min_max_include_test.cpp
+END
+integer_mask_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/integer_mask_test.cpp
+END
+cstdint_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/cstdint_test.cpp
+END
+static_log2_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/static_log2_test.cpp
+END
+integer_mask_include_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/integer_mask_include_test.cpp
+END
+cstdint_include_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/cstdint_include_test.cpp
+END
+static_log2_include_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/static_log2_include_test.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/Jamfile.v2
+END
+integer_traits_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/integer_traits_test.cpp
+END
+integer_traits_include_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/integer_traits_include_test.cpp
+END
+cstdint_test2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/cstdint_test2.cpp
+END
+integer_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/integer/test/integer_test.cpp
+END

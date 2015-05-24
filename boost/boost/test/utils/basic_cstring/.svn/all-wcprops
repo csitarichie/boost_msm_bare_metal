@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/test/utils/basic_cstring
+END
+basic_cstring.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/test/utils/basic_cstring/basic_cstring.hpp
+END
+basic_cstring_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/test/utils/basic_cstring/basic_cstring_fwd.hpp
+END
+bcs_char_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/test/utils/basic_cstring/bcs_char_traits.hpp
+END
+compare.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/test/utils/basic_cstring/compare.hpp
+END
+io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/test/utils/basic_cstring/io.hpp
+END

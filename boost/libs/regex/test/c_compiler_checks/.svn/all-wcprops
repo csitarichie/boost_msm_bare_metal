@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/test/c_compiler_checks
+END
+wide_posix_api_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/test/c_compiler_checks/wide_posix_api_check.c
+END
+wide_posix_api_check.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/test/c_compiler_checks/wide_posix_api_check.cpp
+END
+posix_api_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/test/c_compiler_checks/posix_api_check.c
+END
+posix_api_check.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/test/c_compiler_checks/posix_api_check.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/src/detail
+END
+tiny_xml_test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/src/detail/tiny_xml_test.txt
+END
+tiny_xml_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/src/detail/tiny_xml_test.cpp
+END
+tiny_xml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/src/detail/tiny_xml.cpp
+END
+tiny_xml.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/src/detail/tiny_xml.hpp
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/filesystem/test/msvc/fstream_test
+END
+fstream_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/filesystem/test/msvc/fstream_test/fstream_test.vcproj
+END

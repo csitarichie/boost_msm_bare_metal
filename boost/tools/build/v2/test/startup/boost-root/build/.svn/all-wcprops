@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/startup/boost-root/build
+END
+bootstrap.jam
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/startup/boost-root/build/bootstrap.jam
+END
+boost-build.jam
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/startup/boost-root/build/boost-build.jam
+END

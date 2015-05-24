@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/xsl_reports/xsl
+END
+add_expected_results.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/xsl_reports/xsl/add_expected_results.xsl
+END
+result_page.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/xsl_reports/xsl/result_page.xsl
+END
+links_page.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/xsl_reports/xsl/links_page.xsl
+END
+produce_expected_results.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/xsl_reports/xsl/produce_expected_results.xsl
+END
+issues_page.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/xsl_reports/xsl/issues_page.xsl
+END
+common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/xsl_reports/xsl/common.xsl
+END
+summary_page.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/xsl_reports/xsl/summary_page.xsl
+END

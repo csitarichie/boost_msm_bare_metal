@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/mpi/python
+END
+skeleton_and_content.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/mpi/python/skeleton_and_content.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/mpi/python/config.hpp
+END
+serialize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/mpi/python/serialize.hpp
+END

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registry install_date="2010-05-02 17:23:47" version="1.1" last_modified="2010-05-02 17:23:52">
+	<products>
+		<product name="Sourcery G++ JVM" id="148fcc56-69ab-46cd-8078-3815f7a49cac" version="1.0.0.1" copyright="" info_url="http://www.codesourcery.com" support_url="http://www.codesourcery.com/support/" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi" last_modified="2010-05-02 17:23:47">
+		<![CDATA[Sourcery G++ JVM]]>
+			<vendor name="CodeSourcery" id="7f1ebb3c-1ec7-11b2-8037-c0d9e9f9d7a6" home_page="http://www.codesourcery.com" email="sales@codesourcery.com"/>
+			<feature name="Sourcery G++ JVM" last_modified="2010-05-02 17:23:51">
+			<![CDATA[This installs the Sourcery G++ JVM feature.]]>
+				<component ref_id="0cf79ee6-9237-4fb5-ba5a-8664a3b8463e" version="1.0.0.1" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_JVM/Uninstall_Sourcery_Gxx_JVM"/>
+				<component ref_id="7db8e13c-c3a8-4e5b-bcd8-4e94aed5ffad" version="1.0.0.1" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/jre"/>
+				<component ref_id="adbdf545-5ecf-4cf0-a607-0cd328b19ace" version="1.0.0.1" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features/JVM.key"/>
+			</feature>
+		</product>
+	</products>
+	<components>
+		<component id="adbdf545-5ecf-4cf0-a607-0cd328b19ace" version="1.0.0.1" name="Sourcery G++ JVM" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features/JVM.key" vendor="CodeSourcery">
+			<resource keyfile="false" name="uninstall" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="features" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="true" name="JVM.key" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features/JVM.key" type="file" uninstall="true"/>
+			<resource keyfile="false" name="uninstall" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="remove-links-iamm-jvm_files-arm-2010q1-188-arm-none-eabi" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/remove-links-iamm-jvm_files-arm-2010q1-188-arm-none-eabi" type="file" uninstall="true"/>
+			<resource keyfile="false" name="create-links-iamm-jvm_files-arm-2010q1-188-arm-none-eabi" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/create-links-iamm-jvm_files-arm-2010q1-188-arm-none-eabi" type="file" uninstall="true"/>
+		</component>
+		<component id="0cf79ee6-9237-4fb5-ba5a-8664a3b8463e" version="1.0.0.1" name="Sourcery G++ JVM InstallAnywhere Uninstall" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_JVM/Uninstall_Sourcery_Gxx_JVM" vendor="CodeSourcery">
+			<resource keyfile="false" name="Sourcery G++ JVM Installer.log" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Sourcery G++ JVM Installer.log" type="file" uninstall="true"/>
+			<resource keyfile="false" name="jre" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/jre" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="uninstall" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="Uninstall_Sourcery_Gxx_JVM" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_JVM" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="uninstaller.jar" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_JVM/uninstaller.jar" type="file" uninstall="true"/>
+			<resource keyfile="true" name="Uninstall_Sourcery_Gxx_JVM" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_JVM/Uninstall_Sourcery_Gxx_JVM" type="executable" uninstall="true"/>
+			<resource keyfile="false" name="Uninstall_Sourcery_Gxx_JVM.lax" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_JVM/Uninstall_Sourcery_Gxx_JVM.lax" type="file" uninstall="true"/>
+			<resource keyfile="false" name=".com.zerog.registry.xml" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_JVM/.com.zerog.registry.xml" type="file" uninstall="true"/>
+		</component>
+		<component id="7db8e13c-c3a8-4e5b-bcd8-4e94aed5ffad" version="1.0.0.1" name="InstallAnywhere VM Component" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/jre" vendor="CodeSourcery">
+			<resource keyfile="true" name="jre" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/jre" type="post_processed_dir" uninstall="true">
+			<![CDATA[true]]>
+			</resource>
+		</component>
+	</components>
+</registry>

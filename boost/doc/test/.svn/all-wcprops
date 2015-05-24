@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test
+END
+array2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/array2.xml
+END
+array3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/array3.xml
+END
+array4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/array4.xml
+END
+weighted_tail_quantile.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/weighted_tail_quantile.hpp
+END
+test.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/test.qbk
+END
+test_HTML4_symbols.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/test_HTML4_symbols.qbk
+END
+HTML4_symbols.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/HTML4_symbols.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/Jamfile.v2
+END
+array.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/array.xml
+END
+array1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/array1.xml
+END
+remez.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/remez.qbk
+END
+stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/test/stub.cpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/railsys/libx/src
+END
+jamfile.jam
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/railsys/libx/src/jamfile.jam
+END
+test_libx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/railsys/libx/src/test_libx.cpp
+END

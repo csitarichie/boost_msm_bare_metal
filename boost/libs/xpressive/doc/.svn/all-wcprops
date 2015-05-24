@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc
+END
+preface.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/preface.qbk
+END
+dynamic_regexes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/dynamic_regexes.qbk
+END
+traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/traits.qbk
+END
+grammars.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/grammars.qbk
+END
+static_regexes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/static_regexes.qbk
+END
+tips_n_tricks.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/tips_n_tricks.qbk
+END
+examples.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/examples.qbk
+END
+concepts.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/concepts.qbk
+END
+tokenization.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/tokenization.qbk
+END
+introduction.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/introduction.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/Jamfile.v2
+END
+regexpp_diffs.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/regexpp_diffs.qbk
+END
+tracking_ptr.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/tracking_ptr.qbk
+END
+symbols.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/symbols.qbk
+END
+xpressive.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/xpressive.qbk
+END
+quick_start.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/quick_start.qbk
+END
+named_captures.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/named_captures.qbk
+END
+matching.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/matching.qbk
+END
+acknowledgements.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/acknowledgements.qbk
+END
+perf.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/perf.qbk
+END
+nyi.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/nyi.qbk
+END
+substitutions.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/substitutions.qbk
+END
+actions.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/actions.qbk
+END
+installation.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/installation.qbk
+END
+history.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/history.qbk
+END
+results.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/xpressive/doc/results.qbk
+END

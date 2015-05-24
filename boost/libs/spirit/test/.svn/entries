@@ -1,0 +1,77 @@
+10
+
+dir
+62045
+http://svn.boost.org/svn/boost/tags/release/Boost_1_43_0/libs/spirit/test
+http://svn.boost.org/svn/boost
+
+
+
+2010-05-04T17:49:50.065368Z
+61772
+danieljames
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8fc166d-592f-0410-95f2-cb63ce0dd405
+
+Jamfile
+file
+
+
+
+
+2010-05-16T21:12:15.873988Z
+e52d2a42bd869e9bb1cc8133d53cbfc1
+2010-04-07T18:16:49.942140Z
+61133
+hkaiser
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8120
+
+lex
+dir
+
+qi
+dir
+
+test_headers
+dir
+
+karma
+dir
+
+support
+dir
+

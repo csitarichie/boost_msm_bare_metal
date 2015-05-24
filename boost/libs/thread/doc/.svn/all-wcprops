@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc
+END
+thread_ref.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/thread_ref.qbk
+END
+overview.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/overview.qbk
+END
+future_ref.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/future_ref.qbk
+END
+thread.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/thread.qbk
+END
+changes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/changes.qbk
+END
+tss.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/tss.qbk
+END
+condition_variables.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/condition_variables.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/Jamfile.v2
+END
+shared_mutex_ref.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/shared_mutex_ref.qbk
+END
+once.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/once.qbk
+END
+barrier.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/barrier.qbk
+END
+mutexes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/mutexes.qbk
+END
+acknowledgements.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/acknowledgements.qbk
+END
+futures.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/futures.qbk
+END
+time.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/time.qbk
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/index.html
+END
+mutex_concepts.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/thread/doc/mutex_concepts.qbk
+END

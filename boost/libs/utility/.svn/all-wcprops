@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility
+END
+value_init_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/value_init_test.cpp
+END
+call_traits_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/call_traits_test.cpp
+END
+assert_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/assert_test.cpp
+END
+value_init.htm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/value_init.htm
+END
+checked_delete_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/checked_delete_test.cpp
+END
+call_traits.htm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/call_traits.htm
+END
+binary_search_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/binary_search_test.cpp
+END
+addressof_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/addressof_test.cpp
+END
+utility.htm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/utility.htm
+END
+shared_iterator_example1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/shared_iterator_example1.cpp
+END
+shared_iterator_example2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/shared_iterator_example2.cpp
+END
+shared_iterator_example3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/shared_iterator_example3.cpp
+END
+sublibs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/sublibs
+END
+binary_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/binary_test.cpp
+END
+assert.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/assert.html
+END
+base_from_member_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/base_from_member_test.cpp
+END
+operators.htm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/operators.htm
+END
+current_function_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/current_function_test.cpp
+END
+numeric_traits_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/numeric_traits_test.cpp
+END
+LessThanComparable.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/LessThanComparable.html
+END
+checked_delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/checked_delete.html
+END
+Assignable.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/Assignable.html
+END
+in_place_factories.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/in_place_factories.html
+END
+iterator_adaptors.htm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/iterator_adaptors.htm
+END
+swap.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/swap.html
+END
+MultiPassInputIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/MultiPassInputIterator.html
+END
+ref_ct_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/ref_ct_test.cpp
+END
+shared_container_iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/shared_container_iterator.html
+END
+throw_exception.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/throw_exception.html
+END
+verify_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/verify_test.cpp
+END
+generator_iterator.htm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/generator_iterator.htm
+END
+base_from_member.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/base_from_member.html
+END
+noncopyable_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/noncopyable_test.cpp
+END
+current_function.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/current_function.html
+END
+value_init_test_fail1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/value_init_test_fail1.cpp
+END
+iterators_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/iterators_test.cpp
+END
+ref_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/ref_test.cpp
+END
+value_init_test_fail2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/value_init_test_fail2.cpp
+END
+value_init_test_fail3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/value_init_test_fail3.cpp
+END
+Collection.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/Collection.html
+END
+operators_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/operators_test.cpp
+END
+compressed_pair_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/compressed_pair_test.cpp
+END
+shared_iterator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/shared_iterator_test.cpp
+END
+compressed_pair.htm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/compressed_pair.htm
+END
+enable_if.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/enable_if.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/index.html
+END
+OptionalPointee.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/OptionalPointee.html
+END
+addressof_test2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/addressof_test2.cpp
+END
+addressof_fn_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/addressof_fn_test.cpp
+END
+CopyConstructible.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/utility/CopyConstructible.html
+END

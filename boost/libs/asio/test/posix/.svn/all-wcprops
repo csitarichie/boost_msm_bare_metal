@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/posix
+END
+basic_descriptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/posix/basic_descriptor.cpp
+END
+descriptor_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/posix/descriptor_base.cpp
+END
+stream_descriptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/posix/stream_descriptor.cpp
+END
+stream_descriptor_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/posix/stream_descriptor_service.cpp
+END
+basic_stream_descriptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/asio/test/posix/basic_stream_descriptor.cpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/advanced/customize
+END
+extract_from.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/advanced/customize/extract_from.html
+END
+is_container.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/advanced/customize/is_container.html
+END
+iterate.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/advanced/customize/iterate.html
+END
+clear_value.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/advanced/customize/clear_value.html
+END
+assign_to.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/advanced/customize/assign_to.html
+END
+auto.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/advanced/customize/auto.html
+END
+store_value.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/advanced/customize/store_value.html
+END
+transform.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/advanced/customize/transform.html
+END

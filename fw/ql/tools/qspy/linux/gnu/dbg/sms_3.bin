@@ -1,0 +1,328 @@
+QSPY host application 4.1.00
+Copyright (c) Quantum Leaps, LLC.
+Sun Jun 13 20:33:24 2010
+
+-T 4
+-O 4
+-F 4
+-S 1
+-E 2
+-Q 1
+-P 2
+-B 2
+-C 2
+
+           Obj Dic: 200006A0->l_smlPoolSto
+           Obj Dic: 200006C8->l_medPoolSto
+           Obj Dic: 20000718->l_lwIPMgrQueueSto
+           Obj Dic: 20000740->l_philoQueueSto[0]
+           Obj Dic: 20000754->l_philoQueueSto[1]
+           Obj Dic: 20000768->l_philoQueueSto[2]
+           Obj Dic: 2000077C->l_philoQueueSto[3]
+           Obj Dic: 20000790->l_philoQueueSto[4]
+           Obj Dic: 200007A4->l_tableQueueSto
+           Obj Dic: 200010D1->sPaused
+           Obj Dic: 200010E0->sStopped
+           Obj Dic: 200010DA->sOpen
+           Obj Dic: 200010D7->sEmpty
+           Obj Dic: 200010D4->sPlaying
+           Fun Dic: 00001531->aStart_playback
+           Fun Dic: 0000132D->aOpen_drawer
+           Fun Dic: 00001391->aClose_drawer
+           Fun Dic: 0000145D->aStore_cd_info
+           Fun Dic: 0000165D->aStop_playback
+           Fun Dic: 00001595->aPause_playback
+           Fun Dic: 000012C9->aStop_and_open
+           Fun Dic: 000016C1->aStopped_again
+           Fun Dic: 000014C1->aGood_disk_format
+           Fun Dic: 000013F5->aAuto_start
+           Fun Dic: 000015F9->aResume_playback
+           Obj Dic: 200010B4->&msmPlayer
+           Obj Dic: 20001108->&eOpenClose
+           Obj Dic: 20001104->&eCdDetectedDiskDvd
+           Obj Dic: 20001100->&eCdDetectedDiskCD
+           Obj Dic: 200010FC->&ePlay
+           Obj Dic: 200010F8->&ePause
+           Obj Dic: 200010F4->&eEndPause
+           Obj Dic: 200010F0->&eStop
+0000500000 User000: msmPlayer sEmpty 
+0000500000 User005: msmPlayer aOpen_drawer eOpenClose 
+0000500000 User000: msmPlayer sOpen 
+0000500000 User005: msmPlayer aClose_drawer eOpenClose 
+0000500000 User000: msmPlayer sEmpty 
+0000500000 User004: msmPlayer aAuto_start eCdDetectedDiskDvd 
+0000500000 User004: msmPlayer aGood_disk_format eCdDetectedDiskDvd 
+0000500000 User000: msmPlayer sEmpty 
+0000500000 User004: msmPlayer aAuto_start eCdDetectedDiskCD 
+0000500000 User004: msmPlayer aGood_disk_format eCdDetectedDiskCD 
+0000500000 User005: msmPlayer aStore_cd_info eCdDetectedDiskCD 
+0000500000 User000: msmPlayer sStopped 
+0000500000 User005: msmPlayer aStart_playback ePlay 
+0000500000 User000: msmPlayer sPlaying 
+0000500000 User005: msmPlayer aPause_playback ePause 
+0000500000 User000: msmPlayer sPaused 
+0000500000 User005: msmPlayer aResume_playback eEndPause 
+0000500000 User000: msmPlayer sPlaying 
+0000500000 User000: msmPlayer sPlaying 
+0000500000 User005: msmPlayer aStop_playback eStop 
+0000500000 User000: msmPlayer sStopped 
+0000500000 User000: msmPlayer sStopped 
+           TICK   : Ctr=         1
+           TICK   : Ctr=         2
+           TICK   : Ctr=         3
+           TICK   : Ctr=         4
+           TICK   : Ctr=         5
+           TICK   : Ctr=         6
+           TICK   : Ctr=         7
+           TICK   : Ctr=         8
+           TICK   : Ctr=         9
+           TICK   : Ctr=        10
+*** Dropped 191 records
+           Obj Dic: 200006A0->l_smlPoolSto
+           Obj Dic: 200006C8->l_medPoolSto
+           Obj Dic: 20000718->l_lwIPMgrQueueSto
+           Obj Dic: 20000740->l_philoQueueSto[0]
+           Obj Dic: 20000754->l_philoQueueSto[1]
+           Obj Dic: 20000768->l_philoQueueSto[2]
+           Obj Dic: 2000077C->l_philoQueueSto[3]
+           Obj Dic: 20000790->l_philoQueueSto[4]
+           Obj Dic: 200007A4->l_tableQueueSto
+           Obj Dic: 200010D1->sPaused
+           Obj Dic: 200010E0->sStopped
+           Obj Dic: 200010DA->sOpen
+           Obj Dic: 200010D7->sEmpty
+           Obj Dic: 200010D4->sPlaying
+           Fun Dic: 00001531->aStart_playback
+           Fun Dic: 0000132D->aOpen_drawer
+           Fun Dic: 00001391->aClose_drawer
+           Fun Dic: 0000145D->aStore_cd_info
+           Fun Dic: 0000165D->aStop_playback
+           Fun Dic: 00001595->aPause_playback
+           Fun Dic: 000012C9->aStop_and_open
+           Fun Dic: 000016C1->aStopped_again
+           Fun Dic: 000014C1->aGood_disk_format
+           Fun Dic: 000013F5->aAuto_start
+           Fun Dic: 000015F9->aResume_playback
+           Obj Dic: 200010B4->&msmPlayer
+           Obj Dic: 20001108->&eOpenClose
+           Obj Dic: 20001104->&eCdDetectedDiskDvd
+           Obj Dic: 20001100->&eCdDetectedDiskCD
+           Obj Dic: 200010FC->&ePlay
+           Obj Dic: 200010F8->&ePause
+           Obj Dic: 200010F4->&eEndPause
+           Obj Dic: 200010F0->&eStop
+0000500000 User000: msmPlayer sEmpty 
+0000500000 User005: msmPlayer aOpen_drawer eOpenClose 
+0000500000 User000: msmPlayer sOpen 
+0000500000 User005: msmPlayer aClose_drawer eOpenClose 
+0000500000 User000: msmPlayer sEmpty 
+0000500000 User004: msmPlayer aAuto_start eCdDetectedDiskDvd 
+0000500000 User004: msmPlayer aGood_disk_format eCdDetectedDiskDvd 
+0000500000 User000: msmPlayer sEmpty 
+0000500000 User004: msmPlayer aAuto_start eCdDetectedDiskCD 
+0000500000 User004: msmPlayer aGood_disk_format eCdDetectedDiskCD 
+0000500000 User005: msmPlayer aStore_cd_info eCdDetectedDiskCD 
+0000500000 User000: msmPlayer sStopped 
+0000500000 User005: msmPlayer aStart_playback ePlay 
+0000500000 User000: msmPlayer sPlaying 
+0000500000 User005: msmPlayer aPause_playback ePause 
+0000500000 User000: msmPlayer sPaused 
+0000500000 User005: msmPlayer aResume_playback eEndPause 
+0000500000 User000: msmPlayer sPlaying 
+0000500000 User000: msmPlayer sPlaying 
+0000500000 User005: msmPlayer aStop_playback eStop 
+0000500000 User000: msmPlayer sStopped 
+0000500000 User000: msmPlayer sStopped 
+           TICK   : Ctr=         1
+           TICK   : Ctr=         2
+           TICK   : Ctr=         3
+           TICK   : Ctr=         4
+           TICK   : Ctr=         5
+           TICK   : Ctr=         6
+           TICK   : Ctr=         7
+           TICK   : Ctr=         8
+           TICK   : Ctr=         9
+           TICK   : Ctr=        10
+           TICK   : Ctr=        11
+           TICK   : Ctr=        12
+           TICK   : Ctr=        13
+           TICK   : Ctr=        14
+           TICK   : Ctr=        15
+           TICK   : Ctr=        16
+           TICK   : Ctr=        17
+           TICK   : Ctr=        18
+           TICK   : Ctr=        19
+           TICK   : Ctr=        20
+           TICK   : Ctr=        21
+           TICK   : Ctr=        22
+           TICK   : Ctr=        23
+           TICK   : Ctr=        24
+           TICK   : Ctr=        25
+           TICK   : Ctr=        26
+           TICK   : Ctr=        27
+           TICK   : Ctr=        28
+           TICK   : Ctr=        29
+           TICK   : Ctr=        30
+           TICK   : Ctr=        31
+           TICK   : Ctr=        32
+           TICK   : Ctr=        33
+           TICK   : Ctr=        34
+           TICK   : Ctr=        35
+           TICK   : Ctr=        36
+           TICK   : Ctr=        37
+           TICK   : Ctr=        38
+           TICK   : Ctr=        39
+           TICK   : Ctr=        40
+           TICK   : Ctr=        41
+           TICK   : Ctr=        42
+           TICK   : Ctr=        43
+           TICK   : Ctr=        44
+           TICK   : Ctr=        45
+           TICK   : Ctr=        46
+           TICK   : Ctr=        47
+           TICK   : Ctr=        48
+           TICK   : Ctr=        49
+           TICK   : Ctr=        50
+           TICK   : Ctr=        51
+           TICK   : Ctr=        52
+           TICK   : Ctr=        53
+           TICK   : Ctr=        54
+           TICK   : Ctr=        55
+           TICK   : Ctr=        56
+           TICK   : Ctr=        57
+           TICK   : Ctr=        58
+           TICK   : Ctr=        59
+           TICK   : Ctr=        60
+           TICK   : Ctr=        61
+           TICK   : Ctr=        62
+           TICK   : Ctr=        63
+           TICK   : Ctr=        64
+           TICK   : Ctr=        65
+           TICK   : Ctr=        66
+           TICK   : Ctr=        67
+           TICK   : Ctr=        68
+           TICK   : Ctr=        69
+           TICK   : Ctr=        70
+           TICK   : Ctr=        71
+           TICK   : Ctr=        72
+           TICK   : Ctr=        73
+           TICK   : Ctr=        74
+           TICK   : Ctr=        75
+           TICK   : Ctr=        76
+           TICK   : Ctr=        77
+           TICK   : Ctr=        78
+           TICK   : Ctr=        79
+           TICK   : Ctr=        80
+           TICK   : Ctr=        81
+           TICK   : Ctr=        82
+           TICK   : Ctr=        83
+           TICK   : Ctr=        84
+           TICK   : Ctr=        85
+           TICK   : Ctr=        86
+           TICK   : Ctr=        87
+           TICK   : Ctr=        88
+           TICK   : Ctr=        89
+           TICK   : Ctr=        90
+           TICK   : Ctr=        91
+           TICK   : Ctr=        92
+           TICK   : Ctr=        93
+           TICK   : Ctr=        94
+           TICK   : Ctr=        95
+           TICK   : Ctr=        96
+           TICK   : Ctr=        97
+           TICK   : Ctr=        98
+           TICK   : Ctr=        99
+           TICK   : Ctr=       100
+           TICK   : Ctr=       101
+           TICK   : Ctr=       102
+           TICK   : Ctr=       103
+           TICK   : Ctr=       104
+           TICK   : Ctr=       105
+           TICK   : Ctr=       106
+           TICK   : Ctr=       107
+           TICK   : Ctr=       108
+           TICK   : Ctr=       109
+           TICK   : Ctr=       110
+           TICK   : Ctr=       111
+           TICK   : Ctr=       112
+           TICK   : Ctr=       113
+           TICK   : Ctr=       114
+           TICK   : Ctr=       115
+           TICK   : Ctr=       116
+           TICK   : Ctr=       117
+           TICK   : Ctr=       118
+           TICK   : Ctr=       119
+           TICK   : Ctr=       120
+           TICK   : Ctr=       121
+           TICK   : Ctr=       122
+           TICK   : Ctr=       123
+           TICK   : Ctr=       124
+           TICK   : Ctr=       125
+           TICK   : Ctr=       126
+           TICK   : Ctr=       127
+           TICK   : Ctr=       128
+           TICK   : Ctr=       129
+           TICK   : Ctr=       130
+           TICK   : Ctr=       131
+           TICK   : Ctr=       132
+           TICK   : Ctr=       133
+           TICK   : Ctr=       134
+           TICK   : Ctr=       135
+           TICK   : Ctr=       136
+           TICK   : Ctr=       137
+           TICK   : Ctr=       138
+           TICK   : Ctr=       139
+           TICK   : Ctr=       140
+           TICK   : Ctr=       141
+           TICK   : Ctr=       142
+           TICK   : Ctr=       143
+           TICK   : Ctr=       144
+           TICK   : Ctr=       145
+           TICK   : Ctr=       146
+           TICK   : Ctr=       147
+           TICK   : Ctr=       148
+           TICK   : Ctr=       149
+           TICK   : Ctr=       150
+           TICK   : Ctr=       151
+           TICK   : Ctr=       152
+           TICK   : Ctr=       153
+           TICK   : Ctr=       154
+           TICK   : Ctr=       155
+           TICK   : Ctr=       156
+           TICK   : Ctr=       157
+           TICK   : Ctr=       158
+           TICK   : Ctr=       159
+           TICK   : Ctr=       160
+           TICK   : Ctr=       161
+           TICK   : Ctr=       162
+           TICK   : Ctr=       163
+           TICK   : Ctr=       164
+           TICK   : Ctr=       165
+           TICK   : Ctr=       166
+           TICK   : Ctr=       167
+           TICK   : Ctr=       168
+           TICK   : Ctr=       169
+           TICK   : Ctr=       170
+           TICK   : Ctr=       171
+           TICK   : Ctr=       172
+           TICK   : Ctr=       173
+           TICK   : Ctr=       174
+           TICK   : Ctr=       175
+           TICK   : Ctr=       176
+           TICK   : Ctr=       177
+           TICK   : Ctr=       178
+           TICK   : Ctr=       179
+           TICK   : Ctr=       180
+           TICK   : Ctr=       181
+           TICK   : Ctr=       182
+           TICK   : Ctr=       183
+           TICK   : Ctr=       184
+           TICK   : Ctr=       185
+           TICK   : Ctr=       186
+           TICK   : Ctr=       187
+           TICK   : Ctr=       188
+           TICK   : Ctr=       189
+           TICK   : Ctr=       190
+           TICK   : Ctr=       191
+           TICK   : Ctr=       192
+         

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/jam/src/boehm_gc/Mac_files
+END
+dataend.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/jam/src/boehm_gc/Mac_files/dataend.c
+END
+datastart.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/jam/src/boehm_gc/Mac_files/datastart.c
+END
+MacOS_Test_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/jam/src/boehm_gc/Mac_files/MacOS_Test_config.h
+END
+MacOS_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/jam/src/boehm_gc/Mac_files/MacOS_config.h
+END

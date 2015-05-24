@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="62">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <df name="dpp" root="../../fw/ql/examples/80x86/linux/gnu/dpp">
+      <in>bsp.cpp</in>
+      <in>bsp.h</in>
+      <in>dpp.h</in>
+      <in>main.cpp</in>
+      <in>philo.cpp</in>
+      <in>table.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>../../fw/ql/examples/80x86/linux/gnu/dpp/Makefile</itemPath>
+      <itemPath>example_dpp-Makefile.mk</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject|build|test|rel|spy|dbg)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>../../fw/ql/examples/80x86/linux/gnu/dpp</Elem>
+  </sourceRootList>
+  <projectmakefile>example_dpp-Makefile.mk</projectmakefile>
+  <confs>
+    <conf name="Debug" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>../../fw/ql/examples/80x86/linux/gnu/dpp</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>../../fw/ql/examples/80x86/linux/gnu/dpp/dbg/dpp</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>../../fw/ql/examples/80x86/linux/gnu/dpp</pElem>
+              <pElem>../../fw/ql/include</pElem>
+              <pElem>../../fw/ql/ports/80x86/linux/gnu</pElem>
+            </incDir>
+          </ccTool>
+        </makeTool>
+        <requiredProjects>
+          <makeArtifact PL="../Qf"
+                        CT="0"
+                        CN="Debug"
+                        AC="false"
+                        BL="true"
+                        WD="../Qf"
+                        BC="${MAKE}  -f Qf-Makefile.mk CONF=Debug"
+                        CC="${MAKE}  -f Qf-Makefile.mk CONF=Debug clean"
+                        OP="../../fw/ql/ports/80x86/linux/gnu/dbg/libqf.a">
+          </makeArtifact>
+          <makeArtifact PL="../Qep"
+                        CT="0"
+                        CN="Debug"
+                        AC="false"
+                        BL="true"
+                        WD="../Qep"
+                        BC="${MAKE}  -f Qep-Makefile.mk CONF=Debug"
+                        CC="${MAKE}  -f Qep-Makefile.mk CONF=Debug clean"
+                        OP="../../fw/ql/ports/80x86/linux/gnu/dbg/libqep.a">
+          </makeArtifact>
+        </requiredProjects>
+      </makefileType>
+    </conf>
+    <conf name="Release" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>../../fw/ql/examples/80x86/linux/gnu/dpp</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile rel</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile rel_clean</cleanCommand>
+          <executablePath>../../fw/ql/examples/80x86/linux/gnu/dpp/dbg/dpp</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>../../fw/ql/examples/80x86/linux/gnu/dpp</pElem>
+              <pElem>../../fw/ql/include</pElem>
+            </incDir>
+          </ccTool>
+        </makeTool>
+        <requiredProjects>
+          <makeArtifact PL="../Qf"
+                        CT="0"
+                        CN="Release"
+                        AC="false"
+                        BL="true"
+                        WD="../Qf"
+                        BC="${MAKE}  -f Qf-Makefile.mk CONF=Release"
+                        CC="${MAKE}  -f Qf-Makefile.mk CONF=Release clean"
+                        OP="../../fw/ql/ports/80x86/linux/gnu/dbg/libqf.a">
+          </makeArtifact>
+          <makeArtifact PL="../Qep"
+                        CT="0"
+                        CN="Release"
+                        AC="true"
+                        BL="true"
+                        WD="../Qep"
+                        BC="${MAKE}  -f Qep-Makefile.mk CONF=Release"
+                        CC="${MAKE}  -f Qep-Makefile.mk CONF=Release clean"
+                        OP="../../fw/ql/ports/80x86/linux/gnu/rel/libqep.a">
+          </makeArtifact>
+        </requiredProjects>
+      </makefileType>
+    </conf>
+    <conf name="Spy" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>../../fw/ql/examples/80x86/linux/gnu/dpp</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile spy</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile spy_clean</cleanCommand>
+          <executablePath>../../fw/ql/examples/80x86/linux/gnu/dpp/spy/dpp</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>../../fw/ql/examples/80x86/linux/gnu/dpp</pElem>
+              <pElem>../../fw/ql/include</pElem>
+              <pElem>../../fw/ql/ports/80x86/linux/gnu</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>Q_SPY</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+        <requiredProjects>
+          <makeArtifact PL="../Qf"
+                        CT="0"
+                        CN="Spy"
+                        AC="true"
+                        BL="true"
+                        WD="../Qf"
+                        BC="${MAKE}  -f Qf-Makefile.mk CONF=Spy"
+                        CC="${MAKE}  -f Qf-Makefile.mk CONF=Spy clean"
+                        OP="../../fw/ql/ports/80x86/linux/gnu/dbg/libqf.a">
+          </makeArtifact>
+          <makeArtifact PL="../Qep"
+                        CT="0"
+                        CN="Spy"
+                        AC="false"
+                        BL="true"
+                        WD="../Qep"
+                        BC="${MAKE}  -f Qep-Makefile.mk CONF=Spy"
+                        CC="${MAKE}  -f Qep-Makefile.mk CONF=Spy clean"
+                        OP="../../fw/ql/ports/80x86/linux/gnu/spy/libqep.a">
+          </makeArtifact>
+          <makeArtifact PL="../Qspy"
+                        CT="0"
+                        CN="Spy"
+                        AC="true"
+                        BL="true"
+                        WD="../Qspy"
+                        BC="${MAKE}  -f Qspy-Makefile.mk CONF=Spy"
+                        CC="${MAKE}  -f Qspy-Makefile.mk CONF=Spy clean"
+                        OP="../../fw/ql/ports/80x86/linux/gnu/spy/libqs.a">
+          </makeArtifact>
+        </requiredProjects>
+      </makefileType>
+    </conf>
+  </confs>
+</configurationDescriptor>

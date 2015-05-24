@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/src
+END
+boost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/src/boost.xml
+END
+reference.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/src/reference.css
+END
+boostbook.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/src/boostbook.css
+END
+docutils.css
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/doc/src/docutils.css
+END

@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 64
+*.pyc
+*.exp
+*.lib
+*.obj
+*.arg
+*.dll
+.sconsign
+cache
+*.cpp
+*.pch
+
+END

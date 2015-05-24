@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/ref/non_std_strings/mfc_strings
+END
+mfc_intro.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/ref/non_std_strings/mfc_strings/mfc_intro.html
+END
+mfc_regex_create.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/ref/non_std_strings/mfc_strings/mfc_regex_create.html
+END
+mfc_regex_types.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/ref/non_std_strings/mfc_strings/mfc_regex_types.html
+END
+mfc_algo.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/ref/non_std_strings/mfc_strings/mfc_algo.html
+END
+mfc_iter.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/ref/non_std_strings/mfc_strings/mfc_iter.html
+END

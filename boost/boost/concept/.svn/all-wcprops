@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/concept
+END
+requires.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/concept/requires.hpp
+END
+assert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/concept/assert.hpp
+END
+usage.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/concept/usage.hpp
+END

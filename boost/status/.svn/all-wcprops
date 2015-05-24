@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/status
+END
+expected_results.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/status/expected_results.xml
+END
+explicit-failures-markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/status/explicit-failures-markup.xml
+END
+explicit-failures.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/status/explicit-failures.xsd
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/status/Jamfile.v2
+END

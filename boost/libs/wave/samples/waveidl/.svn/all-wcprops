@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl
+END
+idl_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl/idl_config.hpp
+END
+idl_version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl/idl_version.hpp
+END
+instantiate_re2c_lexer_str.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl/instantiate_re2c_lexer_str.cpp
+END
+instantiate_defined_grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl/instantiate_defined_grammar.cpp
+END
+idl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl/idl.cpp
+END
+instantiate_cpp_grammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl/instantiate_cpp_grammar.cpp
+END
+instantiate_predef_macros.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl/instantiate_predef_macros.cpp
+END
+idl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl/idl.hpp
+END
+instantiate_re2c_lexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/wave/samples/waveidl/instantiate_re2c_lexer.cpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/doc/xml
+END
+multi_array_ref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/doc/xml/multi_array_ref.xml
+END
+multi_array.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/doc/xml/multi_array.xml
+END
+MultiArray.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/doc/xml/MultiArray.xml
+END
+const_multi_array_ref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/doc/xml/const_multi_array_ref.xml
+END
+reference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/multi_array/doc/xml/reference.xml
+END

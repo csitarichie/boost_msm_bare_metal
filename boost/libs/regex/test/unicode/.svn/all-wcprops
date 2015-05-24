@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/test/unicode
+END
+unicode_iterator_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/test/unicode/unicode_iterator_test.cpp
+END

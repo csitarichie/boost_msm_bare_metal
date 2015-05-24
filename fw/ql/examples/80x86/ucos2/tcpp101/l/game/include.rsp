@@ -1,0 +1,1 @@
+-I..\..\..\..\..\..\include -I..\..\..\..\..\..\ports\80x86\ucos2\tcpp101\l -I. -I..\..\..\..\..\..\ports\80x86\ucos2\tcpp101\l\ucos2.86

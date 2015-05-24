@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/project-test4/lib2
+END
+jamfile2.jam
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/project-test4/lib2/jamfile2.jam
+END
+jamfile.jam
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/project-test4/lib2/jamfile.jam
+END

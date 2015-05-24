@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 53
+bin
+res
+run_res
+run_test.bat
+run_tests.bat
+pattern.*
+
+END

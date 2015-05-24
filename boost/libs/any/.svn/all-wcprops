@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/any
+END
+test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/any/test.hpp
+END
+any_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/any/any_test.cpp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/any/index.html
+END

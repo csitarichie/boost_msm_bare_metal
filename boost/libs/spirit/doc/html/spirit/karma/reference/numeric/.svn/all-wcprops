@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/karma/reference/numeric
+END
+boolean.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/karma/reference/numeric/boolean.html
+END
+signed_int.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/karma/reference/numeric/signed_int.html
+END
+unsigned_int.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/karma/reference/numeric/unsigned_int.html
+END
+real_number.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/karma/reference/numeric/real_number.html
+END

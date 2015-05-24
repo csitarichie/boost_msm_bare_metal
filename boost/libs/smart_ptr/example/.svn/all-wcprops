@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/smart_ptr/example
+END
+scoped_ptr_example.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/smart_ptr/example/scoped_ptr_example.hpp
+END
+shared_ptr_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/smart_ptr/example/shared_ptr_example.cpp
+END
+shared_ptr_example2_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/smart_ptr/example/shared_ptr_example2_test.cpp
+END
+shared_ptr_example2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/smart_ptr/example/shared_ptr_example2.cpp
+END
+scoped_ptr_example_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/smart_ptr/example/scoped_ptr_example_test.cpp
+END
+scoped_ptr_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/smart_ptr/example/scoped_ptr_example.cpp
+END
+shared_ptr_example2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/smart_ptr/example/shared_ptr_example2.hpp
+END

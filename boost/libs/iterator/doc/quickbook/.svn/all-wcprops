@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook
+END
+facade.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/facade.qbk
+END
+traits.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/traits.qbk
+END
+archetypes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/archetypes.qbk
+END
+indirect_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/indirect_iterator.qbk
+END
+utilities.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/utilities.qbk
+END
+zip_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/zip_iterator.qbk
+END
+function_output_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/function_output_iterator.qbk
+END
+concepts.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/concepts.qbk
+END
+permutation_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/permutation_iterator.qbk
+END
+shared_container_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/shared_container_iterator.qbk
+END
+reverse_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/reverse_iterator.qbk
+END
+transform_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/transform_iterator.qbk
+END
+facade_tutorial.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/facade_tutorial.qbk
+END
+concept_checking.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/concept_checking.qbk
+END
+specialized_adaptors.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/specialized_adaptors.qbk
+END
+iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/iterator.qbk
+END
+adaptor.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/adaptor.qbk
+END
+filter_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/filter_iterator.qbk
+END
+counting_iterator.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/doc/quickbook/counting_iterator.qbk
+END

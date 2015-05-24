@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/filesystem/test/msvc/deprecated_test
+END
+deprecated_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/filesystem/test/msvc/deprecated_test/deprecated_test.vcproj
+END

@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence
+END
+as_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/as_map.cpp
+END
+adapt_struct_named.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_struct_named.cpp
+END
+tuple_element.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tuple_element.cpp
+END
+adapt_assoc_tpl_struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_assoc_tpl_struct.cpp
+END
+reverse_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/reverse_view.cpp
+END
+list_comparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/list_comparison.cpp
+END
+define_assoc_tpl_struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/define_assoc_tpl_struct.cpp
+END
+transform_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/transform_view.cpp
+END
+make_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/make_list.cpp
+END
+repetitive_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/repetitive_view.cpp
+END
+adapt_assoc_class_named.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_assoc_class_named.cpp
+END
+vector_construction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_construction.cpp
+END
+map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/map.cpp
+END
+as_set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/as_set.cpp
+END
+test_deduce_sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/test_deduce_sequence.cpp
+END
+vector_value_at.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_value_at.cpp
+END
+adapt_assoc_struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_assoc_struct.cpp
+END
+define_assoc_struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/define_assoc_struct.cpp
+END
+tie.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tie.hpp
+END
+adapt_assoc_struct_named.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_assoc_struct_named.cpp
+END
+set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/set.cpp
+END
+vector_comparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_comparison.cpp
+END
+vector_copy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_copy.cpp
+END
+as_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/as_list.cpp
+END
+vector_make.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_make.cpp
+END
+tuple_construction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tuple_construction.cpp
+END
+vector_tie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_tie.cpp
+END
+mutate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/mutate.hpp
+END
+deque_tie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deque_tie.cpp
+END
+iterator_range.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/iterator_range.cpp
+END
+swap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/swap.cpp
+END
+vector_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_iterator.cpp
+END
+list_tie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/list_tie.cpp
+END
+define_tpl_struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/define_tpl_struct.cpp
+END
+deque_construction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deque_construction.cpp
+END
+vector_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_misc.cpp
+END
+adapt_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_class.cpp
+END
+vector_n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_n.cpp
+END
+deduce_sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deduce_sequence.cpp
+END
+deque_value_at.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deque_value_at.cpp
+END
+tuple_copy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tuple_copy.cpp
+END
+list_construction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/list_construction.cpp
+END
+tuple_make.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tuple_make.cpp
+END
+nview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/nview.cpp
+END
+list_value_at.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/list_value_at.cpp
+END
+front_extended_deque.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/front_extended_deque.cpp
+END
+tr1_tuple_auto_conv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tr1_tuple_auto_conv.cpp
+END
+adapt_tpl_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_tpl_class.cpp
+END
+deque_copy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deque_copy.cpp
+END
+define_struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/define_struct.cpp
+END
+make_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/make_vector.cpp
+END
+construction.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/construction.hpp
+END
+deque_make.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deque_make.cpp
+END
+cons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/cons.cpp
+END
+back_extended_deque.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/back_extended_deque.cpp
+END
+tuple_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tuple_misc.cpp
+END
+list_copy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/list_copy.cpp
+END
+std_pair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/std_pair.cpp
+END
+value_at.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/value_at.hpp
+END
+adapt_assoc_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_assoc_class.cpp
+END
+list_make.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/list_make.cpp
+END
+tuple_mutate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tuple_mutate.cpp
+END
+single_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/single_view.cpp
+END
+deque_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deque_iterator.cpp
+END
+deque_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deque_misc.cpp
+END
+zip_view2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/zip_view2.cpp
+END
+filter_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/filter_view.cpp
+END
+comparison.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/comparison.hpp
+END
+copy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/copy.hpp
+END
+make.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/make.hpp
+END
+deque_mutate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deque_mutate.cpp
+END
+list_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/list_iterator.cpp
+END
+boost_array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/boost_array.cpp
+END
+adapt_assoc_tpl_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_assoc_tpl_class.cpp
+END
+as_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/as_vector.cpp
+END
+list_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/list_misc.cpp
+END
+list_mutate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/list_mutate.cpp
+END
+tuple_tie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tuple_tie.cpp
+END
+iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/iterator.hpp
+END
+boost_tuple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/boost_tuple.cpp
+END
+zip_view_ignore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/zip_view_ignore.cpp
+END
+misc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/misc.hpp
+END
+io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/io.cpp
+END
+adapt_tpl_struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_tpl_struct.cpp
+END
+joint_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/joint_view.cpp
+END
+map_tie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/map_tie.cpp
+END
+array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/array.cpp
+END
+vector_mutate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/vector_mutate.cpp
+END
+adapt_class_named.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_class_named.cpp
+END
+tuple_comparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/tuple_comparison.cpp
+END
+zip_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/zip_view.cpp
+END
+adapt_struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/adapt_struct.cpp
+END
+deque_comparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/fusion/test/sequence/deque_comparison.cpp
+END

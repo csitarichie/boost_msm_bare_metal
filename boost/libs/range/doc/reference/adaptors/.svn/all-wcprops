@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors
+END
+copied.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/copied.qbk
+END
+sliced.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/sliced.qbk
+END
+replaced.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/replaced.html
+END
+reversed.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/reversed.html
+END
+indexed.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/indexed.html
+END
+map_keys.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/map_keys.qbk
+END
+indirected.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/indirected.qbk
+END
+uniqued.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/uniqued.qbk
+END
+transformed.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/transformed.html
+END
+adjacent_filtered.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/adjacent_filtered.html
+END
+replaced.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/replaced.qbk
+END
+reversed.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/reversed.qbk
+END
+indexed.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/indexed.qbk
+END
+map_values.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/map_values.html
+END
+tokenized.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/tokenized.html
+END
+replaced_if.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/replaced_if.html
+END
+transformed.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/transformed.qbk
+END
+filtered.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/filtered.html
+END
+strided.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/strided.html
+END
+adjacent_filtered.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/adjacent_filtered.qbk
+END
+copied.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/copied.html
+END
+sliced.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/sliced.html
+END
+map_values.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/map_values.qbk
+END
+tokenized.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/tokenized.qbk
+END
+replaced_if.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/replaced_if.qbk
+END
+filtered.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/filtered.qbk
+END
+strided.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/strided.qbk
+END
+map_keys.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/map_keys.html
+END
+indirected.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/indirected.html
+END
+uniqued.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/adaptors/uniqued.html
+END

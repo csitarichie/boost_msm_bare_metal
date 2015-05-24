@@ -1,0 +1,21 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 2
+Id
+K 13
+svn:mergeinfo
+V 640
+/devel/libs/utility/swap/test/std_bitset.cpp:38327-38328
+/sandbox-branches/bhy/py3k/libs/utility/swap/test/std_bitset.cpp:52115-56304
+/sandbox-branches/intrusive_fix_SunCC/libs/utility/swap/test/std_bitset.cpp:55764-55783
+/trunk/boost/libs/utility/swap/test/std_bitset.cpp:7622-38326
+/trunk/libs/utility/swap/test/std_bitset.cpp:38329-42233,42235-45255,45257-48619,48621-61076,61100-61101,61104,61117,61122-61124,61128,61131,61152,61165,61171-61172,61185,61212-61214,61218-61219,61231-61232,61239,61245,61263-61264,61276,61286-61287,61326,61351-61357,61368-61369,61371-61373,61381,61384,61398,61405,61449,61466-61467,61643,61674,61717,61766
+K 13
+svn:mime-type
+V 10
+text/plain
+END

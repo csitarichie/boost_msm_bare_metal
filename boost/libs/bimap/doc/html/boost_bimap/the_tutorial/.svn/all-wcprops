@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial
+END
+additional_information.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial/additional_information.html
+END
+complete_instantiation_scheme.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial/complete_instantiation_scheme.html
+END
+the_collection_of_relations_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial/the_collection_of_relations_type.html
+END
+discovering_the_bimap_framework.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial/discovering_the_bimap_framework.html
+END
+bimaps_with_user_defined_names.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial/bimaps_with_user_defined_names.html
+END
+differences_with_standard_maps.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial/differences_with_standard_maps.html
+END
+controlling_collection_types.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial/controlling_collection_types.html
+END
+unconstrained_sets.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial/unconstrained_sets.html
+END
+useful_functions.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/doc/html/boost_bimap/the_tutorial/useful_functions.html
+END

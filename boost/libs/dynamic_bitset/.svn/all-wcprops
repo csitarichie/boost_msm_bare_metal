@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/dynamic_bitset
+END
+bitset_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/dynamic_bitset/bitset_test.hpp
+END
+dynamic_bitset.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/dynamic_bitset/dynamic_bitset.html
+END
+dyn_bitset_unit_tests1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/dynamic_bitset/dyn_bitset_unit_tests1.cpp
+END
+dyn_bitset_unit_tests2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/dynamic_bitset/dyn_bitset_unit_tests2.cpp
+END
+dyn_bitset_unit_tests3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/dynamic_bitset/dyn_bitset_unit_tests3.cpp
+END
+dyn_bitset_unit_tests4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/dynamic_bitset/dyn_bitset_unit_tests4.cpp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/dynamic_bitset/index.html
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/dynamic_bitset/Jamfile.v2
+END

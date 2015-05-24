@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example
+END
+transform_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/transform_iterator_example.cpp
+END
+reverse_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/reverse_iterator_example.cpp
+END
+permutation_iter_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/permutation_iter_example.cpp
+END
+func_output_iter_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/func_output_iter_example.cpp
+END
+filter_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/filter_iterator_example.cpp
+END
+counting_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/counting_iterator_example.cpp
+END
+node_iterator1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/node_iterator1.cpp
+END
+node_iterator2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/node_iterator2.cpp
+END
+node_iterator3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/node_iterator3.cpp
+END
+reverse_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/reverse_iterator.cpp
+END
+node_iterator1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/node_iterator1.hpp
+END
+node_iterator2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/node_iterator2.hpp
+END
+indirect_iterator_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/indirect_iterator_example.cpp
+END
+node_iterator3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/node_iterator3.hpp
+END
+node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/iterator/example/node.hpp
+END

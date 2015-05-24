@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bind
+END
+bind.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bind/bind.html
+END
+ref.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bind/ref.html
+END
+mem_fn.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bind/mem_fn.html
+END
+bind_as_compose.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bind/bind_as_compose.cpp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bind/index.html
+END
+bind_visitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bind/bind_visitor.cpp
+END

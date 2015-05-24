@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/project-test1
+END
+jamroot.jam
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/project-test1/jamroot.jam
+END
+standalone-project.jam
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/project-test1/standalone-project.jam
+END
+project-test1.jam
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/project-test1/project-test1.jam
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/project-test1/readme.txt
+END
+jamfile.jam
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/project-test1/jamfile.jam
+END

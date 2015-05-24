@@ -1,0 +1,21 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 280
+/devel/libs/maintainers.txt:38327-38328
+/sandbox-branches/bhy/py3k/libs/maintainers.txt:52115-56304
+/sandbox-branches/intrusive_fix_SunCC/libs/maintainers.txt:55764-55783
+/trunk/boost/libs/maintainers.txt:33417-38326
+/trunk/libs/maintainers.txt:38329-61540,61643,61674,61717,61766
+K 13
+svn:mime-type
+V 10
+text/plain
+END

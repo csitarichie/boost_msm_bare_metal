@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail
+END
+flyweight_core.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/flyweight_core.hpp
+END
+process_id.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/process_id.hpp
+END
+is_placeholder_expr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/is_placeholder_expr.hpp
+END
+recursive_lw_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/recursive_lw_mutex.hpp
+END
+nested_xxx_if_not_ph.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/nested_xxx_if_not_ph.hpp
+END
+default_value_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/default_value_policy.hpp
+END
+not_placeholder_expr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/not_placeholder_expr.hpp
+END
+dyn_perfect_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/dyn_perfect_fwd.hpp
+END
+pp_perfect_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/pp_perfect_fwd.hpp
+END
+value_tag.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/value_tag.hpp
+END
+perfect_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/flyweight/detail/perfect_fwd.hpp
+END

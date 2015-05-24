@@ -1,0 +1,149 @@
+__________________________________________________________________________
+
+Sun May 02 17:23:44 CEST 2010
+
+Free Memory: 12113 kB
+Total Memory: 16320 kB
+
+4 Command Line Args:
+0:  -f
+1:  /tmp/692048.tmp/mergeModuleLax11.properties
+2:  -l
+3:  en
+
+java.class.path:
+    /tmp/692048.tmp/SubInstaller1.zip
+    /tmp/install.dir.10912/InstallerData
+    /tmp/install.dir.10912/InstallerData/installer.zip
+
+ZGUtil.CLASS_PATH:
+    /tmp/692048.tmp/SubInstaller1.zip
+    /tmp/install.dir.10912/InstallerData
+    /tmp/install.dir.10912/InstallerData/installer.zip
+
+sun.boot.class.path:
+    /tmp/install.dir.10912/Linux/resource/jre/lib/rt.jar
+    /tmp/install.dir.10912/Linux/resource/jre/lib/i18n.jar
+    /tmp/install.dir.10912/Linux/resource/jre/lib/sunrsasign.jar
+    /tmp/install.dir.10912/Linux/resource/jre/lib/jsse.jar
+    /tmp/install.dir.10912/Linux/resource/jre/lib/jce.jar
+    /tmp/install.dir.10912/Linux/resource/jre/lib/charsets.jar
+    /tmp/install.dir.10912/Linux/resource/jre/classes
+
+java.ext.dirs:
+    /tmp/install.dir.10912/Linux/resource/jre/lib/ext
+
+java.version                  == 1.5.0_09 (Java 2+)
+java.vm.name                  == Java HotSpot(TM) Client VM
+java.vm.vendor                == Sun Microsystems Inc.
+java.vm.version               == 1.5.0_09-b03
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Sun Microsystems Inc.
+java.vm.specification.version == 1.0
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Sun Microsystems Inc.
+java.specification.version    == 1.5
+java.vendor                   == Sun Microsystems Inc.
+java.vendor.url               == http://java.sun.com/
+java.class.version            == 49.0
+java.compiler                 == null
+java.home                     == /tmp/install.dir.10912/Linux/resource/jre
+java.io.tmpdir                == /tmp
+os.name                       == Linux
+os.arch                       == i386
+os.version                    == 2.6.32-21-generic
+path.separator                == :
+file.separator                == /
+file.encoding                 == UTF-8
+user.name                     == root
+user.home                     == /root
+user.dir                      == /tmp/692048.tmp
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+Install Begin: Sun May 02 17:23:39 CEST 2010
+Install End: Sun May 02 17:23:44 CEST 2010
+
+Installed by InstallAnywhere 9.0 Enterprise Build 3428, by Macrovision
+
+
+User Interactions
+-----------------
+
+
+Summary
+-------
+
+Installation: Successful.
+
+19 Successes
+0 Warnings
+0 NonFatalErrors
+0 FatalErrors
+
+Action Notes:
+
+None
+
+Install Log Detail:
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Check Disk Space:         /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 938,446; Free Disk Space: 22,225,154,048
+
+Install Directory:        /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Directory:        /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Directory:        /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_Common/
+                          Status: SUCCESSFUL
+
+Install Uninstaller:      Sourcery G++ Common (Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+
+Install File:             /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_Common/Uninstall_Sourcery_Gxx_Common.lax
+                          Status: SUCCESSFUL
+
+Install Uninstaller:      Sourcery G++ Common (Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+Install Directory:        /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Directory:        /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install File:             /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features/Common.key
+                          Status: SUCCESSFUL
+
+Install Directory:        /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install File:             /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/remove-links-iamm-common_files-arm-2010q1-188-arm-none-eabi
+                          Status: SUCCESSFUL
+
+Install File:             /home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/create-links-iamm-common_files-arm-2010q1-188-arm-none-eabi
+                          Status: SUCCESSFUL
+
+
+Execute Target File:      Creating links...
+                          Status: SUCCESSFUL
+

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/algorithm
+END
+sublibs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/algorithm/sublibs
+END

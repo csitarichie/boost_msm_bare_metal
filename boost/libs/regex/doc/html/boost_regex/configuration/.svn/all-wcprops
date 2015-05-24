@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/configuration
+END
+locale.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/configuration/locale.html
+END
+tuning.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/configuration/tuning.html
+END
+algorithm.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/configuration/algorithm.html
+END
+compiler.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/configuration/compiler.html
+END
+linkage.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/configuration/linkage.html
+END

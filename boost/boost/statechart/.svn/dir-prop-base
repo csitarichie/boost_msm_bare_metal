@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 125
+/devel/boost/statechart:38327-38328
+/trunk/boost/boost/statechart:33417-38326
+/trunk/boost/statechart:38329-61704,61717,61766
+END

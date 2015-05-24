@@ -1,0 +1,86 @@
+10
+
+dir
+62045
+http://svn.boost.org/svn/boost/tags/release/Boost_1_43_0/libs/serialization
+http://svn.boost.org/svn/boost
+
+
+
+2010-05-04T17:49:50.065368Z
+61772
+danieljames
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8fc166d-592f-0410-95f2-cb63ce0dd405
+
+build
+dir
+
+test
+dir
+
+performance
+dir
+
+vc7ide
+dir
+
+doc
+dir
+
+src
+dir
+
+index.html
+file
+
+
+
+
+2010-05-16T21:10:41.450052Z
+ec3d3dc9a4dd5fac9034f943d49ae462
+2004-07-19T07:00:01.000000Z
+23760
+ramey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+438
+
+example
+dir
+
+util
+dir
+

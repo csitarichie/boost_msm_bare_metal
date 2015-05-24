@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/qi
+END
+compound_parsers.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/qi/compound_parsers.qbk
+END
+confix.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/qi/confix.qbk
+END
+primitive_parsers.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/qi/primitive_parsers.qbk
+END
+nonterminals.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/qi/nonterminals.qbk
+END
+directives.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/qi/directives.qbk
+END
+distinct.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/qi/distinct.qbk
+END
+flush_multi_pass.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/qi/flush_multi_pass.qbk
+END
+subrule.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/repository/doc/qi/subrule.qbk
+END

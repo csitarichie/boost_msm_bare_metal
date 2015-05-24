@@ -1,0 +1,725 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 022B7H 022B8H _TEXT              CODE
+ 022B8H 023BBH 00104H MAIN_TEXT          CODE
+ 023BCH 0296BH 005B0H BSP_TEXT           CODE
+ 0296CH 02E4DH 004E2H PHILO_TEXT         CODE
+ 02E4EH 032DAH 0048DH TABLE_TEXT         CODE
+ 032DBH 0363BH 00361H VIDEO_TEXT         CODE
+ 0363CH 03723H 000E8H OS_CPU_A_TEXT      CODE
+ 03724H 03945H 00222H OS_CPU_C_TEXT      CODE
+ 03946H 069F9H 030B4H UCOS_II_TEXT       CODE
+ 069FAH 06AA6H 000ADH QA_SUB_TEXT        CODE
+ 06AA7H 06BBAH 00114H QF_ACT_TEXT        CODE
+ 06BBBH 06C54H 0009AH QF_GC_TEXT         CODE
+ 06C55H 06C55H 00000H QF_LOG2_TEXT       CODE
+ 06C55H 06D00H 000ACH QF_NEW_TEXT        CODE
+ 06D01H 06DC5H 000C5H QF_POOL_TEXT       CODE
+ 06DC6H 06DDDH 00018H QF_PSINI_TEXT      CODE
+ 06DDEH 06EFBH 0011EH QF_PSPUB_TEXT      CODE
+ 06EFCH 06EFCH 00000H QF_PWR2_TEXT       CODE
+ 06EFCH 0701EH 00123H QF_TICK_TEXT       CODE
+ 0701FH 070BEH 000A0H QTE_CTOR_TEXT      CODE
+ 070BFH 07172H 000B4H QTE_ARM_TEXT       CODE
+ 07173H 07487H 00315H QF_PORT_TEXT       CODE
+ 07488H 07493H 0000CH QEP_TEXT           CODE
+ 07494H 075FEH 0016BH QHSM_INI_TEXT      CODE
+ 075FFH 07AA2H 004A4H QHSM_DIS_TEXT      CODE
+ 07AA3H 07AABH 00009H QHSM_TOP_TEXT      CODE
+ 07AB0H 07AB0H 00000H _FARDATA           FAR_DATA
+ 07AB0H 07AB0H 00000H MAIN5_FAR          FAR_DATA
+ 07AB0H 07AB0H 00000H BSP5_FAR           FAR_DATA
+ 07AB0H 07AB0H 00000H PHILO5_FAR         FAR_DATA
+ 07AB0H 07AB0H 00000H TABLE5_FAR         FAR_DATA
+ 07AB0H 07AB0H 00000H VIDEO5_FAR         FAR_DATA
+ 07AB0H 07AB0H 00000H QA_SUB5_FAR        FAR_DATA
+ 07AB0H 07AB0H 00000H QF_ACT5_FAR        FAR_DATA
+ 07AB0H 07AB0H 00000H QF_GC5_FAR         FAR_DATA
+ 07AB0H 07AB0H 00000H QF_LOG25_FAR       FAR_DATA
+ 07AB0H 07AB0H 00000H QF_NEW5_FAR        FAR_DATA
+ 07AB0H 07AB0H 00000H QF_POOL5_FAR       FAR_DATA
+ 07AB0H 07AB0H 00000H QF_PSINI5_FAR      FAR_DATA
+ 07AB0H 07AB0H 00000H QF_PSPUB5_FAR      FAR_DATA
+ 07AB0H 07AB0H 00000H QF_PWR25_FAR       FAR_DATA
+ 07AB0H 07AB0H 00000H QF_TICK5_FAR       FAR_DATA
+ 07AB0H 07AB0H 00000H QTE_CTOR5_FAR      FAR_DATA
+ 07AB0H 07AB0H 00000H QTE_ARM5_FAR       FAR_DATA
+ 07AB0H 07AB0H 00000H QF_PORT5_FAR       FAR_DATA
+ 07AB0H 07AB0H 00000H _OVERLAY_          OVRINFO
+ 07AB0H 07ACDH 0001EH _INIT_             INITDATA
+ 07ACEH 07ACEH 00000H _INITEND_          INITDATA
+ 07ACEH 07AD9H 0000CH _EXIT_             EXITDATA
+ 07ADAH 07ADAH 00000H _EXITEND_          EXITDATA
+ 07AE0H 07AE0H 00000H _1STUB_            STUBSEG
+ 07AE0H 087E1H 00D02H _DATA              DATA
+ 087E2H 087E2H 00000H _CVTSEG            DATA
+ 087E2H 087E2H 00000H _SCNSEG            DATA
+ 087E2H 0BE7BH 0369AH _BSS               BSS
+ 0BE7CH 0BE7CH 00000H _BSSEND            ENDBSS
+ 0BE80H 0BEFFH 00080H _STACK             STACK
+
+  Address         Publics by Name
+
+ 0000:1991       operator delete(void far*)
+ 0000:19CD       operator new(unsigned int)
+ 023B:041E       bsp_busydelay()
+ 023B:03FF       bsp_displyphilstat(unsigned char,const char far*)
+ 023B:0070       bsp_init(int,char far*far*)
+ 07AE:0384       philo::
+ 0296:000C       philo::philo()
+ 0296:0478       philo::~philo()
+ 0296:025F       philo::eating(philo far*,const qevent far*)
+ 0296:0163       philo::hungry(philo far*,const qevent far*)
+ 0296:007D       philo::initial(philo far*,const qevent far*)
+ 0296:00B3       philo::thinking(philo far*,const qevent far*)
+ 07AE:0388       qactive::
+ 0296:03A9       qactive::qactive(unsigned char(far*)(void far*,const qevent far*))
+ 0296:04B8       qactive::~qactive()
+ 0717:02CC       qactive::get_()
+ 0717:0220       qactive::postfifo(const qevent far*)
+ 0717:0276       qactive::postlifo(const qevent far*)
+ 0717:00DE       qactive::start(unsigned char,const qevent far*far*,unsigned long,void far*,unsigned long,const qevent far*)
+ 0717:01DB       qactive::stop()
+ 069F:000A       qactive::subscribe(unsigned char) const
+ 0748:0008       qep::getversion()
+ 07AE:4218       qf::active_
+ 06AA:0013       qf::add_(qactive far*)
+ 06BB:000B       qf::gc(const qevent far*)
+ 0717:0003       qf::getportversion()
+ 06AA:0007       qf::getversion()
+ 0717:000F       qf::init()
+ 06C5:0005       qf::new_(unsigned int,unsigned char)
+ 023B:04D6       qf::oncleanup()
+ 023B:044F       qf::onstartup()
+ 06D0:0001       qf::poolinit(void far*,unsigned long,unsigned int)
+ 06DC:0006       qf::psinit(qsubscrlist far*,unsigned char)
+ 06DD:000E       qf::publish(const qevent far*)
+ 06AA:0095       qf::remove_(const qactive far*)
+ 0717:0019       qf::run()
+ 0717:0048       qf::stop()
+ 06EF:000C       qf::tick()
+ 07AE:038C       qhsm::
+ 0296:0428       qhsm::qhsm(unsigned char(far*)(void far*,const qevent far*))
+ 0749:0004       qhsm::~qhsm()
+ 075F:000F       qhsm::dispatch(const qevent far*)
+ 0749:0030       qhsm::init(const qevent far*)
+ 07AA:0003       qhsm::top(qhsm far*,const qevent far*)
+ 0701:000F       qtimeevt::qtimeevt(unsigned char)
+ 070B:000F       qtimeevt::arm_(qactive far*,unsigned int)
+ 0296:0403       qtimeevt::postin(qactive far*,unsigned int)
+ 0000:19A3       set_new_handler(void(far*)())
+ 07AE:03E5       table::
+ 02E4:000E       table::table()
+ 02E4:045B       table::~table()
+ 02E4:009F       table::initial(table far*,const qevent far*)
+ 02E4:00D8       table::serving(table far*,const qevent far*)
+ 032D:002D       video::clearrect(unsigned char,unsigned char,unsigned char,unsigned char,unsigned char)
+ 032D:000B       video::clearscreen(unsigned char)
+ 032D:0234       video::drawbitmapat(unsigned char,unsigned char,const unsigned char far*,unsigned char,unsigned char)
+ 032D:032B       video::drawstringat(unsigned char,unsigned char,const char far*)
+ 032D:00DB       video::printnumat(unsigned char,unsigned char,unsigned char,unsigned long)
+ 032D:0084       video::printstrat(unsigned char,unsigned char,unsigned char,const char far*)
+ 07AE:0000       DATASEG@
+ 0000:0206       DGROUP@
+ 0000:201F       F_LDIV@
+ 0000:202E       F_LMOD@
+ 0000:2026       F_LUDIV@
+ 0000:2036       F_LUMOD@
+ 0000:20CD       F_LXLSH@
+ 0000:20EE       F_LXURSH@
+ 0000:210F       F_PADD@
+ 0000:213E       F_PSUB@
+ 0000:201F       LDIV@
+ 0000:202E       LMOD@
+ 0000:2026       LUDIV@
+ 0000:2036       LUMOD@
+ 0000:20CD       LXLSH@
+ 0000:20EE       LXURSH@
+ 0000:201C       N_LDIV@
+ 0000:202B       N_LMOD@
+ 0000:2023       N_LUDIV@
+ 0000:2033       N_LUMOD@
+ 0000:20CA       N_LXLSH@
+ 0000:20EB       N_LXURSH@
+ 0000:210C       N_PADD@
+ 0000:216C       N_PCMP@
+ 0000:213B       N_PSUB@
+ 0000:210F       PADD@
+ 0000:213E       PSUB@
+ 0000:01F0       _ABORT
+ 07AE:0370       _AO_PHILO
+ 07AE:03B4       _AO_TABLE
+ 0000:020A       _ATEXIT
+ 0000:0FAA       _ATOI
+ 0000:0F35       _ATOL
+ 0000:0237       _CLRSCR
+ 0000:0390       _CPRINTF
+ 07AE:0C23       _DIRECTVIDEO
+ 07AE:007D       _ERRNO
+ 0000:03AD       _EXIT
+ 0000:1D5E       _FARFREE
+ 0000:1E4E       _FARMALLOC
+ 0000:1FAE       _FARREALLOC
+ 0000:04FE       _FFLUSH
+ 0000:05CE       _FLUSHALL
+ 0000:1D5E       _FREE
+ 0000:0695       _FSEEK
+ 0000:0715       _FTELL
+ 0000:1175       _GETCH
+ 0000:1191       _GETCHE
+ 0000:0765       _GETTEXT
+ 0000:11D1       _GETVECT
+ 0000:122E       _ISATTY
+ 0000:12F0       _ITOA
+ 0000:123F       _KBHIT
+ 0000:1245       _LSEEK
+ 0000:1337       _LTOA
+ 022B:0008       _MAIN
+ 0000:1E44       _MALLOC
+ 0000:135F       _MEMCPY
+ 0000:07F0       _MOVETEXT
+ 0363:000C       _OSCPUDISABLE
+ 0363:000E       _OSCPUENABLE
+ 0363:0014       _OSCPURESTORESR
+ 0363:0010       _OSCPUSAVESR
+ 07AE:392D       _OSCPUUSAGE
+ 0363:003C       _OSCTXSW
+ 07AE:3A3E       _OSCTXSWCTR
+ 07AE:3C5A       _OSEVENTFREELIST
+ 0394:0006       _OSEVENTNAMEGET
+ 0394:0086       _OSEVENTNAMESET
+ 0394:0120       _OSEVENTPENDMULTI
+ 07AE:3186       _OSEVENTTBL
+ 07AE:3934       _OSIDLECTR
+ 07AE:393A       _OSIDLECTRMAX
+ 07AE:3A4C       _OSIDLECTRRUN
+ 0394:0505       _OSINIT
+ 0372:0004       _OSINITHOOKBEGIN
+ 0372:0009       _OSINITHOOKEND
+ 0363:0077       _OSINTCTXSW
+ 0394:053C       _OSINTENTER
+ 0394:0553       _OSINTEXIT
+ 07AE:3A4B       _OSINTNESTING
+ 07AE:3A50       _OSLOCKNESTING
+ 0394:1338       _OSMEMCREATE
+ 07AE:3A52       _OSMEMFREELIST
+ 0394:147C       _OSMEMGET
+ 0394:1501       _OSMEMNAMEGET
+ 0394:1554       _OSMEMNAMESET
+ 0394:15C2       _OSMEMPUT
+ 0394:1637       _OSMEMQUERY
+ 07AE:3118       _OSMEMTBL
+ 07AE:3938       _OSPRIOCUR
+ 07AE:3A4A       _OSPRIOHIGHRDY
+ 0394:1760       _OSQACCEPT
+ 0394:1828       _OSQCREATE
+ 0394:1997       _OSQDEL
+ 0394:1B8D       _OSQFLUSH
+ 07AE:3A46       _OSQFREELIST
+ 0394:1BF3       _OSQPEND
+ 0394:1DD8       _OSQPENDABORT
+ 0394:1E90       _OSQPOST
+ 0394:1F75       _OSQPOSTFRONT
+ 0394:2055       _OSQPOSTOPT
+ 0394:21C2       _OSQQUERY
+ 07AE:3C60       _OSQTBL
+ 07AE:3926       _OSRDYGRP
+ 07AE:1BE6       _OSRDYTBL
+ 07AE:392C       _OSRUNNING
+ 0394:05CF       _OSSCHEDLOCK
+ 0394:05FF       _OSSCHEDUNLOCK
+ 0394:0656       _OSSTART
+ 0363:001E       _OSSTARTHIGHRDY
+ 0394:069A       _OSSTATINIT
+ 07AE:3184       _OSSTATRDY
+ 0394:2302       _OSTASKCHANGEPRIO
+ 0394:25DD       _OSTASKCREATE
+ 0394:26D2       _OSTASKCREATEEXT
+ 0372:000E       _OSTASKCREATEHOOK
+ 07AE:3932       _OSTASKCTR
+ 0394:27DD       _OSTASKDEL
+ 0372:001F       _OSTASKDELHOOK
+ 0394:2A0D       _OSTASKDELREQ
+ 023B:053C       _OSTASKIDLEHOOK
+ 07AE:3B5A       _OSTASKIDLESTK
+ 0394:2AA7       _OSTASKNAMEGET
+ 0394:2B5E       _OSTASKNAMESET
+ 0394:2F1B       _OSTASKQUERY
+ 0394:2C2C       _OSTASKRESUME
+ 0372:0030       _OSTASKSTATHOOK
+ 07AE:3A5A       _OSTASKSTATSTK
+ 0394:2D08       _OSTASKSTKCHK
+ 0372:0035       _OSTASKSTKINIT
+ 0372:0125       _OSTASKSTKINIT_FPE_X86
+ 0394:2E23       _OSTASKSUSPEND
+ 0372:0210       _OSTASKSWHOOK
+ 07AE:3928       _OSTCBCUR
+ 07AE:3A56       _OSTCBFREELIST
+ 07AE:3A42       _OSTCBHIGHRDY
+ 0372:0215       _OSTCBINITHOOK
+ 07AE:392E       _OSTCBLIST
+ 07AE:393E       _OSTCBPRIOTBL
+ 07AE:1BEE       _OSTCBTBL
+ 07AE:1BE0       _OSTICKDOSCTR
+ 0363:00A4       _OSTICKISR
+ 07AE:3C5E       _OSTICKSTEPSTATE
+ 07AE:1BE2       _OSTIME
+ 0394:2FDD       _OSTIMEDLY
+ 0394:3065       _OSTIMEGET
+ 0394:3096       _OSTIMESET
+ 0394:06F2       _OSTIMETICK
+ 023B:0532       _OSTIMETICKHOOK
+ 07AE:05C8       _OSUNMAPTBL
+ 0394:0813       _OSVERSION
+ 0394:081D       _OS_DUMMY
+ 0394:0822       _OS_EVENTTASKRDY
+ 0394:0A96       _OS_EVENTTASKREMOVE
+ 0394:0AF2       _OS_EVENTTASKREMOVEMULTI
+ 0394:092F       _OS_EVENTTASKWAIT
+ 0394:09BB       _OS_EVENTTASKWAITMULTI
+ 0394:0B99       _OS_EVENTWAITLISTINIT
+ 0394:0E62       _OS_MEMCLR
+ 0394:0E7D       _OS_MEMCOPY
+ 0394:16DF       _OS_MEMINIT
+ 0394:229C       _OS_QINIT
+ 0394:0EA0       _OS_SCHED
+ 0394:0F36       _OS_STRCOPY
+ 0394:0F67       _OS_STRLEN
+ 0394:0F82       _OS_TASKIDLE
+ 0394:0FAA       _OS_TASKSTAT
+ 0394:1053       _OS_TASKSTATSTKCHK
+ 0394:2FA6       _OS_TASKSTKCLR
+ 0394:10E8       _OS_TCBINIT
+ 0000:1383       _OUTPORT
+ 0000:138F       _OUTPORTB
+ 0000:0896       _PUTCH
+ 0000:07B6       _PUTTEXT
+ 07AE:091E       _QEP_RESERVEDEVT_
+ 07AE:08B6       _QF_DIV8LKUP
+ 07AE:4310       _QF_INTLOCKNEST_
+ 07AE:0875       _QF_INVPWR2LKUP
+ 07AE:0700       _QF_LOG2LKUP
+ 07AE:0822       _QF_MAXPOOL_
+ 07AE:0828       _QF_MAXSIGNAL_
+ 07AE:0810       _QF_POOL_
+ 07AE:0834       _QF_PWR2LKUP
+ 07AE:0824       _QF_SUBSCRLIST_
+ 07AE:090A       _QF_TIMEEVTLISTHEAD_
+ 023B:0541       _Q_ONASSERT
+ 0000:1FA7       _REALLOC
+ 0000:139B       _SETBLOCK
+ 0000:0C69       _SETVBUF
+ 0000:11E0       _SETVECT
+ 0717:0076       _TASK_FUNCTION
+ 0000:0D88       _TELL
+ 023B:000C       _UCOSTASK
+ 0000:131A       _ULTOA
+ 0000:11B5       _UNGETCH
+ 0000:0DAC       _WHEREX
+ 0000:0DBB       _WHEREY
+ 0000:0DCE       _WRITE
+ 0000:1000  Abs  __AHINCR
+ 0000:000C  Abs  __AHSHIFT
+ 07AE:0CF2       __ARGC
+ 07AE:0CF4       __ARGV
+ 07AE:0942       __ATEXITCNT
+ 07AE:4318       __ATEXITTBL
+ 0000:0452       __BRK
+ 07AE:0087       __BRKLVL
+ 07AE:0069       __C0ARGC
+ 07AE:006B       __C0ARGV
+ 0000:107A       __C0CRTINIT
+ 07AE:006F       __C0ENVIRON
+ 0000:0260       __CPUTN
+ 0000:109A       __CRTINIT
+ 07AE:0944       __CTYPE
+ 07AE:0C2E       __DOSERRNO
+ 07AE:0C30       __DOSERRORTOSV
+ 07AE:0073       __ENVLNG
+ 07AE:0075       __ENVSEG
+ 07AE:0077       __ENVSIZE
+ 0000:011A       __EXIT
+ 07AE:0A46       __EXITBUF
+ 0000:00FA       __EXITCLEAN
+ 07AE:0A4A       __EXITFOPEN
+ 07AE:0A4E       __EXITOPEN
+ 07AE:0083       __HEAPBASE
+ 07AE:008B       __HEAPTOP
+ 07AE:0059       __INT0VECTOR
+ 07AE:005D       __INT4VECTOR
+ 07AE:0061       __INT5VECTOR
+ 07AE:0065       __INT6VECTOR
+ 0000:11F1       __IOERROR
+ 0000:126E       __LONGTOA
+ 0000:0208       __MMODEL
+ 07AE:4398       __NEW_HANDLER
+ 0000:118E       __NGETCHE
+ 0000:11B2       __NUNGETCH
+ 07AE:0BE4       __OPENFD
+ 07AE:007B       __OSMAJOR
+ 07AE:007C       __OSMINOR
+ 07AE:0079       __PSP
+ 0000:218D       __REALCVT
+ 07AE:0D02       __REALCVTVECTOR
+ 0000:0178       __RESTOREZERO
+ 0000:0491       __SBRK
+ 07AE:0D02       __SCANTODVECTOR
+ 0000:09E1       __SCREENIO
+ 0000:0A84       __SCROLL
+ 0000:0000  Abs  __SETARGV__
+ 0000:0BF0       __SETUPIO
+ 07AE:007F       __STARTTIME
+ 07AE:0C10       __STKLEN
+ 07AE:0A54       __STREAMS
+ 0000:0000  Abs  __TURBOCRT
+ 0000:0A1E       __VALIDATEXY
+ 0000:1A0F       __VECTOR_DELETE_
+ 0000:1B2A       __VECTOR_NEW_
+ 07AE:007B       __VERSION
+ 07AE:0C14       __VIDEO
+ 0000:0FF6       __VIDEOINT
+ 0000:13CF       __VPRINTER
+ 0000:18A7       __VPTR
+ 0000:18CD       __VRAM
+ 0000:0DA2       __WHEREXY
+ 0000:1946       __WRITE
+ 07AE:0C12       __WSCROLL
+ 0000:0EFB       __XFFLUSH
+ 0000:1C20       ___FIRST
+ 0000:1C22       ___LAST
+ 0000:1C24       ___ROVER
+
+  Address         Publics by Value
+
+ 0000:0000  Abs  __SETARGV__
+ 0000:0000  Abs  __TURBOCRT
+ 0000:000C  Abs  __AHSHIFT
+ 0000:1000  Abs  __AHINCR
+ 0000:00FA       __EXITCLEAN
+ 0000:011A       __EXIT
+ 0000:0178       __RESTOREZERO
+ 0000:01F0       _ABORT
+ 0000:0206       DGROUP@
+ 0000:0208       __MMODEL
+ 0000:020A       _ATEXIT
+ 0000:0237       _CLRSCR
+ 0000:0260       __CPUTN
+ 0000:0390       _CPRINTF
+ 0000:03AD       _EXIT
+ 0000:0452       __BRK
+ 0000:0491       __SBRK
+ 0000:04FE       _FFLUSH
+ 0000:05CE       _FLUSHALL
+ 0000:0695       _FSEEK
+ 0000:0715       _FTELL
+ 0000:0765       _GETTEXT
+ 0000:07B6       _PUTTEXT
+ 0000:07F0       _MOVETEXT
+ 0000:0896       _PUTCH
+ 0000:09E1       __SCREENIO
+ 0000:0A1E       __VALIDATEXY
+ 0000:0A84       __SCROLL
+ 0000:0BF0       __SETUPIO
+ 0000:0C69       _SETVBUF
+ 0000:0D88       _TELL
+ 0000:0DA2       __WHEREXY
+ 0000:0DAC       _WHEREX
+ 0000:0DBB       _WHEREY
+ 0000:0DCE       _WRITE
+ 0000:0EFB       __XFFLUSH
+ 0000:0F35       _ATOL
+ 0000:0FAA       _ATOI
+ 0000:0FF6       __VIDEOINT
+ 0000:107A       __C0CRTINIT
+ 0000:109A       __CRTINIT
+ 0000:1175       _GETCH
+ 0000:118E       __NGETCHE
+ 0000:1191       _GETCHE
+ 0000:11B2       __NUNGETCH
+ 0000:11B5       _UNGETCH
+ 0000:11D1       _GETVECT
+ 0000:11E0       _SETVECT
+ 0000:11F1       __IOERROR
+ 0000:122E       _ISATTY
+ 0000:123F       _KBHIT
+ 0000:1245       _LSEEK
+ 0000:126E       __LONGTOA
+ 0000:12F0       _ITOA
+ 0000:131A       _ULTOA
+ 0000:1337       _LTOA
+ 0000:135F       _MEMCPY
+ 0000:1383       _OUTPORT
+ 0000:138F       _OUTPORTB
+ 0000:139B       _SETBLOCK
+ 0000:13CF       __VPRINTER
+ 0000:18A7       __VPTR
+ 0000:18CD       __VRAM
+ 0000:1946       __WRITE
+ 0000:1991       operator delete(void far*)
+ 0000:19A3       set_new_handler(void(far*)())
+ 0000:19CD       operator new(unsigned int)
+ 0000:1A0F       __VECTOR_DELETE_
+ 0000:1B2A       __VECTOR_NEW_
+ 0000:1C20       ___FIRST
+ 0000:1C22       ___LAST
+ 0000:1C24       ___ROVER
+ 0000:1D5E       _FREE
+ 0000:1D5E       _FARFREE
+ 0000:1E44       _MALLOC
+ 0000:1E4E       _FARMALLOC
+ 0000:1FA7       _REALLOC
+ 0000:1FAE       _FARREALLOC
+ 0000:201C       N_LDIV@
+ 0000:201F       F_LDIV@
+ 0000:201F       LDIV@
+ 0000:2023       N_LUDIV@
+ 0000:2026       F_LUDIV@
+ 0000:2026       LUDIV@
+ 0000:202B       N_LMOD@
+ 0000:202E       F_LMOD@
+ 0000:202E       LMOD@
+ 0000:2033       N_LUMOD@
+ 0000:2036       F_LUMOD@
+ 0000:2036       LUMOD@
+ 0000:20CA       N_LXLSH@
+ 0000:20CD       F_LXLSH@
+ 0000:20CD       LXLSH@
+ 0000:20EB       N_LXURSH@
+ 0000:20EE       F_LXURSH@
+ 0000:20EE       LXURSH@
+ 0000:210C       N_PADD@
+ 0000:210F       F_PADD@
+ 0000:210F       PADD@
+ 0000:213B       N_PSUB@
+ 0000:213E       F_PSUB@
+ 0000:213E       PSUB@
+ 0000:216C       N_PCMP@
+ 0000:218D       __REALCVT
+ 022B:0008       _MAIN
+ 023B:000C       _UCOSTASK
+ 023B:0070       bsp_init(int,char far*far*)
+ 023B:03FF       bsp_displyphilstat(unsigned char,const char far*)
+ 023B:041E       bsp_busydelay()
+ 023B:044F       qf::onstartup()
+ 023B:04D6       qf::oncleanup()
+ 023B:0532       _OSTIMETICKHOOK
+ 023B:053C       _OSTASKIDLEHOOK
+ 023B:0541       _Q_ONASSERT
+ 0296:000C       philo::philo()
+ 0296:007D       philo::initial(philo far*,const qevent far*)
+ 0296:00B3       philo::thinking(philo far*,const qevent far*)
+ 0296:0163       philo::hungry(philo far*,const qevent far*)
+ 0296:025F       philo::eating(philo far*,const qevent far*)
+ 0296:03A9       qactive::qactive(unsigned char(far*)(void far*,const qevent far*))
+ 0296:0403       qtimeevt::postin(qactive far*,unsigned int)
+ 0296:0428       qhsm::qhsm(unsigned char(far*)(void far*,const qevent far*))
+ 0296:0478       philo::~philo()
+ 0296:04B8       qactive::~qactive()
+ 02E4:000E       table::table()
+ 02E4:009F       table::initial(table far*,const qevent far*)
+ 02E4:00D8       table::serving(table far*,const qevent far*)
+ 02E4:045B       table::~table()
+ 032D:000B       video::clearscreen(unsigned char)
+ 032D:002D       video::clearrect(unsigned char,unsigned char,unsigned char,unsigned char,unsigned char)
+ 032D:0084       video::printstrat(unsigned char,unsigned char,unsigned char,const char far*)
+ 032D:00DB       video::printnumat(unsigned char,unsigned char,unsigned char,unsigned long)
+ 032D:0234       video::drawbitmapat(unsigned char,unsigned char,const unsigned char far*,unsigned char,unsigned char)
+ 032D:032B       video::drawstringat(unsigned char,unsigned char,const char far*)
+ 0363:000C       _OSCPUDISABLE
+ 0363:000E       _OSCPUENABLE
+ 0363:0010       _OSCPUSAVESR
+ 0363:0014       _OSCPURESTORESR
+ 0363:001E       _OSSTARTHIGHRDY
+ 0363:003C       _OSCTXSW
+ 0363:0077       _OSINTCTXSW
+ 0363:00A4       _OSTICKISR
+ 0372:0004       _OSINITHOOKBEGIN
+ 0372:0009       _OSINITHOOKEND
+ 0372:000E       _OSTASKCREATEHOOK
+ 0372:001F       _OSTASKDELHOOK
+ 0372:0030       _OSTASKSTATHOOK
+ 0372:0035       _OSTASKSTKINIT
+ 0372:0125       _OSTASKSTKINIT_FPE_X86
+ 0372:0210       _OSTASKSWHOOK
+ 0372:0215       _OSTCBINITHOOK
+ 0394:0006       _OSEVENTNAMEGET
+ 0394:0086       _OSEVENTNAMESET
+ 0394:0120       _OSEVENTPENDMULTI
+ 0394:0505       _OSINIT
+ 0394:053C       _OSINTENTER
+ 0394:0553       _OSINTEXIT
+ 0394:05CF       _OSSCHEDLOCK
+ 0394:05FF       _OSSCHEDUNLOCK
+ 0394:0656       _OSSTART
+ 0394:069A       _OSSTATINIT
+ 0394:06F2       _OSTIMETICK
+ 0394:0813       _OSVERSION
+ 0394:081D       _OS_DUMMY
+ 0394:0822       _OS_EVENTTASKRDY
+ 0394:092F       _OS_EVENTTASKWAIT
+ 0394:09BB       _OS_EVENTTASKWAITMULTI
+ 0394:0A96       _OS_EVENTTASKREMOVE
+ 0394:0AF2       _OS_EVENTTASKREMOVEMULTI
+ 0394:0B99       _OS_EVENTWAITLISTINIT
+ 0394:0E62       _OS_MEMCLR
+ 0394:0E7D       _OS_MEMCOPY
+ 0394:0EA0       _OS_SCHED
+ 0394:0F36       _OS_STRCOPY
+ 0394:0F67       _OS_STRLEN
+ 0394:0F82       _OS_TASKIDLE
+ 0394:0FAA       _OS_TASKSTAT
+ 0394:1053       _OS_TASKSTATSTKCHK
+ 0394:10E8       _OS_TCBINIT
+ 0394:1338       _OSMEMCREATE
+ 0394:147C       _OSMEMGET
+ 0394:1501       _OSMEMNAMEGET
+ 0394:1554       _OSMEMNAMESET
+ 0394:15C2       _OSMEMPUT
+ 0394:1637       _OSMEMQUERY
+ 0394:16DF       _OS_MEMINIT
+ 0394:1760       _OSQACCEPT
+ 0394:1828       _OSQCREATE
+ 0394:1997       _OSQDEL
+ 0394:1B8D       _OSQFLUSH
+ 0394:1BF3       _OSQPEND
+ 0394:1DD8       _OSQPENDABORT
+ 0394:1E90       _OSQPOST
+ 0394:1F75       _OSQPOSTFRONT
+ 0394:2055       _OSQPOSTOPT
+ 0394:21C2       _OSQQUERY
+ 0394:229C       _OS_QINIT
+ 0394:2302       _OSTASKCHANGEPRIO
+ 0394:25DD       _OSTASKCREATE
+ 0394:26D2       _OSTASKCREATEEXT
+ 0394:27DD       _OSTASKDEL
+ 0394:2A0D       _OSTASKDELREQ
+ 0394:2AA7       _OSTASKNAMEGET
+ 0394:2B5E       _OSTASKNAMESET
+ 0394:2C2C       _OSTASKRESUME
+ 0394:2D08       _OSTASKSTKCHK
+ 0394:2E23       _OSTASKSUSPEND
+ 0394:2F1B       _OSTASKQUERY
+ 0394:2FA6       _OS_TASKSTKCLR
+ 0394:2FDD       _OSTIMEDLY
+ 0394:3065       _OSTIMEGET
+ 0394:3096       _OSTIMESET
+ 069F:000A       qactive::subscribe(unsigned char) const
+ 06AA:0007       qf::getversion()
+ 06AA:0013       qf::add_(qactive far*)
+ 06AA:0095       qf::remove_(const qactive far*)
+ 06BB:000B       qf::gc(const qevent far*)
+ 06C5:0005       qf::new_(unsigned int,unsigned char)
+ 06D0:0001       qf::poolinit(void far*,unsigned long,unsigned int)
+ 06DC:0006       qf::psinit(qsubscrlist far*,unsigned char)
+ 06DD:000E       qf::publish(const qevent far*)
+ 06EF:000C       qf::tick()
+ 0701:000F       qtimeevt::qtimeevt(unsigned char)
+ 070B:000F       qtimeevt::arm_(qactive far*,unsigned int)
+ 0717:0003       qf::getportversion()
+ 0717:000F       qf::init()
+ 0717:0019       qf::run()
+ 0717:0048       qf::stop()
+ 0717:0076       _TASK_FUNCTION
+ 0717:00DE       qactive::start(unsigned char,const qevent far*far*,unsigned long,void far*,unsigned long,const qevent far*)
+ 0717:01DB       qactive::stop()
+ 0717:0220       qactive::postfifo(const qevent far*)
+ 0717:0276       qactive::postlifo(const qevent far*)
+ 0717:02CC       qactive::get_()
+ 0748:0008       qep::getversion()
+ 0749:0004       qhsm::~qhsm()
+ 0749:0030       qhsm::init(const qevent far*)
+ 075F:000F       qhsm::dispatch(const qevent far*)
+ 07AA:0003       qhsm::top(qhsm far*,const qevent far*)
+ 07AE:0000       DATASEG@
+ 07AE:0059       __INT0VECTOR
+ 07AE:005D       __INT4VECTOR
+ 07AE:0061       __INT5VECTOR
+ 07AE:0065       __INT6VECTOR
+ 07AE:0069       __C0ARGC
+ 07AE:006B       __C0ARGV
+ 07AE:006F       __C0ENVIRON
+ 07AE:0073       __ENVLNG
+ 07AE:0075       __ENVSEG
+ 07AE:0077       __ENVSIZE
+ 07AE:0079       __PSP
+ 07AE:007B       __OSMAJOR
+ 07AE:007B       __VERSION
+ 07AE:007C       __OSMINOR
+ 07AE:007D       _ERRNO
+ 07AE:007F       __STARTTIME
+ 07AE:0083       __HEAPBASE
+ 07AE:0087       __BRKLVL
+ 07AE:008B       __HEAPTOP
+ 07AE:0370       _AO_PHILO
+ 07AE:0384       philo::
+ 07AE:0388       qactive::
+ 07AE:038C       qhsm::
+ 07AE:03B4       _AO_TABLE
+ 07AE:03E5       table::
+ 07AE:05C8       _OSUNMAPTBL
+ 07AE:0700       _QF_LOG2LKUP
+ 07AE:0810       _QF_POOL_
+ 07AE:0822       _QF_MAXPOOL_
+ 07AE:0824       _QF_SUBSCRLIST_
+ 07AE:0828       _QF_MAXSIGNAL_
+ 07AE:0834       _QF_PWR2LKUP
+ 07AE:0875       _QF_INVPWR2LKUP
+ 07AE:08B6       _QF_DIV8LKUP
+ 07AE:090A       _QF_TIMEEVTLISTHEAD_
+ 07AE:091E       _QEP_RESERVEDEVT_
+ 07AE:0942       __ATEXITCNT
+ 07AE:0944       __CTYPE
+ 07AE:0A46       __EXITBUF
+ 07AE:0A4A       __EXITFOPEN
+ 07AE:0A4E       __EXITOPEN
+ 07AE:0A54       __STREAMS
+ 07AE:0BE4       __OPENFD
+ 07AE:0C10       __STKLEN
+ 07AE:0C12       __WSCROLL
+ 07AE:0C14       __VIDEO
+ 07AE:0C23       _DIRECTVIDEO
+ 07AE:0C2E       __DOSERRNO
+ 07AE:0C30       __DOSERRORTOSV
+ 07AE:0CF2       __ARGC
+ 07AE:0CF4       __ARGV
+ 07AE:0D02       __SCANTODVECTOR
+ 07AE:0D02       __REALCVTVECTOR
+ 07AE:1BE0       _OSTICKDOSCTR
+ 07AE:1BE2       _OSTIME
+ 07AE:1BE6       _OSRDYTBL
+ 07AE:1BEE       _OSTCBTBL
+ 07AE:3118       _OSMEMTBL
+ 07AE:3184       _OSSTATRDY
+ 07AE:3186       _OSEVENTTBL
+ 07AE:3926       _OSRDYGRP
+ 07AE:3928       _OSTCBCUR
+ 07AE:392C       _OSRUNNING
+ 07AE:392D       _OSCPUUSAGE
+ 07AE:392E       _OSTCBLIST
+ 07AE:3932       _OSTASKCTR
+ 07AE:3934       _OSIDLECTR
+ 07AE:3938       _OSPRIOCUR
+ 07AE:393A       _OSIDLECTRMAX
+ 07AE:393E       _OSTCBPRIOTBL
+ 07AE:3A3E       _OSCTXSWCTR
+ 07AE:3A42       _OSTCBHIGHRDY
+ 07AE:3A46       _OSQFREELIST
+ 07AE:3A4A       _OSPRIOHIGHRDY
+ 07AE:3A4B       _OSINTNESTING
+ 07AE:3A4C       _OSIDLECTRRUN
+ 07AE:3A50       _OSLOCKNESTING
+ 07AE:3A52       _OSMEMFREELIST
+ 07AE:3A56       _OSTCBFREELIST
+ 07AE:3A5A       _OSTASKSTATSTK
+ 07AE:3B5A       _OSTASKIDLESTK
+ 07AE:3C5A       _OSEVENTFREELIST
+ 07AE:3C5E       _OSTICKSTEPSTATE
+ 07AE:3C60       _OSQTBL
+ 07AE:4218       qf::active_
+ 07AE:4310       _QF_INTLOCKNEST_
+ 07AE:4318       __ATEXITTBL
+ 07AE:4398       __NEW_HANDLER
+
+Program entry point at 0000:0000
+

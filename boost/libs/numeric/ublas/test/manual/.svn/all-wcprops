@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/ublas/test/manual
+END
+sp_resize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/ublas/test/manual/sp_resize.cpp
+END
+test_move_semantics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/ublas/test/manual/test_move_semantics.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/numeric/ublas/test/manual/Jamfile.v2
+END

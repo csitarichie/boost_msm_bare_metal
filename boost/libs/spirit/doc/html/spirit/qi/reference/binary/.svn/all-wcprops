@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/binary
+END
+binary_little.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/binary/binary_little.html
+END
+binary_big.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/binary/binary_big.html
+END
+binary_native.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/binary/binary_native.html
+END

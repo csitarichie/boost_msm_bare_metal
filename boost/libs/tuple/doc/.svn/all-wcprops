@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/tuple/doc
+END
+tuple_advanced_interface.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/tuple/doc/tuple_advanced_interface.html
+END
+design_decisions_rationale.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/tuple/doc/design_decisions_rationale.html
+END
+tuple_users_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/tuple/doc/tuple_users_guide.html
+END

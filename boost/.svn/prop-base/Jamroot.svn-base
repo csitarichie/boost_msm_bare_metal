@@ -1,0 +1,21 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 287
+/devel/Jamroot:38327
+/sandbox-branches/bhy/py3k/Jamroot:52115-56304
+/sandbox-branches/intrusive_fix_SunCC/Jamroot:55764-55783
+/trunk/Jamroot:38329,38437-38533,38576,41357-61539,61643,61674,61717,61766
+/trunk/boost/Jamroot:34428,34430,34600,34875-34877,36278,37030-37032,37509-37510,37704
+K 13
+svn:mime-type
+V 10
+text/plain
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/boostbook/xsl/caramel
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/boostbook/xsl/caramel/LICENSE
+END
+concept2docbook.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/boostbook/xsl/caramel/concept2docbook.xsl
+END
+unparser.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/boostbook/xsl/caramel/unparser.xsl
+END
+cpp-operators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/boostbook/xsl/caramel/cpp-operators.xml
+END

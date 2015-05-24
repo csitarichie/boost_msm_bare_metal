@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer
+END
+word_count_lexer_static.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/word_count_lexer_static.hpp
+END
+word_count_static.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/word_count_static.hpp
+END
+word_count.input
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/word_count.input
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/Jamfile
+END
+word_count_lexer_static.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/word_count_lexer_static.cpp
+END
+word_count_lexer_tokens.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/word_count_lexer_tokens.hpp
+END
+word_count_static.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/word_count_static.cpp
+END
+word_count_tokens.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/word_count_tokens.hpp
+END
+word_count_lexer_generate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/word_count_lexer_generate.cpp
+END
+word_count_generate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/example/lex/static_lexer/word_count_generate.cpp
+END

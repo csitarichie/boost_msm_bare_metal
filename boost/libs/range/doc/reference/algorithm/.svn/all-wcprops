@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm
+END
+partial_sort.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/partial_sort.qbk
+END
+fill_n.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/fill_n.qbk
+END
+stable_partition.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/stable_partition.qbk
+END
+lexicographical_compare.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/lexicographical_compare.qbk
+END
+next_permutation.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/next_permutation.qbk
+END
+mismatch.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/mismatch.qbk
+END
+replace_copy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/replace_copy.qbk
+END
+reverse_copy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/reverse_copy.qbk
+END
+search.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/search.qbk
+END
+includes.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/includes.qbk
+END
+find_end.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/find_end.qbk
+END
+equal.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/equal.qbk
+END
+copy_backward.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/copy_backward.qbk
+END
+partition.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/partition.qbk
+END
+binary_search.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/binary_search.qbk
+END
+swap_ranges.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/swap_ranges.qbk
+END
+copy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/copy.qbk
+END
+find_first_of.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/find_first_of.qbk
+END
+replace.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/replace.qbk
+END
+reverse.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/reverse.qbk
+END
+transform.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/transform.qbk
+END
+lower_bound.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/lower_bound.qbk
+END
+find.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/find.qbk
+END
+stable_sort.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/stable_sort.qbk
+END
+equal_range.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/equal_range.qbk
+END
+replace_copy_if.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/replace_copy_if.qbk
+END
+fill.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/fill.qbk
+END
+remove_copy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/remove_copy.qbk
+END
+sort.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/sort.qbk
+END
+rotate_copy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/rotate_copy.qbk
+END
+replace_if.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/replace_if.qbk
+END
+generate.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/generate.qbk
+END
+pop_heap.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/pop_heap.qbk
+END
+min_element.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/min_element.qbk
+END
+remove.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/remove.qbk
+END
+max_element.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/max_element.qbk
+END
+set_symmetric_difference.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/set_symmetric_difference.qbk
+END
+prev_permutation.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/prev_permutation.qbk
+END
+set_union.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/set_union.qbk
+END
+remove_copy_if.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/remove_copy_if.qbk
+END
+set_difference.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/set_difference.qbk
+END
+count_if.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/count_if.qbk
+END
+for_each.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/for_each.qbk
+END
+unique.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/unique.qbk
+END
+adjacent_find.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/adjacent_find.qbk
+END
+make_heap.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/make_heap.qbk
+END
+remove_if.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/remove_if.qbk
+END
+push_heap.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/push_heap.qbk
+END
+set_intersection.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/set_intersection.qbk
+END
+search_n.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/search_n.qbk
+END
+upper_bound.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/upper_bound.qbk
+END
+sort_heap.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/sort_heap.qbk
+END
+count.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/count.qbk
+END
+inplace_merge.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/inplace_merge.qbk
+END
+random_shuffle.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/random_shuffle.qbk
+END
+find_if.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/find_if.qbk
+END
+rotate.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/rotate.qbk
+END
+merge.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/merge.qbk
+END
+unique_copy.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/unique_copy.qbk
+END
+nth_element.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/reference/algorithm/nth_element.qbk
+END

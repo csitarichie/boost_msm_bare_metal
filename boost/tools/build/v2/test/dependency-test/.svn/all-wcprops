@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test
+END
+a.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/a.cpp
+END
+jamroot.jam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/jamroot.jam
+END
+b.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/b.cpp
+END
+a_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/a_c.c
+END
+c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/c.cpp
+END
+e.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/e.cpp
+END
+a.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/a.h
+END
+b.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/b.h
+END
+foo.jam
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/foo.jam
+END
+x.foo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/x.foo
+END
+y.foo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/y.foo
+END
+jamfile.jam
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/dependency-test/jamfile.jam
+END

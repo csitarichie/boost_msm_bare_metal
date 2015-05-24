@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 131
+/devel/libs/iostreams:38327-38328
+/trunk/boost/libs/iostreams:33417-38326
+/trunk/libs/iostreams:38329-61640,61643,61674,61717,61766
+END

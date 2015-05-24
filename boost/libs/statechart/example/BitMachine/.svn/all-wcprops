@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/statechart/example/BitMachine
+END
+UniqueObject.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/statechart/example/BitMachine/UniqueObject.hpp
+END
+BitMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/statechart/example/BitMachine/BitMachine.cpp
+END
+UniqueObjectAllocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/statechart/example/BitMachine/UniqueObjectAllocator.hpp
+END
+BitMachine.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/statechart/example/BitMachine/BitMachine.vcproj
+END

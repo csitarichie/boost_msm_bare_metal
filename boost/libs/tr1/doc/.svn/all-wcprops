@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/tr1/doc
+END
+tr1.qbk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/tr1/doc/tr1.qbk
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/tr1/doc/Jamfile.v2
+END

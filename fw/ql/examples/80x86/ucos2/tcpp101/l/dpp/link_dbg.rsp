@@ -1,0 +1,16 @@
+c:\tools\tcpp101\lib\c0l+
+dbg\main+
+dbg\bsp+
+dbg\philo+
+dbg\table+
+dbg\video+
+..\..\..\..\..\..\ports\80x86\ucos2\tcpp101\l\ucos2.86\OS_CPU_A.OBJ+
+..\..\..\..\..\..\ports\80x86\ucos2\tcpp101\l\ucos2.86\OS_CPU_C.OBJ+
+..\..\..\..\..\..\ports\80x86\ucos2\tcpp101\l\ucos2.86\UCOS_II.OBJ,+
+dbg\dpp,+
+dbg\dpp,+
+..\..\..\..\..\..\ports\80x86\ucos2\tcpp101\l\dbg\qf.lib+
+..\..\..\..\..\..\ports\80x86\ucos2\tcpp101\l\dbg\qep.lib+
+c:\tools\tcpp101\lib\emu.lib+
+c:\tools\tcpp101\lib\mathl.lib+
+c:\tools\tcpp101\lib\cl.lib

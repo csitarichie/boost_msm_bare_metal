@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/usage-variants
+END
+static-lib-variant.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/usage-variants/static-lib-variant.html
+END
+extern-test-runner.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/usage-variants/extern-test-runner.html
+END
+single-header-variant.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/usage-variants/single-header-variant.html
+END
+dynamic-lib-variant.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/usage-variants/dynamic-lib-variant.html
+END
+extern-test-runner-variant.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/usage-variants/extern-test-runner-variant.html
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+62045
+http://svn.boost.org/svn/boost/tags/release/Boost_1_43_0/libs/numeric/ublas
+http://svn.boost.org/svn/boost
+
+
+
+2010-05-04T17:49:50.065368Z
+61772
+danieljames
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8fc166d-592f-0410-95f2-cb63ce0dd405
+
+test
+dir
+
+bench1
+dir
+
+bench2
+dir
+
+bench3
+dir
+
+bench4
+dir
+
+doc
+dir
+
+index.html
+file
+
+
+
+
+2010-05-16T21:10:17.446414Z
+d66ab13d3f7e00be4fe1d87a515f17d3
+2006-11-07T19:27:00.000000Z
+35907
+beman_dawes
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+476
+

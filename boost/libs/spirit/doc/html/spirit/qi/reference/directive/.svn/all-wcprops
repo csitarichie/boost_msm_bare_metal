@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/directive
+END
+lexeme.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/directive/lexeme.html
+END
+repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/directive/repeat.html
+END
+no_skip.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/directive/no_skip.html
+END
+matches.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/directive/matches.html
+END
+skip.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/directive/skip.html
+END
+no_case.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/directive/no_case.html
+END
+omit.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/directive/omit.html
+END
+raw.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/qi/reference/directive/raw.html
+END

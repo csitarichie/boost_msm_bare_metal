@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special
+END
+bessel.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/bessel.html
+END
+powers.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/powers.html
+END
+rounding.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/rounding.html
+END
+zetas.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/zetas.html
+END
+factorials.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/factorials.html
+END
+ellint.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/ellint.html
+END
+fpclass.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/fpclass.html
+END
+sinc.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/sinc.html
+END
+sf_beta.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/sf_beta.html
+END
+inv_hyper.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/inv_hyper.html
+END
+next_float.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/next_float.html
+END
+sf_erf.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/sf_erf.html
+END
+expint.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/expint.html
+END
+extern_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/extern_c.html
+END
+sf_gamma.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/sf_gamma.html
+END
+sf_poly.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/sf_poly.html
+END

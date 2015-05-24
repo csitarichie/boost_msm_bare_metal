@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference
+END
+slot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/slot.xml
+END
+signal_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/signal_header.xml
+END
+trackable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/trackable.xml
+END
+deconstruct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/deconstruct.xml
+END
+reference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/reference.xml
+END
+shared_connection_block.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/shared_connection_block.xml
+END
+last_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/last_value.xml
+END
+connection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/connection.xml
+END
+mutex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/mutex.xml
+END
+optional_last_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/optional_last_value.xml
+END
+signal_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/signal_base.xml
+END
+slot_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/slot_base.xml
+END
+dummy_mutex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/dummy_mutex.xml
+END
+visit_each.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/visit_each.xml
+END
+signal_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/signals2/doc/reference/signal_type.xml
+END

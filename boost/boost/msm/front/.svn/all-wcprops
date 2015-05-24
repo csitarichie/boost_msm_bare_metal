@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/boost/!svn/ver/65847/trunk/boost/msm/front
+END
+row2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/boost/!svn/ver/62522/trunk/boost/msm/front/row2.hpp
+END
+completion_event.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/boost/!svn/ver/62128/trunk/boost/msm/front/completion_event.hpp
+END
+common_states.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/boost/!svn/ver/62128/trunk/boost/msm/front/common_states.hpp
+END
+state_machine_def.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/boost/!svn/ver/65847/trunk/boost/msm/front/state_machine_def.hpp
+END
+internal_row.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/boost/!svn/ver/62522/trunk/boost/msm/front/internal_row.hpp
+END
+states.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/boost/!svn/ver/63498/trunk/boost/msm/front/states.hpp
+END
+functor_row.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/boost/!svn/ver/65847/trunk/boost/msm/front/functor_row.hpp
+END

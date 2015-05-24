@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/syntax
+END
+collating_names.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/syntax/collating_names.html
+END
+leftmost_longest_rule.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/syntax/leftmost_longest_rule.html
+END
+basic_extended.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/syntax/basic_extended.html
+END
+basic_syntax.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/syntax/basic_syntax.html
+END
+perl_syntax.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/syntax/perl_syntax.html
+END
+character_classes.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/regex/doc/html/boost_regex/syntax/character_classes.html
+END

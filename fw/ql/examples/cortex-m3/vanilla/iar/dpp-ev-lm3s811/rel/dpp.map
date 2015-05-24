@@ -1,0 +1,544 @@
+###############################################################################
+#                                                                             #
+# IAR ELF Linker V5.40.2.51604/W32 for ARM              10/Oct/2009  23:12:29 #
+# Copyright (C) 2007-2009 IAR Systems AB.                                     #
+#                                                                             #
+#    Output file  =  C:\software\qpcpp\examples\cortex-m3\vanilla\iar\dpp-ev- #
+#                    lm3s811\rel\dpp.out                                      #
+#    Map file     =  C:\software\qpcpp\examples\cortex-m3\vanilla\iar\dpp-ev- #
+#                    lm3s811\rel\dpp.map                                      #
+#    Command line =  C:\software\qpcpp\examples\cortex-m3\vanilla\iar\dpp-ev- #
+#                    lm3s811\rel\bsp.o C:\software\qpcpp\examples\cortex-m3\v #
+#                    anilla\iar\dpp-ev-lm3s811\rel\main.o                     #
+#                    C:\software\qpcpp\examples\cortex-m3\vanilla\iar\dpp-ev- #
+#                    lm3s811\rel\osram96x16x1.o C:\software\qpcpp\examples\co #
+#                    rtex-m3\vanilla\iar\dpp-ev-lm3s811\rel\philo.o           #
+#                    C:\software\qpcpp\examples\cortex-m3\vanilla\iar\dpp-ev- #
+#                    lm3s811\rel\startup.o C:\software\qpcpp\examples\cortex- #
+#                    m3\vanilla\iar\dpp-ev-lm3s811\rel\table.o                #
+#                    C:\software\qpcpp\ports\cortex-m3\vanilla\iar\rel\libqep #
+#                    .a C:\software\qpcpp\ports\cortex-m3\vanilla\iar\rel\lib #
+#                    qf.a C:\tools\IAR\ARM_KS_5.40\arm\examples\TexasInstrume #
+#                    nts\Stellaris\driverlib\ewarm\Exe\driverlib.a            #
+#                    --redirect _Printf=_PrintfTiny --redirect                #
+#                    _Scanf=_ScanfSmall -o C:\software\qpcpp\examples\cortex- #
+#                    m3\vanilla\iar\dpp-ev-lm3s811\rel\dpp.out --map          #
+#                    C:\software\qpcpp\examples\cortex-m3\vanilla\iar\dpp-ev- #
+#                    lm3s811\rel\dpp.map --config                             #
+#                    C:\software\qpcpp\examples\cortex-m3\vanilla\iar\dpp-ev- #
+#                    lm3s811\lm3s811.icf --semihosting --entry                #
+#                    __iar_program_start                                      #
+#                                                                             #
+#                                                                             #
+###############################################################################
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A1":  place at start of [0x00000000-0x0000ffff] { ro section .intvec };
+"P1":  place in [from 0x00000000 to 0x0000ffff] { ro };
+"P2":  place in [from 0x20000000 to 0x20001fff] { rw, block HEAP };
+
+  Section             Kind        Address    Size  Object
+  -------             ----        -------    ----  ------
+"A1":                                        0xb8
+  .intvec             const    0x00000000    0xb8  startup.o [1]
+                             - 0x000000b8    0xb8
+
+"P1":                                      0x1df0
+  .text               ro code  0x000000b8   0x2ec  sysctl.o [4]
+  .text               ro code  0x000003a4   0x228  osram96x16x1.o [1]
+  .rodata             const    0x000005cc   0x1dc  osram96x16x1.o [1]
+  .text               ro code  0x000007a8   0x1d4  table.o [1]
+  .text               ro code  0x0000097c   0x1c8  philo.o [1]
+  .text               ro code  0x00000b44   0x17e  qhsm_dis.o [5]
+  .rodata             const    0x00000cc4   0x100  qf_log2.o [6]
+  .text               ro code  0x00000dc4    0xf8  bsp.o [1]
+  .text               ro code  0x00000ebc    0xe6  gpio.o [4]
+  .text               ro code  0x00000fa4    0xa4  qhsm_ini.o [5]
+  .text               ro code  0x00001048    0x98  qf_pspub.o [6]
+  .text               ro code  0x000010e0    0x94  qmp_init.o [6]
+  .text               ro code  0x00001174    0x90  qvanilla.o [6]
+  .text               ro code  0x00001204    0x8c  xsyslock.o [3]
+  .text               ro code  0x00001290    0x88  xxmemxfree.o [3]
+  .text               ro code  0x00001318    0x84  cppinit.o [3]
+  .text               ro code  0x0000139c    0x7c  main.o [1]
+  .rodata             const    0x00001418    0x74  osram96x16x1.o [1]
+  .rodata             const    0x0000148c    0x70  table.o [1]
+  .text               ro code  0x000014fc    0x60  qf_tick.o [6]
+  .text               ro code  0x0000155c    0x60  qa_fifo.o [6]
+  .text               ro code  0x000015bc    0x60  qa_sub.o [6]
+  .text               ro code  0x0000161c    0x5e  i2c.o [4]
+  .rodata             const    0x0000167c    0x5c  sysctl.o [4]
+  .text               ro code  0x000016d8    0x5c  qf_pool.o [6]
+  .text               ro code  0x00001734    0x5c  qf_new.o [6]
+  .text               ro code  0x00001790    0x50  qf_gc.o [6]
+  .text               ro code  0x000017e0    0x50  qa_get_.o [6]
+  .rodata             const    0x00001830    0x4c  philo.o [1]
+  .rodata             const    0x0000187c    0x48  interrupt.o [4]
+  .rodata             const    0x000018c4    0x44  qf_pwr2.o [6]
+  .rodata             const    0x00001908    0x44  qf_pwr2.o [6]
+  .rodata             const    0x0000194c    0x44  qf_pwr2.o [6]
+  .text               ro code  0x00001990    0x40  qte_arm.o [6]
+  .text               ro code  0x000019d0    0x38  qmp_put.o [6]
+  .text               ro code  0x00001a08    0x30  qte_ctor.o [6]
+  .text               ro code  0x00001a38    0x30  qf_act.o [6]
+  .text               ro code  0x00001a68    0x30  MtxWrapper.o [3]
+  .text               ro code  0x00001a98    0x2c  qa_fifo.o [6]
+  .text               ro code  0x00001ac4    0x2c  qa_get_.o [6]
+  .text               ro code  0x00001af0    0x28  interrupt.o [4]
+  .text               ro code  0x00001b18    0x28  systick.o [4]
+  .text               ro code  0x00001b40    0x28  qvanilla.o [6]
+  .text               ro code  0x00001b68    0x28  cmain.o [7]
+  .text               ro code  0x00001b90    0x24  qmp_get.o [6]
+  .text               ro code  0x00001bb4    0x24  targetabi.o [3]
+  .text               ro code  0x00001bd8    0x24  copy_init2.o [7]
+  .iar.init_table     const    0x00001bfc    0x24  - Linker created -
+  .rodata             const    0x00001c20    0x20  bsp.o [1]
+  .text               ro code  0x00001c40    0x20  data_init2.o [7]
+  .text               ro code  0x00001c60    0x20  targetabi.o [3]
+  .text               ro code  0x00001c80    0x1e  philo.o [1]
+  .text               ro code  0x00001c9e    0x1e  table.o [1]
+  .text               ro code  0x00001cbc    0x1c  iarwstd.o [8]
+  .text               ro code  0x00001cd8    0x1a  zero_init2.o [7]
+  .rodata             const    0x00001cf4    0x14  philo.o [1]
+  .text               ro code  0x00001d08    0x14  exit.o [8]
+  .text               ro code  0x00001d1c    0x12  philo.o [1]
+  .text               ro code  0x00001d2e    0x12  qeq_init.o [6]
+  .rodata             const    0x00001d40    0x10  osram96x16x1.o [1]
+  .rodata             const    0x00001d50    0x10  philo.o [1]
+  .rodata             const    0x00001d60    0x10  philo.o [1]
+  .rodata             const    0x00001d70    0x10  table.o [1]
+  .rodata             const    0x00001d80    0x10  qhsm_ini.o [5]
+  .text               ro code  0x00001d90     0xe  cexit.o [7]
+  .text               ro code  0x00001d9e     0xe  philo.o [1]
+  .rodata             const    0x00001dac     0xc  sysctl.o [4]
+  .rodata             const    0x00001db8     0xc  qvanilla.o [6]
+  .rodata             const    0x00001dc4     0xc  qf_pspub.o [6]
+  .rodata             const    0x00001dd0     0xc  qhsm_ini.o [5]
+  .rodata             const    0x00001ddc     0xc  qte_ctor.o [6]
+  .rodata             const    0x00001de8     0xc  qhsm_dis.o [5]
+  .rodata             const    0x00001df4     0xc  qmp_init.o [6]
+  .text               ro code  0x00001e00     0xc  qf_psini.o [6]
+  .text               ro code  0x00001e0c     0xa  delop_0.o [3]
+  .text               ro code  0x00001e16     0xa  targetabi.o [3]
+  .rodata             const    0x00001e20     0x8  qf_pool.o [6]
+  .rodata             const    0x00001e28     0x8  qf_new.o [6]
+  .rodata             const    0x00001e30     0x8  qa_fifo.o [6]
+  .rodata             const    0x00001e38     0x8  qte_arm.o [6]
+  .rodata             const    0x00001e40     0x8  qa_sub.o [6]
+  .rodata             const    0x00001e48     0x8  qf_gc.o [6]
+  .rodata             const    0x00001e50     0x8  qf_act.o [6]
+  .rodata             const    0x00001e58     0x8  qa_get_.o [6]
+  .rodata             const    0x00001e60     0x8  qep.o [5]
+  .rodata             const    0x00001e68     0x8  qmp_put.o [6]
+  SHT$$PREINIT_ARRAY           0x00001e70     0x0  <Block>
+  SHT$$INIT_ARRAY              0x00001e70     0x8  <Block>
+    .difunct          const    0x00001e70     0x4  philo.o [1]
+    .difunct          const    0x00001e74     0x4  table.o [1]
+  .text               ro code  0x00001e78     0x6  philo.o [1]
+  .text               ro code  0x00001e7e     0x6  philo.o [1]
+  .text               ro code  0x00001e84     0x6  table.o [1]
+  .text               ro code  0x00001e8a     0x6  table.o [1]
+  .text               ro code  0x00001e90     0x6  exit.o [3]
+  .rodata             const    0x00001e98     0x4  table.o [1]
+  .text               ro code  0x00001e9c     0x4  qhsm_top.o [5]
+  .text               ro code  0x00001ea0     0x4  low_level_init.o [3]
+  Initializer bytes   ro data  0x00001ea4     0x4  <for P2 s0>
+                             - 0x00001ea8  0x1df0
+
+"P2", part 1 of 3:                          0x328
+  .iar.dynexit                 0x20000000   0x198  <Block>
+    .iar.dynexit      uninit   0x20000000     0xc  cppinit.o [3]
+    .iar.dynexit      uninit   0x2000000c   0x18c  <Block tail>
+  .noinit             uninit   0x20000198   0x190  startup.o [1]
+                             - 0x20000328   0x328
+
+"P2", part 2 of 3:                          0x380
+  .bss                zero     0x20000328   0x100  qf_act.o [6]
+  .bss                zero     0x20000428    0xf0  philo.o [1]
+  .bss                zero     0x20000518    0xd8  main.o [1]
+  .bss                zero     0x200005f0    0x40  qf_pool.o [6]
+  .bss                zero     0x20000630    0x24  table.o [1]
+  .bss                zero     0x20000654    0x14  xsyslock.o [3]
+  .bss                zero     0x20000668     0xc  qvanilla.o [6]
+  .bss                zero     0x20000674     0x8  qf_psini.o [6]
+  .bss                zero     0x2000067c     0x8  xxmemxmalloc.o [3]
+  .bss                zero     0x20000684     0x4  osram96x16x1.o [1]
+  .bss                zero     0x20000688     0x4  qte_arm.o [6]
+  .bss                zero     0x2000068c     0x4  cppinit.o [3]
+  .bss                zero     0x20000690     0x4  MtxWrapper.o [3]
+  .bss                zero     0x20000694     0x4  MtxWrapper.o [3]
+  .bss                zero     0x20000698     0x4  MtxWrapper.o [3]
+  .bss                zero     0x2000069c     0x4  MtxWrapper.o [3]
+  .bss                zero     0x200006a0     0x4  iarwstd.o [8]
+  .bss                zero     0x200006a4     0x1  philo.o [1]
+  .bss                zero     0x200006a5     0x1  qf_tick.o [6]
+                             - 0x200006a6   0x37e
+
+"P2", part 3 of 3:                            0x4
+  P2 s0                        0x200006a8     0x4  <Init block>
+    .data             inited   0x200006a8     0x4  cppinit.o [3]
+                             - 0x200006ac     0x4
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address     Size
+          -------     ----
+Zero (__iar_zero_init2)
+    1 destination range, total size 0x37e:
+          0x20000328  0x37e
+
+Copy (__iar_copy_init2)
+    1 source range, total size 0x4 (100% of destination):
+          0x00001ea4    0x4
+    1 destination range, total size 0x4:
+          0x200006a8    0x4
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module            ro code  ro data  rw data
+    ------            -------  -------  -------
+C:\software\qpcpp\examples\cortex-m3\vanilla\iar\dpp-ev-lm3s811\rel: [1]
+    bsp.o                 248       32
+    main.o                124               216
+    osram96x16x1.o        552      608        4
+    philo.o               530      132      241
+    startup.o                      184      400
+    table.o               510      136       36
+    -------------------------------------------
+    Total:              1 964    1 092      897
+
+command line: [2]
+    -------------------------------------------
+    Total:
+
+dl7M_tl_in.a: [3]
+    MtxWrapper.o           48                16
+    cppinit.o             132        4       20
+    delop_0.o              10
+    exit.o                  6
+    low_level_init.o        4
+    targetabi.o            78
+    xsyslock.o            140                20
+    xxmemxfree.o          136
+    xxmemxmalloc.o                            8
+    -------------------------------------------
+    Total:                554        4       64
+
+driverlib.a: [4]
+    gpio.o                230
+    i2c.o                  94
+    interrupt.o            40       72
+    sysctl.o              748      104
+    systick.o              40
+    -------------------------------------------
+    Total:              1 152      176
+
+libqep.a: [5]
+    qep.o                            8
+    qhsm_dis.o            382       12
+    qhsm_ini.o            164       28
+    qhsm_top.o              4
+    -------------------------------------------
+    Total:                550       48
+
+libqf.a: [6]
+    qa_fifo.o             140        8
+    qa_get_.o             124        8
+    qa_sub.o               96        8
+    qeq_init.o             18
+    qf_act.o               48        8      256
+    qf_gc.o                80        8
+    qf_log2.o                      256
+    qf_new.o               92        8
+    qf_pool.o              92        8       64
+    qf_psini.o             12                 8
+    qf_pspub.o            152       12
+    qf_pwr2.o                      204
+    qf_tick.o              96                 1
+    qmp_get.o              36
+    qmp_init.o            148       12
+    qmp_put.o              56        8
+    qte_arm.o              64        8        4
+    qte_ctor.o             48       12
+    qvanilla.o            184       12       12
+    -------------------------------------------
+    Total:              1 486      580      345
+
+rt7M_tl.a: [7]
+    cexit.o                14
+    cmain.o                40
+    copy_init2.o           36
+    data_init2.o           32
+    zero_init2.o           26
+    -------------------------------------------
+    Total:                148
+
+shb_l.a: [8]
+    exit.o                 20
+    iarwstd.o              28                 4
+    -------------------------------------------
+    Total:                 48                 4
+
+    Gaps                    2        8
+    Linker created                  36      396
+-----------------------------------------------
+    Grand Total:        5 904    1 944    1 706
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                      Address   Size  Type      Object
+-----                      -------   ----  ----      ------
+.iar.dynexit$$Base      0x20000000          --   Gb  - Linker created -
+.iar.dynexit$$Limit     0x20000198          --   Gb  - Linker created -
+AO_Philo                0x00001cf4   0x14  Data  Gb  philo.o [1]
+AO_Table                0x00001e98    0x4  Data  Gb  table.o [1]
+BSP_busyDelay()         0x00000e67   0x14  Code  Gb  bsp.o [1]
+BSP_displyPhilStat(unsigned char, const char *)
+                        0x00000e47   0x20  Code  Gb  bsp.o [1]
+BSP_init(int, char **)  0x00000dd1   0x6c  Code  Gb  bsp.o [1]
+DtorRecArray            0x20000000    0xc  Data  Lc  cppinit.o [3]
+GPIODirModeSet          0x00000ebd   0x28  Code  Gb  gpio.o [4]
+GPIOPadConfigSet        0x00000ee5   0x98  Code  Gb  gpio.o [4]
+GPIOPinTypeI2C          0x00000f91    0xa  Code  Gb  gpio.o [4]
+GPIOPinWrite            0x00000f7d    0x6  Code  Gb  gpio.o [4]
+I2CMasterControl        0x00001673    0x4  Code  Gb  i2c.o [4]
+I2CMasterDataPut        0x00001677    0x4  Code  Gb  i2c.o [4]
+I2CMasterEnable         0x0000164d    0xc  Code  Gb  i2c.o [4]
+I2CMasterInitExpClk     0x0000161d   0x30  Code  Gb  i2c.o [4]
+I2CMasterIntStatus      0x00001659    0xa  Code  Gb  i2c.o [4]
+I2CMasterSlaveAddrSet   0x0000166b    0x8  Code  Gb  i2c.o [4]
+ISR_DefaultHandler      0x00000dcd    0x2  Code  Gb  bsp.o [1]
+ISR_Fault               0x00000dcb    0x2  Code  Gb  bsp.o [1]
+ISR_Nmi                 0x00000dc9    0x2  Code  Gb  bsp.o [1]
+ISR_SysTick             0x00000dc5    0x4  Code  Gb  bsp.o [1]
+IntPrioritySet          0x00001af1   0x22  Code  Gb  interrupt.o [4]
+OSRAM96x16x1Clear       0x00000461   0x48  Code  Gb  osram96x16x1.o [1]
+OSRAM96x16x1Init        0x00000551   0x68  Code  Gb  osram96x16x1.o [1]
+OSRAM96x16x1StringDraw  0x000004a9   0x8c  Code  Gb  osram96x16x1.o [1]
+OSRAM96x16x1WriteArray  0x000003eb   0x38  Code  Lc  osram96x16x1.o [1]
+OSRAM96x16x1WriteByte   0x000003bd   0x1c  Code  Lc  osram96x16x1.o [1]
+OSRAM96x16x1WriteFinal  0x00000423   0x34  Code  Lc  osram96x16x1.o [1]
+OSRAM96x16x1WriteFirst  0x000003a5   0x18  Code  Lc  osram96x16x1.o [1]
+Philo::Philo()          0x0000097d    0x2  Code  Gb  philo.o [1]
+Philo::Philo() [internal]
+                        0x000009b9   0x34  Code  Gb  philo.o [1]
+Philo::eating(Philo*, const QEvent *)
+                        0x00000adb   0x58  Code  Gb  philo.o [1]
+Philo::hungry(Philo*, const QEvent *)
+                        0x00000a5d   0x4c  Code  Gb  philo.o [1]
+Philo::initial(Philo*, const QEvent *)
+                        0x000009ed   0x18  Code  Gb  philo.o [1]
+Philo::thinking(Philo*, const QEvent *)
+                        0x00000a15   0x48  Code  Gb  philo.o [1]
+Philo::~Philo()         0x00001e7f    0x6  Code  Gb  philo.o [1]
+Philo::~Philo() [deleting]
+                        0x00001e79    0x6  Code  Gb  philo.o [1]
+Philo::~Philo() [internal]
+                        0x00001c81   0x1e  Code  Gb  philo.o [1]
+QActive::get_()         0x000017e1   0x4c  Code  Gb  qa_get_.o [6]
+QActive::postFIFO(const QEvent *)
+                        0x0000155d   0x60  Code  Gb  qa_fifo.o [6]
+QActive::start(unsigned char, const QEvent **, unsigned int, void *, unsigned int, const QEvent *)
+                        0x000011c1   0x44  Code  Gb  qvanilla.o [6]
+QActive::subscribe(unsigned char) const
+                        0x000015bd   0x60  Code  Gb  qa_sub.o [6]
+QActive::~QActive()     0x00001d9f    0xe  Code  Gb  philo.o [1]
+QActive::~QActive() [deleting]
+                        0x00001d1d   0x12  Code  Gb  philo.o [1]
+QEP_reservedEvt_        0x00001e60    0x8  Data  Gb  qep.o [5]
+QEQueue::init(const QEvent **, unsigned char)
+                        0x00001d2f   0x12  Code  Gb  qeq_init.o [6]
+QF::active_             0x20000328  0x100  Data  Gb  qf_act.o [6]
+QF::add_(QActive *)     0x00001a39   0x28  Code  Gb  qf_act.o [6]
+QF::gc(const QEvent *)  0x00001791   0x50  Code  Gb  qf_gc.o [6]
+QF::init()              0x00001175    0x2  Code  Gb  qvanilla.o [6]
+QF::new_(unsigned short, unsigned char)
+                        0x00001735   0x5c  Code  Gb  qf_new.o [6]
+QF::onCleanup()         0x00000e9f    0x2  Code  Gb  bsp.o [1]
+QF::onIdle()            0x00000ea1   0x14  Code  Gb  bsp.o [1]
+QF::onStartup()         0x00000e7b   0x24  Code  Gb  bsp.o [1]
+QF::poolInit(void *, unsigned int, unsigned short)
+                        0x000016d9   0x5c  Code  Gb  qf_pool.o [6]
+QF::psInit(QSubscrList *, unsigned char)
+                        0x00001e01    0xc  Code  Gb  qf_psini.o [6]
+QF::publish(const QEvent *)
+                        0x00001049   0x98  Code  Gb  qf_pspub.o [6]
+QF::run()               0x0000117d   0x44  Code  Gb  qvanilla.o [6]
+QF::stop()              0x00001177    0x4  Code  Gb  qvanilla.o [6]
+QF::tick()              0x000014fd   0x60  Code  Gb  qf_tick.o [6]
+QF_div8Lkup             0x0000194c   0x44  Data  Gb  qf_pwr2.o [6]
+QF_invPwr2Lkup          0x00001908   0x44  Data  Gb  qf_pwr2.o [6]
+QF_log2Lkup             0x00000cc4  0x100  Data  Gb  qf_log2.o [6]
+QF_maxPool_             0x200005f0    0x1  Data  Gb  qf_pool.o [6]
+QF_maxSignal_           0x20000674    0x1  Data  Gb  qf_psini.o [6]
+QF_pool_                0x200005f4   0x3c  Data  Gb  qf_pool.o [6]
+QF_pwr2Lkup             0x000018c4   0x44  Data  Gb  qf_pwr2.o [6]
+QF_readySet_            0x20000668    0xc  Data  Gb  qvanilla.o [6]
+QF_subscrList_          0x20000678    0x4  Data  Gb  qf_psini.o [6]
+QF_timeEvtListHead_     0x20000688    0x4  Data  Gb  qte_arm.o [6]
+QHsm::dispatch(const QEvent *)
+                        0x00000b45  0x174  Code  Gb  qhsm_dis.o [5]
+QHsm::init(const QEvent *)
+                        0x00000fc5   0x84  Code  Gb  qhsm_ini.o [5]
+QHsm::top(QHsm*, const QEvent *)
+                        0x00001e9d    0x4  Code  Gb  qhsm_top.o [5]
+QHsm::~QHsm()           0x00000fad         Code  Gb  qhsm_ini.o [5]
+QHsm::~QHsm() [deleting]
+                        0x00000fa5    0x4  Code  Gb  qhsm_ini.o [5]
+QHsm::~QHsm() [internal]
+                        0x00000faf   0x14  Code  Gb  qhsm_ini.o [5]
+QHsm::~QHsm() [subobject]
+                        0x00000fa9    0x2  Code  Gb  qhsm_ini.o [5]
+QMPool::get()           0x00001b91   0x22  Code  Gb  qmp_get.o [6]
+QMPool::init(void *, unsigned int, unsigned short)
+                        0x000010e1   0x94  Code  Gb  qmp_init.o [6]
+QMPool::put(void *)     0x000019d1   0x38  Code  Gb  qmp_put.o [6]
+QPSet64::findMax() volatile
+                        0x00001b41   0x28  Code  Gb  qvanilla.o [6]
+QPSet64::insert(unsigned char) volatile
+                        0x00001a99   0x2c  Code  Gb  qa_fifo.o [6]
+QPSet64::remove(unsigned char) volatile
+                        0x00001ac5   0x2c  Code  Gb  qa_get_.o [6]
+QTimeEvt::QTimeEvt(unsigned char)
+                        0x00001a09    0x4  Code  Gb  qte_ctor.o [6]
+QTimeEvt::QTimeEvt(unsigned char) [internal]
+                        0x00001a0d   0x2c  Code  Gb  qte_ctor.o [6]
+QTimeEvt::arm_(QActive *, unsigned short)
+                        0x00001991   0x40  Code  Gb  qte_arm.o [6]
+Q_onAssert              0x00000eb9    0x4  Code  Gb  bsp.o [1]
+Region$$Table$$Base     0x00001bfc          --   Gb  - Linker created -
+Region$$Table$$Limit    0x00001c20          --   Gb  - Linker created -
+SHT$$INIT_ARRAY$$Base   0x00001e70          --   Gb  - Linker created -
+SHT$$INIT_ARRAY$$Limit  0x00001e78          --   Gb  - Linker created -
+SHT$$PREINIT_ARRAY$$Base
+                        0x00001e70          --   Gb  - Linker created -
+SHT$$PREINIT_ARRAY$$Limit
+                        0x00001e70          --   Gb  - Linker created -
+SysCtlClockGet          0x00000205  0x188  Code  Gb  sysctl.o [4]
+SysCtlClockSet          0x000000e5  0x120  Code  Gb  sysctl.o [4]
+SysCtlDelay             0x000000dd    0x8  Code  Gb  sysctl.o [4]
+SysCtlPeripheralEnable  0x000000b9    0x6  Code  Gb  sysctl.o [4]
+SysTickEnable           0x00001b19    0xc  Code  Gb  systick.o [4]
+SysTickIntEnable        0x00001b25    0xc  Code  Gb  systick.o [4]
+SysTickPeriodSet        0x00001b35    0x8  Code  Gb  systick.o [4]
+Table::Table() [internal]
+                        0x000007cd   0x34  Code  Gb  table.o [1]
+Table::initial(Table*, const QEvent *)
+                        0x00000801   0x20  Code  Gb  table.o [1]
+Table::serving(Table*, const QEvent *)
+                        0x00000821  0x14c  Code  Gb  table.o [1]
+Table::~Table()         0x00001e8b    0x6  Code  Gb  table.o [1]
+Table::~Table() [deleting]
+                        0x00001e85    0x6  Code  Gb  table.o [1]
+Table::~Table() [internal]
+                        0x00001c9f   0x1e  Code  Gb  table.o [1]
+Virtual function table for Philo
+                        0x00001d60   0x10  Data  Gb  philo.o [1]
+Virtual function table for QActive
+                        0x00001d50   0x10  Data  Gb  philo.o [1]
+Virtual function table for QHsm
+                        0x00001d80   0x10  Data  Gb  qhsm_ini.o [5]
+Virtual function table for Table
+                        0x00001d70   0x10  Data  Gb  table.o [1]
+__aeabi_atexit          0x00001e17    0xa  Code  Gb  targetabi.o [3]
+__aeabi_vec_ctor_nocookie_nodtor
+                        0x00001bb5   0x24  Code  Gb  targetabi.o [3]
+__aeabi_vec_dtor        0x00001c61   0x20  Code  Gb  targetabi.o [3]
+__call_ctors            0x00001319   0x18  Code  Gb  cppinit.o [3]
+__call_dtors            0x00001359    0x4  Code  Gb  cppinit.o [3]
+__cstart_call_dtors     0x00001d93         Code  Gb  cexit.o [7]
+__cxa_atexit            0x00001331   0x28  Code  Gb  cppinit.o [3]
+__cxa_finalize          0x0000135d   0x3c  Code  Gb  cppinit.o [3]
+__data_Aldata           0x2000067c    0x8  Data  Gb  xxmemxmalloc.o [3]
+__dso_handle            0x2000068c    0x4  Data  Gb  cppinit.o [3]
+__exit                  0x00001d09   0x14  Code  Gb  exit.o [8]
+__iar_Locksyslock       0x0000122d   0x4c  Code  Gb  xsyslock.o [3]
+__iar_Mtxdst            0x00001a6f    0x4  Code  Gb  MtxWrapper.o [3]
+__iar_Mtxinit           0x00001a69    0x6  Code  Gb  MtxWrapper.o [3]
+__iar_Mtxlock           0x00001a7d    0x6  Code  Gb  MtxWrapper.o [3]
+__iar_Mtxunlock         0x00001a83    0x6  Code  Gb  MtxWrapper.o [3]
+__iar_Unlocksyslock     0x00001279   0x14  Code  Gb  xsyslock.o [3]
+__iar_copy_init2        0x00001bd9   0x24  Code  Gb  copy_init2.o [7]
+__iar_cstart_call_ctors
+                        0x00001b75         Code  Gb  cmain.o [7]
+__iar_data_init2        0x00001c41   0x20  Code  Gb  data_init2.o [7]
+__iar_program_start     0x00001b69         Code  Gb  cmain.o [7]
+__iar_sh_stdout_close   0x00001cbd   0x16  Code  Gb  iarwstd.o [8]
+__iar_sh_stdout_handle  0x200006a0    0x4  Data  Lc  iarwstd.o [8]
+__iar_zero_init2        0x00001cd9   0x1a  Code  Gb  zero_init2.o [7]
+__low_level_init        0x00001ea1    0x4  Code  Gb  low_level_init.o [3]
+__vector_table          0x00000000   0xb8  Data  Gb  startup.o [1]
+_exit                   0x00001d91         Code  Gb  cexit.o [7]
+_main                   0x00001b83         Code  Gb  cmain.o [7]
+clearlocks              0x00001205   0x26  Code  Lc  xsyslock.o [3]
+exit                    0x00001e91    0x6  Code  Gb  exit.o [3]
+free                    0x00001291   0x88  Code  Gb  xxmemxfree.o [3]
+g_pucFont               0x000005cc  0x1dc  Data  Lc  osram96x16x1.o [1]
+g_pucOSRAMInit          0x00001418   0x74  Data  Lc  osram96x16x1.o [1]
+g_pulRCGCRegs           0x00001dac    0xc  Data  Lc  sysctl.o [4]
+g_pulRegs               0x0000187c   0x48  Data  Lc  interrupt.o [4]
+g_pulXtals              0x0000167c   0x5c  Data  Lc  sysctl.o [4]
+g_ulDelay               0x20000684    0x4  Data  Lc  osram96x16x1.o [1]
+l_philo                 0x20000428   0xf0  Data  Lc  philo.o [1]
+l_philoQueueSto         0x2000052c   0x64  Data  Lc  main.o [1]
+l_smlPoolSto            0x200005c8   0x28  Data  Lc  main.o [1]
+l_subscrSto             0x20000590   0x38  Data  Lc  main.o [1]
+l_table                 0x20000630   0x24  Data  Lc  table.o [1]
+l_tableQueueSto         0x20000518   0x14  Data  Lc  main.o [1]
+l_this_file             0x00001830   0x4c  Data  Lc  philo.o [1]
+l_this_file             0x000014b0   0x4c  Data  Lc  table.o [1]
+l_this_file             0x00001db8    0xc  Data  Lc  qvanilla.o [6]
+l_this_file             0x00001e20    0x8  Data  Lc  qf_pool.o [6]
+l_this_file             0x00001e28    0x8  Data  Lc  qf_new.o [6]
+l_this_file             0x00001dc4    0xc  Data  Lc  qf_pspub.o [6]
+l_this_file             0x00001dd0    0xc  Data  Lc  qhsm_ini.o [5]
+l_this_file             0x00001e30    0x8  Data  Lc  qa_fifo.o [6]
+l_this_file             0x00001e38    0x8  Data  Lc  qte_arm.o [6]
+l_this_file             0x00001ddc    0xc  Data  Lc  qte_ctor.o [6]
+l_this_file             0x00001e40    0x8  Data  Lc  qa_sub.o [6]
+l_this_file             0x00001e48    0x8  Data  Lc  qf_gc.o [6]
+l_this_file             0x00001e50    0x8  Data  Lc  qf_act.o [6]
+l_this_file             0x00001de8    0xc  Data  Lc  qhsm_dis.o [5]
+l_this_file             0x00001e58    0x8  Data  Lc  qa_get_.o [6]
+l_this_file             0x00001df4    0xc  Data  Lc  qmp_init.o [6]
+l_this_file             0x00001e68    0x8  Data  Lc  qmp_put.o [6]
+main                    0x0000139d   0x70  Code  Gb  main.o [1]
+mtx                     0x20000658   0x10  Data  Lc  xsyslock.o [3]
+mtxdst                  0x20000694    0x4  Data  Lc  MtxWrapper.o [3]
+mtxinit                 0x20000690    0x4  Data  Lc  MtxWrapper.o [3]
+mtxlock                 0x20000698    0x4  Data  Lc  MtxWrapper.o [3]
+mtxunlock               0x2000069c    0x4  Data  Lc  MtxWrapper.o [3]
+next_abi_dtor_rec       0x200006a8    0x4  Data  Lc  cppinit.o [3]
+operator delete (void *)
+                        0x00001e0d    0xa  Code  Gb  delop_0.o [3]
+stack                   0x20000198  0x190  Data  Lc  startup.o [1]
+syslock_o               0x20000654    0x4  Data  Lc  xsyslock.o [3]
+
+
+[1] = C:\software\qpcpp\examples\cortex-m3\vanilla\iar\dpp-ev-lm3s811\rel
+[2] = command line
+[3] = dl7M_tl_in.a
+[4] = driverlib.a
+[5] = libqep.a
+[6] = libqf.a
+[7] = rt7M_tl.a
+[8] = shb_l.a
+
+  5 904 bytes of readonly  code memory
+  1 944 bytes of readonly  data memory
+  1 706 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

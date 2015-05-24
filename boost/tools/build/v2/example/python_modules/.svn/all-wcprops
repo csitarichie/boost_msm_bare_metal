@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/example/python_modules
+END
+jamroot.jam
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/example/python_modules/jamroot.jam
+END
+python_helpers.jam
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/example/python_modules/python_helpers.jam
+END
+python_helpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/example/python_modules/python_helpers.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/example/python_modules/readme.txt
+END

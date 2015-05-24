@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support
+END
+typeof_actor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_actor.cpp
+END
+typeof_core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_core.cpp
+END
+typeof_symbols.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_symbols.cpp
+END
+typeof_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_iterator.cpp
+END
+typeof_error_handling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_error_handling.cpp
+END
+typeof_tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_tree.cpp
+END
+typeof_attribute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_attribute.cpp
+END
+typeof_utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_utility.cpp
+END
+typeof_dynamic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_dynamic.cpp
+END
+typeof_debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/test/typeof_support/typeof_debug.cpp
+END

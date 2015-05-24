@@ -1,0 +1,706 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 02288H 02289H _TEXT              CODE
+ 02289H 02379H 000F1H BSP_TEXT           CODE
+ 0237AH 02958H 005DFH DEFER_TEXT         CODE
+ 02959H 029E9H 00091H QA_DEFER_TEXT      CODE
+ 029EAH 02B1BH 00132H QA_FIFO_TEXT       CODE
+ 02B1CH 02C09H 000EEH QA_LIFO_TEXT       CODE
+ 02C0AH 02DA7H 0019EH QA_GET__TEXT       CODE
+ 02DA8H 02E68H 000C1H QEQ_FIFO_TEXT      CODE
+ 02E69H 02F1AH 000B2H QEQ_GET_TEXT       CODE
+ 02F1BH 02F6EH 00054H QEQ_INIT_TEXT      CODE
+ 02F6FH 03066H 000F8H QF_ACT_TEXT        CODE
+ 03067H 030E6H 00080H QF_GC_TEXT         CODE
+ 030E7H 030E7H 00000H QF_LOG2_TEXT       CODE
+ 030E7H 031A1H 000BBH QF_NEW_TEXT        CODE
+ 031A2H 03224H 00083H QF_POOL_TEXT       CODE
+ 03225H 03225H 00000H QF_PWR2_TEXT       CODE
+ 03225H 03327H 00103H QF_TICK_TEXT       CODE
+ 03328H 033E0H 000B9H QMP_GET_TEXT       CODE
+ 033E1H 03580H 001A0H QMP_INIT_TEXT      CODE
+ 03581H 03606H 00086H QMP_PUT_TEXT       CODE
+ 03607H 036A6H 000A0H QTE_CTOR_TEXT      CODE
+ 036A7H 0374CH 000A6H QTE_ARM_TEXT       CODE
+ 0374DH 037E4H 00098H QTE_DARM_TEXT      CODE
+ 037E5H 03973H 0018FH QVANILLA_TEXT      CODE
+ 03974H 0397FH 0000CH QEP_TEXT           CODE
+ 03980H 03AEAH 0016BH QHSM_INI_TEXT      CODE
+ 03AEBH 03F8EH 004A4H QHSM_DIS_TEXT      CODE
+ 03F8FH 03F97H 00009H QHSM_TOP_TEXT      CODE
+ 03FA0H 03FA0H 00000H _FARDATA           FAR_DATA
+ 03FA0H 03FA0H 00000H BSP5_FAR           FAR_DATA
+ 03FA0H 03FA0H 00000H DEFER5_FAR         FAR_DATA
+ 03FA0H 03FA0H 00000H QA_DEFER5_FAR      FAR_DATA
+ 03FA0H 03FA0H 00000H QA_FIFO5_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QA_LIFO5_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QA_GET_5_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QEQ_FIFO5_FAR      FAR_DATA
+ 03FA0H 03FA0H 00000H QEQ_GET5_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QEQ_INIT5_FAR      FAR_DATA
+ 03FA0H 03FA0H 00000H QF_ACT5_FAR        FAR_DATA
+ 03FA0H 03FA0H 00000H QF_GC5_FAR         FAR_DATA
+ 03FA0H 03FA0H 00000H QF_LOG25_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QF_NEW5_FAR        FAR_DATA
+ 03FA0H 03FA0H 00000H QF_POOL5_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QF_PWR25_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QF_TICK5_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QMP_GET5_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QMP_INIT5_FAR      FAR_DATA
+ 03FA0H 03FA0H 00000H QMP_PUT5_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QTE_CTOR5_FAR      FAR_DATA
+ 03FA0H 03FA0H 00000H QTE_ARM5_FAR       FAR_DATA
+ 03FA0H 03FA0H 00000H QTE_DARM5_FAR      FAR_DATA
+ 03FA0H 03FA0H 00000H QVANILLA5_FAR      FAR_DATA
+ 03FA0H 03FA0H 00000H _OVERLAY_          OVRINFO
+ 03FA0H 03FB7H 00018H _INIT_             INITDATA
+ 03FB8H 03FB8H 00000H _INITEND_          INITDATA
+ 03FB8H 03FBDH 00006H _EXIT_             EXITDATA
+ 03FBEH 03FBEH 00000H _EXITEND_          EXITDATA
+ 03FC0H 03FC0H 00000H _1STUB_            STUBSEG
+ 03FC0H 04783H 007C4H _DATA              DATA
+ 04784H 04784H 00000H _CVTSEG            DATA
+ 04784H 04784H 00000H _SCNSEG            DATA
+ 04784H 0495BH 001D8H _BSS               BSS
+ 0495CH 0495CH 00000H _BSSEND            ENDBSS
+ 04960H 049DFH 00080H _STACK             STACK
+
+
+Detailed map of segments
+
+ 0000:0000 020A C=CODE   S=_TEXT          G=(none)  M=c0.ASM     ACBP=28
+ 0000:020A 002D C=CODE   S=_TEXT          G=(none)  M=ATEXIT     ACBP=28
+ 0000:0237 014C C=CODE   S=_TEXT          G=(none)  M=CPRINTF    ACBP=28
+ 0000:0383 0026 C=CODE   S=_TEXT          G=(none)  M=EXIT       ACBP=28
+ 0000:03A9 012C C=CODE   S=_TEXT          G=(none)  M=FBRK       ACBP=28
+ 0000:04D5 00D0 C=CODE   S=_TEXT          G=(none)  M=FFLUSH     ACBP=28
+ 0000:05A5 0000 C=CODE   S=_TEXT          G=(none)  M=FILES      ACBP=28
+ 0000:05A5 0000 C=CODE   S=_TEXT          G=(none)  M=FILES2     ACBP=28
+ 0000:05A5 0043 C=CODE   S=_TEXT          G=(none)  M=FLUSHALL   ACBP=28
+ 0000:05E8 001C C=CODE   S=_TEXT          G=(none)  M=FPRINTF    ACBP=28
+ 0000:0604 0154 C=CODE   S=_TEXT          G=(none)  M=FSEEK      ACBP=28
+ 0000:0758 008B C=CODE   S=_TEXT          G=(none)  M=GPTEXT     ACBP=28
+ 0000:07E3 00A6 C=CODE   S=_TEXT          G=(none)  M=MOVETEXT   ACBP=28
+ 0000:0889 001B C=CODE   S=_TEXT          G=(none)  M=PRINTF     ACBP=28
+ 0000:08A4 033D C=CODE   S=_TEXT          G=(none)  M=PUTC       ACBP=28
+ 0000:0BE1 0017 C=CODE   S=_TEXT          G=(none)  M=PUTCH      ACBP=28
+ 0000:0BF8 01B1 C=CODE   S=_TEXT          G=(none)  M=SCREEN     ACBP=28
+ 0000:0DA9 0192 C=CODE   S=_TEXT          G=(none)  M=SCROLL     ACBP=28
+ 0000:0F3B 0079 C=CODE   S=_TEXT          G=(none)  M=SETUPIO    ACBP=28
+ 0000:0FB4 011F C=CODE   S=_TEXT          G=(none)  M=SETVBUF    ACBP=28
+ 0000:10D3 0000 C=CODE   S=_TEXT          G=(none)  M=STKLEN     ACBP=28
+ 0000:10D3 001A C=CODE   S=_TEXT          G=(none)  M=TELL       ACBP=28
+ 0000:10ED 002C C=CODE   S=_TEXT          G=(none)  M=WHEREXY    ACBP=28
+ 0000:1119 012D C=CODE   S=_TEXT          G=(none)  M=WRITE      ACBP=28
+ 0000:1246 0000 C=CODE   S=_TEXT          G=(none)  M=WSCROLL    ACBP=28
+ 0000:1246 003A C=CODE   S=_TEXT          G=(none)  M=XFFLUSH    ACBP=28
+ 0000:1280 01BA C=CODE   S=_TEXT          G=(none)  M=CRTINIT    ACBP=28
+ 0000:143A 005C C=CODE   S=_TEXT          G=(none)  M=GETCH      ACBP=28
+ 0000:1496 0020 C=CODE   S=_TEXT          G=(none)  M=GETVECT    ACBP=28
+ 0000:14B6 003D C=CODE   S=_TEXT          G=(none)  M=IOERROR    ACBP=28
+ 0000:14F3 0011 C=CODE   S=_TEXT          G=(none)  M=ISATTY     ACBP=28
+ 0000:1504 0006 C=CODE   S=_TEXT          G=(none)  M=KBHIT      ACBP=28
+ 0000:150A 0029 C=CODE   S=_TEXT          G=(none)  M=LSEEK      ACBP=28
+ 0000:1533 00F1 C=CODE   S=_TEXT          G=(none)  M=LTOA       ACBP=28
+ 0000:1624 0024 C=CODE   S=_TEXT          G=(none)  M=MEMCPY     ACBP=28
+ 0000:1648 001C C=CODE   S=_TEXT          G=(none)  M=SETBLOCK   ACBP=28
+ 0000:1664 04F0 C=CODE   S=_TEXT          G=(none)  M=VPRINTER   ACBP=28
+ 0000:1B54 009F C=CODE   S=_TEXT          G=(none)  M=VRAM       ACBP=28
+ 0000:1BF3 004B C=CODE   S=_TEXT          G=(none)  M=WRITEA     ACBP=28
+ 0000:1C3E 0012 C=CODE   S=_TEXT          G=(none)  M=DEL        ACBP=28
+ 0000:1C50 006C C=CODE   S=_TEXT          G=(none)  M=NEW        ACBP=28
+ 0000:1CC0 03FC C=CODE   S=_TEXT          G=(none)  M=FARHEAP    ACBP=68
+ 0000:20BC 0021 C=CODE   S=_TEXT          G=(none)  M=H_LLSH     ACBP=28
+ 0000:20DD 0060 C=CODE   S=_TEXT          G=(none)  M=H_PADD     ACBP=28
+ 0000:213D 0021 C=CODE   S=_TEXT          G=(none)  M=N_PCMP     ACBP=28
+ 0000:215E 0004 C=CODE   S=_TEXT          G=(none)  M=REALCVT    ACBP=28
+ 0000:2162 0127 C=CODE   S=_TEXT          G=(none)  M=SETARGV    ACBP=28
+ 0228:0009 00F1 C=CODE   S=BSP_TEXT       G=(none)  M=BSP.CPP    ACBP=28
+ 0237:000A 05DF C=CODE   S=DEFER_TEXT     G=(none)  M=DEFER.CPP  ACBP=28
+ 0295:0009 0091 C=CODE   S=QA_DEFER_TEXT  G=(none)  M=QA_DEFER   ACBP=28
+ 029E:000A 0132 C=CODE   S=QA_FIFO_TEXT   G=(none)  M=QA_FIFO    ACBP=28
+ 02B1:000C 00EE C=CODE   S=QA_LIFO_TEXT   G=(none)  M=QA_LIFO    ACBP=28
+ 02C0:000A 019E C=CODE   S=QA_GET__TEXT   G=(none)  M=QA_GET_    ACBP=28
+ 02DA:0008 00C1 C=CODE   S=QEQ_FIFO_TEXT  G=(none)  M=QEQ_FIFO   ACBP=28
+ 02E6:0009 00B2 C=CODE   S=QEQ_GET_TEXT   G=(none)  M=QEQ_GET    ACBP=28
+ 02F1:000B 0054 C=CODE   S=QEQ_INIT_TEXT  G=(none)  M=QEQ_INIT   ACBP=28
+ 02F6:000F 00F8 C=CODE   S=QF_ACT_TEXT    G=(none)  M=QF_ACT     ACBP=28
+ 0306:0007 0080 C=CODE   S=QF_GC_TEXT     G=(none)  M=QF_GC      ACBP=28
+ 030E:0007 0000 C=CODE   S=QF_LOG2_TEXT   G=(none)  M=QF_LOG2    ACBP=28
+ 030E:0007 00BB C=CODE   S=QF_NEW_TEXT    G=(none)  M=QF_NEW     ACBP=28
+ 031A:0002 0083 C=CODE   S=QF_POOL_TEXT   G=(none)  M=QF_POOL    ACBP=28
+ 0322:0005 0000 C=CODE   S=QF_PWR2_TEXT   G=(none)  M=QF_PWR2    ACBP=28
+ 0322:0005 0103 C=CODE   S=QF_TICK_TEXT   G=(none)  M=QF_TICK    ACBP=28
+ 0332:0008 00B9 C=CODE   S=QMP_GET_TEXT   G=(none)  M=QMP_GET    ACBP=28
+ 033E:0001 01A0 C=CODE   S=QMP_INIT_TEXT  G=(none)  M=QMP_INIT   ACBP=28
+ 0358:0001 0086 C=CODE   S=QMP_PUT_TEXT   G=(none)  M=QMP_PUT    ACBP=28
+ 0360:0007 00A0 C=CODE   S=QTE_CTOR_TEXT  G=(none)  M=QTE_CTOR   ACBP=28
+ 036A:0007 00A6 C=CODE   S=QTE_ARM_TEXT   G=(none)  M=QTE_ARM    ACBP=28
+ 0374:000D 0098 C=CODE   S=QTE_DARM_TEXT  G=(none)  M=QTE_DARM   ACBP=28
+ 037E:0005 018F C=CODE   S=QVANILLA_TEXT  G=(none)  M=QVANILLA   ACBP=28
+ 0397:0004 000C C=CODE   S=QEP_TEXT       G=(none)  M=QEP        ACBP=28
+ 0398:0000 016B C=CODE   S=QHSM_INI_TEXT  G=(none)  M=QHSM_INI   ACBP=28
+ 03AE:000B 04A4 C=CODE   S=QHSM_DIS_TEXT  G=(none)  M=QHSM_DIS   ACBP=28
+ 03F8:000F 0009 C=CODE   S=QHSM_TOP_TEXT  G=(none)  M=QHSM_TOP   ACBP=28
+ 03FA:0000 0000 C=FAR_DATA S=_FARDATA       G=(none)  M=c0.ASM     ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=BSP5_FAR       G=(none)  M=BSP.CPP    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=DEFER5_FAR     G=(none)  M=DEFER.CPP  ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QA_DEFER5_FAR  G=(none)  M=QA_DEFER   ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QA_FIFO5_FAR   G=(none)  M=QA_FIFO    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QA_LIFO5_FAR   G=(none)  M=QA_LIFO    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QA_GET_5_FAR   G=(none)  M=QA_GET_    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QEQ_FIFO5_FAR  G=(none)  M=QEQ_FIFO   ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QEQ_GET5_FAR   G=(none)  M=QEQ_GET    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QEQ_INIT5_FAR  G=(none)  M=QEQ_INIT   ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QF_ACT5_FAR    G=(none)  M=QF_ACT     ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QF_GC5_FAR     G=(none)  M=QF_GC      ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QF_LOG25_FAR   G=(none)  M=QF_LOG2    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QF_NEW5_FAR    G=(none)  M=QF_NEW     ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QF_POOL5_FAR   G=(none)  M=QF_POOL    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QF_PWR25_FAR   G=(none)  M=QF_PWR2    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QF_TICK5_FAR   G=(none)  M=QF_TICK    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QMP_GET5_FAR   G=(none)  M=QMP_GET    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QMP_INIT5_FAR  G=(none)  M=QMP_INIT   ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QMP_PUT5_FAR   G=(none)  M=QMP_PUT    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QTE_CTOR5_FAR  G=(none)  M=QTE_CTOR   ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QTE_ARM5_FAR   G=(none)  M=QTE_ARM    ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QTE_DARM5_FAR  G=(none)  M=QTE_DARM   ACBP=68
+ 03FA:0000 0000 C=FAR_DATA S=QVANILLA5_FAR  G=(none)  M=QVANILLA   ACBP=68
+ 03FA:0000 0000 C=OVRINFO S=_OVERLAY_      G=(none)  M=c0.ASM     ACBP=68
+ 03FA:0000 0000 C=INITDATA S=_INIT_         G=IGROUP  M=c0.ASM     ACBP=48
+ 03FA:0000 0006 C=INITDATA S=_INIT_         G=IGROUP  M=DEFER.CPP  ACBP=48
+ 03FA:0006 0006 C=INITDATA S=_INIT_         G=IGROUP  M=SETUPIO    ACBP=48
+ 03FA:000C 0006 C=INITDATA S=_INIT_         G=IGROUP  M=CRTINIT    ACBP=48
+ 03FA:0012 0006 C=INITDATA S=_INIT_         G=IGROUP  M=SETARGV    ACBP=48
+ 03FA:0018 0000 C=INITDATA S=_INITEND_      G=IGROUP  M=c0.ASM     ACBP=28
+ 03FB:0008 0000 C=EXITDATA S=_EXIT_         G=EGROUP  M=c0.ASM     ACBP=48
+ 03FB:0008 0006 C=EXITDATA S=_EXIT_         G=EGROUP  M=DEFER.CPP  ACBP=48
+ 03FB:000E 0000 C=EXITDATA S=_EXITEND_      G=EGROUP  M=c0.ASM     ACBP=28
+ 03FC:0000 0000 C=STUBSEG S=_1STUB_        G=(none)  M=c0.ASM     ACBP=68
+ 03FC:0000 008F C=DATA   S=_DATA          G=DGROUP  M=c0.ASM     ACBP=68
+ 03FC:0090 0020 C=DATA   S=_DATA          G=DGROUP  M=BSP.CPP    ACBP=48
+ 03FC:00B0 0193 C=DATA   S=_DATA          G=DGROUP  M=DEFER.CPP  ACBP=48
+ 03FC:0244 0009 C=DATA   S=_DATA          G=DGROUP  M=QA_DEFER   ACBP=48
+ 03FC:024E 0008 C=DATA   S=_DATA          G=DGROUP  M=QA_FIFO    ACBP=48
+ 03FC:0256 0008 C=DATA   S=_DATA          G=DGROUP  M=QA_LIFO    ACBP=48
+ 03FC:025E 0008 C=DATA   S=_DATA          G=DGROUP  M=QA_GET_    ACBP=48
+ 03FC:0266 0009 C=DATA   S=_DATA          G=DGROUP  M=QEQ_FIFO   ACBP=48
+ 03FC:0270 0000 C=DATA   S=_DATA          G=DGROUP  M=QEQ_GET    ACBP=48
+ 03FC:0270 0000 C=DATA   S=_DATA          G=DGROUP  M=QEQ_INIT   ACBP=48
+ 03FC:0270 000E C=DATA   S=_DATA          G=DGROUP  M=QF_ACT     ACBP=48
+ 03FC:027E 0006 C=DATA   S=_DATA          G=DGROUP  M=QF_GC      ACBP=48
+ 03FC:0284 0100 C=DATA   S=_DATA          G=DGROUP  M=QF_LOG2    ACBP=48
+ 03FC:0384 0007 C=DATA   S=_DATA          G=DGROUP  M=QF_NEW     ACBP=48
+ 03FC:038C 0045 C=DATA   S=_DATA          G=DGROUP  M=QF_POOL    ACBP=48
+ 03FC:03D2 00C3 C=DATA   S=_DATA          G=DGROUP  M=QF_PWR2    ACBP=48
+ 03FC:0496 0000 C=DATA   S=_DATA          G=DGROUP  M=QF_TICK    ACBP=48
+ 03FC:0496 0008 C=DATA   S=_DATA          G=DGROUP  M=QMP_GET    ACBP=48
+ 03FC:049E 0009 C=DATA   S=_DATA          G=DGROUP  M=QMP_INIT   ACBP=48
+ 03FC:04A8 0008 C=DATA   S=_DATA          G=DGROUP  M=QMP_PUT    ACBP=48
+ 03FC:04B0 0009 C=DATA   S=_DATA          G=DGROUP  M=QTE_CTOR   ACBP=48
+ 03FC:04BA 000C C=DATA   S=_DATA          G=DGROUP  M=QTE_ARM    ACBP=48
+ 03FC:04C6 0000 C=DATA   S=_DATA          G=DGROUP  M=QTE_DARM   ACBP=48
+ 03FC:04C6 0019 C=DATA   S=_DATA          G=DGROUP  M=QVANILLA   ACBP=48
+ 03FC:04E0 000F C=DATA   S=_DATA          G=DGROUP  M=QEP        ACBP=48
+ 03FC:04F0 0009 C=DATA   S=_DATA          G=DGROUP  M=QHSM_INI   ACBP=48
+ 03FC:04FA 0009 C=DATA   S=_DATA          G=DGROUP  M=QHSM_DIS   ACBP=48
+ 03FC:0504 0000 C=DATA   S=_DATA          G=DGROUP  M=QHSM_TOP   ACBP=48
+ 03FC:0504 0002 C=DATA   S=_DATA          G=DGROUP  M=ATEXIT     ACBP=48
+ 03FC:0506 0000 C=DATA   S=_DATA          G=DGROUP  M=CPRINTF    ACBP=48
+ 03FC:0506 000C C=DATA   S=_DATA          G=DGROUP  M=EXIT       ACBP=48
+ 03FC:0512 0002 C=DATA   S=_DATA          G=DGROUP  M=FBRK       ACBP=48
+ 03FC:0514 0000 C=DATA   S=_DATA          G=DGROUP  M=FFLUSH     ACBP=48
+ 03FC:0514 0190 C=DATA   S=_DATA          G=DGROUP  M=FILES      ACBP=48
+ 03FC:06A4 0028 C=DATA   S=_DATA          G=DGROUP  M=FILES2     ACBP=48
+ 03FC:06CC 0000 C=DATA   S=_DATA          G=DGROUP  M=FLUSHALL   ACBP=48
+ 03FC:06CC 0000 C=DATA   S=_DATA          G=DGROUP  M=FPRINTF    ACBP=48
+ 03FC:06CC 0000 C=DATA   S=_DATA          G=DGROUP  M=FSEEK      ACBP=48
+ 03FC:06CC 0000 C=DATA   S=_DATA          G=DGROUP  M=GPTEXT     ACBP=48
+ 03FC:06CC 0000 C=DATA   S=_DATA          G=DGROUP  M=MOVETEXT   ACBP=48
+ 03FC:06CC 0000 C=DATA   S=_DATA          G=DGROUP  M=PRINTF     ACBP=48
+ 03FC:06CC 0001 C=DATA   S=_DATA          G=DGROUP  M=PUTC       ACBP=48
+ 03FC:06CE 0000 C=DATA   S=_DATA          G=DGROUP  M=PUTCH      ACBP=48
+ 03FC:06CE 0000 C=DATA   S=_DATA          G=DGROUP  M=SCREEN     ACBP=48
+ 03FC:06CE 0000 C=DATA   S=_DATA          G=DGROUP  M=SCROLL     ACBP=48
+ 03FC:06CE 0000 C=DATA   S=_DATA          G=DGROUP  M=SETUPIO    ACBP=48
+ 03FC:06CE 0004 C=DATA   S=_DATA          G=DGROUP  M=SETVBUF    ACBP=48
+ 03FC:06D2 0002 C=DATA   S=_DATA          G=DGROUP  M=STKLEN     ACBP=48
+ 03FC:06D4 0000 C=DATA   S=_DATA          G=DGROUP  M=TELL       ACBP=48
+ 03FC:06D4 0000 C=DATA   S=_DATA          G=DGROUP  M=WHEREXY    ACBP=48
+ 03FC:06D4 0000 C=DATA   S=_DATA          G=DGROUP  M=WRITE      ACBP=48
+ 03FC:06D4 0002 C=DATA   S=_DATA          G=DGROUP  M=WSCROLL    ACBP=48
+ 03FC:06D6 0000 C=DATA   S=_DATA          G=DGROUP  M=XFFLUSH    ACBP=48
+ 03FC:06D6 0018 C=DATA   S=_DATA          G=DGROUP  M=CRTINIT    ACBP=48
+ 03FC:06EE 0002 C=DATA   S=_DATA          G=DGROUP  M=GETCH      ACBP=48
+ 03FC:06F0 0000 C=DATA   S=_DATA          G=DGROUP  M=GETVECT    ACBP=48
+ 03FC:06F0 005B C=DATA   S=_DATA          G=DGROUP  M=IOERROR    ACBP=48
+ 03FC:074C 0000 C=DATA   S=_DATA          G=DGROUP  M=ISATTY     ACBP=48
+ 03FC:074C 0000 C=DATA   S=_DATA          G=DGROUP  M=KBHIT      ACBP=48
+ 03FC:074C 0000 C=DATA   S=_DATA          G=DGROUP  M=LSEEK      ACBP=48
+ 03FC:074C 0000 C=DATA   S=_DATA          G=DGROUP  M=LTOA       ACBP=48
+ 03FC:074C 0000 C=DATA   S=_DATA          G=DGROUP  M=MEMCPY     ACBP=48
+ 03FC:074C 0000 C=DATA   S=_DATA          G=DGROUP  M=SETBLOCK   ACBP=48
+ 03FC:074C 0067 C=DATA   S=_DATA          G=DGROUP  M=VPRINTER   ACBP=48
+ 03FC:07B4 0000 C=DATA   S=_DATA          G=DGROUP  M=VRAM       ACBP=48
+ 03FC:07B4 0000 C=DATA   S=_DATA          G=DGROUP  M=WRITEA     ACBP=48
+ 03FC:07B4 0000 C=DATA   S=_DATA          G=DGROUP  M=DEL        ACBP=48
+ 03FC:07B4 0000 C=DATA   S=_DATA          G=DGROUP  M=NEW        ACBP=48
+ 03FC:07B4 0010 C=DATA   S=_DATA          G=DGROUP  M=SETARGV    ACBP=48
+ 03FC:07C4 0000 C=DATA   S=_CVTSEG        G=DGROUP  M=c0.ASM     ACBP=48
+ 03FC:07C4 0000 C=DATA   S=_CVTSEG        G=DGROUP  M=REALCVT    ACBP=48
+ 03FC:07C4 0000 C=DATA   S=_SCNSEG        G=DGROUP  M=c0.ASM     ACBP=48
+ 03FC:07C4 0000 C=BSS    S=_BSS           G=DGROUP  M=c0.ASM     ACBP=48
+ 03FC:07C4 0008 C=BSS    S=_BSS           G=DGROUP  M=BSP.CPP    ACBP=48
+ 03FC:07CC 0046 C=BSS    S=_BSS           G=DGROUP  M=DEFER.CPP  ACBP=48
+ 03FC:0812 0000 C=BSS    S=_BSS           G=DGROUP  M=QA_DEFER   ACBP=48
+ 03FC:0812 0000 C=BSS    S=_BSS           G=DGROUP  M=QA_FIFO    ACBP=48
+ 03FC:0812 0000 C=BSS    S=_BSS           G=DGROUP  M=QA_LIFO    ACBP=48
+ 03FC:0812 0000 C=BSS    S=_BSS           G=DGROUP  M=QA_GET_    ACBP=48
+ 03FC:0812 0000 C=BSS    S=_BSS           G=DGROUP  M=QEQ_FIFO   ACBP=48
+ 03FC:0812 0000 C=BSS    S=_BSS           G=DGROUP  M=QEQ_GET    ACBP=48
+ 03FC:0812 0000 C=BSS    S=_BSS           G=DGROUP  M=QEQ_INIT   ACBP=48
+ 03FC:0812 0101 C=BSS    S=_BSS           G=DGROUP  M=QF_ACT     ACBP=48
+ 03FC:0914 0000 C=BSS    S=_BSS           G=DGROUP  M=QF_GC      ACBP=48
+ 03FC:0914 0000 C=BSS    S=_BSS           G=DGROUP  M=QF_LOG2    ACBP=48
+ 03FC:0914 0000 C=BSS    S=_BSS           G=DGROUP  M=QF_NEW     ACBP=48
+ 03FC:0914 0000 C=BSS    S=_BSS           G=DGROUP  M=QF_POOL    ACBP=48
+ 03FC:0914 0000 C=BSS    S=_BSS           G=DGROUP  M=QF_PWR2    ACBP=48
+ 03FC:0914 0001 C=BSS    S=_BSS           G=DGROUP  M=QF_TICK    ACBP=48
+ 03FC:0916 0000 C=BSS    S=_BSS           G=DGROUP  M=QMP_GET    ACBP=48
+ 03FC:0916 0000 C=BSS    S=_BSS           G=DGROUP  M=QMP_INIT   ACBP=48
+ 03FC:0916 0000 C=BSS    S=_BSS           G=DGROUP  M=QMP_PUT    ACBP=48
+ 03FC:0916 0000 C=BSS    S=_BSS           G=DGROUP  M=QTE_CTOR   ACBP=48
+ 03FC:0916 0000 C=BSS    S=_BSS           G=DGROUP  M=QTE_ARM    ACBP=48
+ 03FC:0916 0000 C=BSS    S=_BSS           G=DGROUP  M=QTE_DARM   ACBP=48
+ 03FC:0916 0000 C=BSS    S=_BSS           G=DGROUP  M=QVANILLA   ACBP=48
+ 03FC:0916 0080 C=BSS    S=_BSS           G=DGROUP  M=ATEXIT     ACBP=48
+ 03FC:0996 0001 C=BSS    S=_BSS           G=DGROUP  M=PUTC       ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=SETUPIO    ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=CRTINIT    ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=GETCH      ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=GETVECT    ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=IOERROR    ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=ISATTY     ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=KBHIT      ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=LSEEK      ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=LTOA       ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=MEMCPY     ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=SETBLOCK   ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=VPRINTER   ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=VRAM       ACBP=48
+ 03FC:0998 0000 C=BSS    S=_BSS           G=DGROUP  M=WRITEA     ACBP=48
+ 03FC:0998 0004 C=BSS    S=_BSS           G=DGROUP  M=NEW        ACBP=48
+ 03FC:099C 0000 C=ENDBSS S=_BSSEND        G=DGROUP  M=c0.ASM     ACBP=28
+ 0496:0000 0080 C=STACK  S=_STACK         G=(none)  M=c0.ASM     ACBP=74
+
+  Address         Publics by Name
+
+ 0000:1C3E       operator delete(void far*)
+ 0000:1C7A       operator new(unsigned int)
+ 0228:002C       BSP_init(int,char far*far*)
+ 0237:035A       onConsoleInput(unsigned char)
+ 03FC:023B       QActive::
+ 0237:04C9       QActive::QActive(unsigned char(far*)(void far*,const QEvent far*))
+ 0237:05B3       QActive::~QActive()
+ 0295:0009       QActive::defer(QEQueue far*,const QEvent far*)
+ 02C0:000A       QActive::get_()
+ 029E:000A       QActive::postFIFO(const QEvent far*)
+ 02B1:000C       QActive::postLIFO(const QEvent far*)
+ 0295:0022       QActive::recall(QEQueue far*)
+ 037E:00AD       QActive::start(unsigned char,const QEvent far*far*,unsigned long,void far*,unsigned long,const QEvent far*)
+ 037E:0120 idle  QActive::stop()
+ 0397:0004       QEP::getVersion()
+ 02E6:0009       QEQueue::get()
+ 0237:03F1       QEQueue::getNFree() const
+ 02F1:000B       QEQueue::init(const QEvent far*far*,unsigned char)
+ 02DA:0008       QEQueue::postFIFO(const QEvent far*)
+ 03FC:0812       QF::active_
+ 02F6:001B       QF::add_(QActive far*)
+ 0306:0007       QF::gc(const QEvent far*)
+ 0332:0071 idle  QF::getPoolMargin(unsigned char)
+ 037E:0005 idle  QF::getPortVersion()
+ 02C0:00DB idle  QF::getQueueMargin(unsigned char)
+ 02F6:000F       QF::getVersion()
+ 037E:0011       QF::init()
+ 030E:0007       QF::new_(unsigned int,unsigned char)
+ 0228:0082       QF::onCleanup()
+ 0228:00BA       QF::onIdle()
+ 0228:0031       QF::onStartup()
+ 031A:0002       QF::poolInit(void far*,unsigned long,unsigned int)
+ 02F6:008F       QF::remove_(const QActive far*)
+ 037E:0020       QF::run()
+ 037E:0016       QF::stop()
+ 0322:0005       QF::tick()
+ 03FC:023F       QHsm::
+ 0237:0563       QHsm::QHsm(unsigned char(far*)(void far*,const QEvent far*))
+ 0398:0000       QHsm::~QHsm()
+ 03AE:000B       QHsm::dispatch(const QEvent far*)
+ 0398:002C       QHsm::init(const QEvent far*)
+ 03F8:000F       QHsm::top(QHsm far*,const QEvent far*)
+ 0332:0008       QMPool::get()
+ 030E:00B4       QMPool::getBlockSize() const
+ 033E:0001       QMPool::init(void far*,unsigned long,unsigned int)
+ 0358:0001       QMPool::put(void far*)
+ 037E:0149       QPSet64::findMax() volatile
+ 029E:00E2       QPSet64::insert(unsigned char) volatile
+ 02C0:0147       QPSet64::remove(unsigned char) volatile
+ 029E:0126       QPSet8::insert(unsigned char) volatile
+ 037E:0132       QPSet8::notEmpty() volatile
+ 02C0:0192       QPSet8::remove(unsigned char) volatile
+ 0360:0007       QTimeEvt::QTimeEvt(unsigned char)
+ 036A:0007       QTimeEvt::arm_(QActive far*,unsigned int)
+ 0374:000D       QTimeEvt::disarm()
+ 0237:03FF       QTimeEvt::postIn(QActive far*,unsigned int)
+ 0000:1C50 idle  set_new_handler(void(far*)())
+ 03FC:0237       TServer::
+ 0237:0424       TServer::TServer()
+ 0237:0523       TServer::~TServer()
+ 0237:0252 idle  TServer::authorizing(TServer far*,const QEvent far*)
+ 0237:012B idle  TServer::busy(TServer far*,const QEvent far*)
+ 0237:0021 idle  TServer::final(TServer far*,const QEvent far*)
+ 0237:005C idle  TServer::idle(TServer far*,const QEvent far*)
+ 0237:000A idle  TServer::initial(TServer far*,const QEvent far*)
+ 0237:01CF idle  TServer::receiving(TServer far*,const QEvent far*)
+ 03FC:0000 idle  DATASEG@
+ 0000:0206 idle  DGROUP@
+ 0000:20BF       F_LXLSH@
+ 0000:20E0 idle  F_PADD@
+ 0000:210F idle  F_PSUB@
+ 0000:20BF idle  LXLSH@
+ 0000:20BC idle  N_LXLSH@
+ 0000:20DD       N_PADD@
+ 0000:213D       N_PCMP@
+ 0000:210C idle  N_PSUB@
+ 0000:20E0 idle  PADD@
+ 0000:210F idle  PSUB@
+ 0000:01F0       _abort
+ 0000:020A idle  _atexit
+ 0000:0367 idle  _cprintf
+ 03FC:06E5       _directvideo
+ 03FC:007D       _errno
+ 0000:0384       _exit
+ 0000:1DFE idle  _farfree
+ 0000:1EEE idle  _farmalloc
+ 0000:204E idle  _farrealloc
+ 0000:04D5       _fflush
+ 0000:05A5       _flushall
+ 0000:05E8       _fprintf
+ 0000:08C6 idle  _fputc
+ 0000:0A22 idle  _fputchar
+ 0000:1DFE       _free
+ 0000:0688       _fseek
+ 0000:0708 idle  _ftell
+ 0000:143A       _getch
+ 0000:1456 idle  _getche
+ 0000:0758       _gettext
+ 0000:1496       _getvect
+ 0000:14F3       _isatty
+ 0000:15B5 idle  _itoa
+ 0000:1504       _kbhit
+ 0000:150A       _lseek
+ 0000:15FC idle  _ltoa
+ 0237:02D5       _main
+ 0000:1EE4       _malloc
+ 0000:1624       _memcpy
+ 0000:07E3       _movetext
+ 0000:0889       _printf
+ 0000:0BE1       _putch
+ 0000:07A9       _puttext
+ 03FC:04E0       _QEP_reservedEvt_
+ 03FC:0454       _QF_div8Lkup
+ 03FC:0912 idle  _QF_intLockNest_
+ 03FC:0413       _QF_invPwr2Lkup
+ 03FC:0284       _QF_log2Lkup
+ 03FC:03D0       _QF_maxPool_
+ 03FC:0394       _QF_pool_
+ 03FC:03D2       _QF_pwr2Lkup
+ 03FC:04CF       _QF_readySet_
+ 03FC:04C2       _QF_timeEvtListHead_
+ 0228:00D5       _Q_onAssert
+ 0000:2047 idle  _realloc
+ 0000:1648       _setblock
+ 0000:0FB4       _setvbuf
+ 0000:14A5       _setvect
+ 0000:10D3       _tell
+ 0000:15DF idle  _ultoa
+ 0000:147A idle  _ungetch
+ 0000:10F7 idle  _wherex
+ 0000:1106 idle  _wherey
+ 0000:1119       _write
+ 0000:1000 idle  __AHINCR
+ 0000:000C idle  __AHSHIFT
+ 03FC:07B4 idle  __argc
+ 03FC:07B6 idle  __argv
+ 03FC:0504       __atexitcnt
+ 03FC:0916       __atexittbl
+ 0000:0429       __brk
+ 03FC:0087       __brklvl
+ 03FC:0069       __C0argc
+ 03FC:006B       __C0argv
+ 0000:133F idle  __c0crtinit
+ 03FC:006F idle  __C0environ
+ 0000:0237       __CPUTN
+ 0000:135F idle  __crtinit
+ 03FC:06F0 idle  __doserrno
+ 03FC:06F2 idle  __dosErrorToSV
+ 03FC:0073       __envLng
+ 03FC:0075       __envseg
+ 03FC:0077 idle  __envSize
+ 0000:011A       __exit
+ 03FC:0506       __exitbuf
+ 0000:00FA       __exitclean
+ 03FC:050A       __exitfopen
+ 03FC:050E       __exitopen
+ 0000:08A4 idle  __fputc
+ 0000:0A39       __FPUTN
+ 03FC:0083       __heapbase
+ 03FC:008B       __heaptop
+ 03FC:0059 idle  __Int0Vector
+ 03FC:005D idle  __Int4Vector
+ 03FC:0061 idle  __Int5Vector
+ 03FC:0065 idle  __Int6Vector
+ 0000:14B6       __IOERROR
+ 0000:1533       __LONGTOA
+ 0000:0208 idle  __MMODEL
+ 03FC:0998 idle  __new_handler
+ 0000:1453 idle  __Ngetche
+ 0000:1477 idle  __Nungetch
+ 03FC:06A4       __openfd
+ 03FC:007B       __osmajor
+ 03FC:007C idle  __osminor
+ 03FC:0079       __psp
+ 0000:215E       __REALCVT
+ 03FC:07C4       __RealCvtVector
+ 0000:0178 idle  __restorezero
+ 0000:0468       __sbrk
+ 03FC:07C4 idle  __ScanTodVector
+ 0000:0D2C       __SCREENIO
+ 0000:0DCF       __SCROLL
+ 0000:0000  Abs  __setargv__
+ 0000:0F3B       __setupio
+ 03FC:007F idle  __StartTime
+ 03FC:06D2       __stklen
+ 03FC:0514       __streams
+ 0000:0000 idle  __turboCrt
+ 0000:0D69       __VALIDATEXY
+ 03FC:007B idle  __version
+ 03FC:06D6       __video
+ 0000:12BB       __VideoInt
+ 0000:167C       __VPRINTER
+ 0000:1B54       __VPTR
+ 0000:1B7A       __VRAM
+ 0000:10ED       __wherexy
+ 0000:1BF3       __write
+ 03FC:06D4       __wscroll
+ 0000:1246       __xfflush
+ 0000:1CC0 idle  ___first
+ 0000:1CC2 idle  ___last
+ 0000:1CC4 idle  ___rover
+
+  Address         Publics by Value
+
+ 0000:0000  Abs  __setargv__
+ 0000:0000 idle  __turboCrt
+ 0000:000C idle  __AHSHIFT
+ 0000:1000 idle  __AHINCR
+ 0000:00FA       __exitclean
+ 0000:011A       __exit
+ 0000:0178 idle  __restorezero
+ 0000:01F0       _abort
+ 0000:0206 idle  DGROUP@
+ 0000:0208 idle  __MMODEL
+ 0000:020A idle  _atexit
+ 0000:0237       __CPUTN
+ 0000:0367 idle  _cprintf
+ 0000:0384       _exit
+ 0000:0429       __brk
+ 0000:0468       __sbrk
+ 0000:04D5       _fflush
+ 0000:05A5       _flushall
+ 0000:05E8       _fprintf
+ 0000:0688       _fseek
+ 0000:0708 idle  _ftell
+ 0000:0758       _gettext
+ 0000:07A9       _puttext
+ 0000:07E3       _movetext
+ 0000:0889       _printf
+ 0000:08A4 idle  __fputc
+ 0000:08C6 idle  _fputc
+ 0000:0A22 idle  _fputchar
+ 0000:0A39       __FPUTN
+ 0000:0BE1       _putch
+ 0000:0D2C       __SCREENIO
+ 0000:0D69       __VALIDATEXY
+ 0000:0DCF       __SCROLL
+ 0000:0F3B       __setupio
+ 0000:0FB4       _setvbuf
+ 0000:10D3       _tell
+ 0000:10ED       __wherexy
+ 0000:10F7 idle  _wherex
+ 0000:1106 idle  _wherey
+ 0000:1119       _write
+ 0000:1246       __xfflush
+ 0000:12BB       __VideoInt
+ 0000:133F idle  __c0crtinit
+ 0000:135F idle  __crtinit
+ 0000:143A       _getch
+ 0000:1453 idle  __Ngetche
+ 0000:1456 idle  _getche
+ 0000:1477 idle  __Nungetch
+ 0000:147A idle  _ungetch
+ 0000:1496       _getvect
+ 0000:14A5       _setvect
+ 0000:14B6       __IOERROR
+ 0000:14F3       _isatty
+ 0000:1504       _kbhit
+ 0000:150A       _lseek
+ 0000:1533       __LONGTOA
+ 0000:15B5 idle  _itoa
+ 0000:15DF idle  _ultoa
+ 0000:15FC idle  _ltoa
+ 0000:1624       _memcpy
+ 0000:1648       _setblock
+ 0000:167C       __VPRINTER
+ 0000:1B54       __VPTR
+ 0000:1B7A       __VRAM
+ 0000:1BF3       __write
+ 0000:1C3E       operator delete(void far*)
+ 0000:1C50 idle  set_new_handler(void(far*)())
+ 0000:1C7A       operator new(unsigned int)
+ 0000:1CC0 idle  ___first
+ 0000:1CC2 idle  ___last
+ 0000:1CC4 idle  ___rover
+ 0000:1DFE       _free
+ 0000:1DFE idle  _farfree
+ 0000:1EE4       _malloc
+ 0000:1EEE idle  _farmalloc
+ 0000:2047 idle  _realloc
+ 0000:204E idle  _farrealloc
+ 0000:20BC idle  N_LXLSH@
+ 0000:20BF       F_LXLSH@
+ 0000:20BF idle  LXLSH@
+ 0000:20DD       N_PADD@
+ 0000:20E0 idle  F_PADD@
+ 0000:20E0 idle  PADD@
+ 0000:210C idle  N_PSUB@
+ 0000:210F idle  F_PSUB@
+ 0000:210F idle  PSUB@
+ 0000:213D       N_PCMP@
+ 0000:215E       __REALCVT
+ 0228:002C       BSP_init(int,char far*far*)
+ 0228:0031       QF::onStartup()
+ 0228:0082       QF::onCleanup()
+ 0228:00BA       QF::onIdle()
+ 0228:00D5       _Q_onAssert
+ 0237:000A idle  TServer::initial(TServer far*,const QEvent far*)
+ 0237:0021 idle  TServer::final(TServer far*,const QEvent far*)
+ 0237:005C idle  TServer::idle(TServer far*,const QEvent far*)
+ 0237:012B idle  TServer::busy(TServer far*,const QEvent far*)
+ 0237:01CF idle  TServer::receiving(TServer far*,const QEvent far*)
+ 0237:0252 idle  TServer::authorizing(TServer far*,const QEvent far*)
+ 0237:02D5       _main
+ 0237:035A       onConsoleInput(unsigned char)
+ 0237:03F1       QEQueue::getNFree() const
+ 0237:03FF       QTimeEvt::postIn(QActive far*,unsigned int)
+ 0237:0424       TServer::TServer()
+ 0237:04C9       QActive::QActive(unsigned char(far*)(void far*,const QEvent far*))
+ 0237:0523       TServer::~TServer()
+ 0237:0563       QHsm::QHsm(unsigned char(far*)(void far*,const QEvent far*))
+ 0237:05B3       QActive::~QActive()
+ 0295:0009       QActive::defer(QEQueue far*,const QEvent far*)
+ 0295:0022       QActive::recall(QEQueue far*)
+ 029E:000A       QActive::postFIFO(const QEvent far*)
+ 029E:00E2       QPSet64::insert(unsigned char) volatile
+ 029E:0126       QPSet8::insert(unsigned char) volatile
+ 02B1:000C       QActive::postLIFO(const QEvent far*)
+ 02C0:000A       QActive::get_()
+ 02C0:00DB idle  QF::getQueueMargin(unsigned char)
+ 02C0:0147       QPSet64::remove(unsigned char) volatile
+ 02C0:0192       QPSet8::remove(unsigned char) volatile
+ 02DA:0008       QEQueue::postFIFO(const QEvent far*)
+ 02E6:0009       QEQueue::get()
+ 02F1:000B       QEQueue::init(const QEvent far*far*,unsigned char)
+ 02F6:000F       QF::getVersion()
+ 02F6:001B       QF::add_(QActive far*)
+ 02F6:008F       QF::remove_(const QActive far*)
+ 0306:0007       QF::gc(const QEvent far*)
+ 030E:0007       QF::new_(unsigned int,unsigned char)
+ 030E:00B4       QMPool::getBlockSize() const
+ 031A:0002       QF::poolInit(void far*,unsigned long,unsigned int)
+ 0322:0005       QF::tick()
+ 0332:0008       QMPool::get()
+ 0332:0071 idle  QF::getPoolMargin(unsigned char)
+ 033E:0001       QMPool::init(void far*,unsigned long,unsigned int)
+ 0358:0001       QMPool::put(void far*)
+ 0360:0007       QTimeEvt::QTimeEvt(unsigned char)
+ 036A:0007       QTimeEvt::arm_(QActive far*,unsigned int)
+ 0374:000D       QTimeEvt::disarm()
+ 037E:0005 idle  QF::getPortVersion()
+ 037E:0011       QF::init()
+ 037E:0016       QF::stop()
+ 037E:0020       QF::run()
+ 037E:00AD       QActive::start(unsigned char,const QEvent far*far*,unsigned long,void far*,unsigned long,const QEvent far*)
+ 037E:0120 idle  QActive::stop()
+ 037E:0132       QPSet8::notEmpty() volatile
+ 037E:0149       QPSet64::findMax() volatile
+ 0397:0004       QEP::getVersion()
+ 0398:0000       QHsm::~QHsm()
+ 0398:002C       QHsm::init(const QEvent far*)
+ 03AE:000B       QHsm::dispatch(const QEvent far*)
+ 03F8:000F       QHsm::top(QHsm far*,const QEvent far*)
+ 03FC:0000 idle  DATASEG@
+ 03FC:0059 idle  __Int0Vector
+ 03FC:005D idle  __Int4Vector
+ 03FC:0061 idle  __Int5Vector
+ 03FC:0065 idle  __Int6Vector
+ 03FC:0069       __C0argc
+ 03FC:006B       __C0argv
+ 03FC:006F idle  __C0environ
+ 03FC:0073       __envLng
+ 03FC:0075       __envseg
+ 03FC:0077 idle  __envSize
+ 03FC:0079       __psp
+ 03FC:007B       __osmajor
+ 03FC:007B idle  __version
+ 03FC:007C idle  __osminor
+ 03FC:007D       _errno
+ 03FC:007F idle  __StartTime
+ 03FC:0083       __heapbase
+ 03FC:0087       __brklvl
+ 03FC:008B       __heaptop
+ 03FC:0237       TServer::
+ 03FC:023B       QActive::
+ 03FC:023F       QHsm::
+ 03FC:0284       _QF_log2Lkup
+ 03FC:0394       _QF_pool_
+ 03FC:03D0       _QF_maxPool_
+ 03FC:03D2       _QF_pwr2Lkup
+ 03FC:0413       _QF_invPwr2Lkup
+ 03FC:0454       _QF_div8Lkup
+ 03FC:04C2       _QF_timeEvtListHead_
+ 03FC:04CF       _QF_readySet_
+ 03FC:04E0       _QEP_reservedEvt_
+ 03FC:0504       __atexitcnt
+ 03FC:0506       __exitbuf
+ 03FC:050A       __exitfopen
+ 03FC:050E       __exitopen
+ 03FC:0514       __streams
+ 03FC:06A4       __openfd
+ 03FC:06D2       __stklen
+ 03FC:06D4       __wscroll
+ 03FC:06D6       __video
+ 03FC:06E5       _directvideo
+ 03FC:06F0 idle  __doserrno
+ 03FC:06F2 idle  __dosErrorToSV
+ 03FC:07B4 idle  __argc
+ 03FC:07B6 idle  __argv
+ 03FC:07C4 idle  __ScanTodVector
+ 03FC:07C4       __RealCvtVector
+ 03FC:0812       QF::active_
+ 03FC:0912 idle  _QF_intLockNest_
+ 03FC:0916       __atexittbl
+ 03FC:0998 idle  __new_handler
+
+Program entry point at 0000:0000
+

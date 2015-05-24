@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/test/test-boost-build/missing_dependencies/lib
+END
+lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/test/test-boost-build/missing_dependencies/lib/lib.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/regression/test/test-boost-build/missing_dependencies/lib/Jamfile.v2
+END

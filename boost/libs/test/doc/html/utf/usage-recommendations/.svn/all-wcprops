@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/usage-recommendations
+END
+generic.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/usage-recommendations/generic.html
+END
+dot-net-specific.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/usage-recommendations/dot-net-specific.html
+END
+command-line-specific.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/usage-recommendations/command-line-specific.html
+END

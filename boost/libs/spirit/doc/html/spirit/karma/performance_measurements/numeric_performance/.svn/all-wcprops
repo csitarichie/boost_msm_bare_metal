@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/karma/performance_measurements/numeric_performance
+END
+format_performance.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/karma/performance_measurements/numeric_performance/format_performance.html
+END
+double_performance.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/karma/performance_measurements/numeric_performance/double_performance.html
+END
+int_performance.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/doc/html/spirit/karma/performance_measurements/numeric_performance/int_performance.html
+END

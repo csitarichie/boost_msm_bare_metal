@@ -1,0 +1,83 @@
+10
+
+dir
+62045
+http://svn.boost.org/svn/boost/tags/release/Boost_1_43_0/libs/statechart/example
+http://svn.boost.org/svn/boost
+
+
+
+2010-04-30T12:23:50.313409Z
+61705
+andreas_huber69
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8fc166d-592f-0410-95f2-cb63ce0dd405
+
+Keyboard
+dir
+
+Performance
+dir
+
+PingPong
+dir
+
+BitMachine
+dir
+
+Handcrafted
+dir
+
+Camera
+dir
+
+StopWatch
+dir
+
+Jamfile.v2
+file
+
+
+
+
+2010-05-16T21:10:13.898041Z
+8659a03cc7d66f7795a0c8db113dc71d
+2008-07-15T22:50:59.570053Z
+47466
+andreas_huber69
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2996
+

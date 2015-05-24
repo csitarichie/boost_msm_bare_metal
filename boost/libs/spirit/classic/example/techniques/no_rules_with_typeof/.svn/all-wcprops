@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/techniques/no_rules_with_typeof
+END
+rule_parser_1_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/techniques/no_rules_with_typeof/rule_parser_1_1.cpp
+END
+rule_parser_1_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/techniques/no_rules_with_typeof/rule_parser_1_2.cpp
+END
+rule_parser_2_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/techniques/no_rules_with_typeof/rule_parser_2_1.cpp
+END
+rule_parser_2_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/techniques/no_rules_with_typeof/rule_parser_2_2.cpp
+END
+opaque_rule_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/spirit/classic/example/techniques/no_rules_with_typeof/opaque_rule_parser.cpp
+END

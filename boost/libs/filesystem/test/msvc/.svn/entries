@@ -1,0 +1,132 @@
+10
+
+dir
+62045
+http://svn.boost.org/svn/boost/tags/release/Boost_1_43_0/libs/filesystem/test/msvc
+http://svn.boost.org/svn/boost
+
+
+
+2009-07-23T15:32:02.827217Z
+55126
+bemandawes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8fc166d-592f-0410-95f2-cb63ce0dd405
+
+deprecated_test
+dir
+
+filesystem_dll
+dir
+
+system_dll
+dir
+
+fstream_test
+dir
+
+operations_test
+dir
+
+common.vsprops
+file
+
+
+
+
+2010-05-16T21:11:59.874117Z
+192ad7c9cc496fb3012c8c9bebb32ac4
+2008-07-11T01:16:21.118935Z
+47299
+bemandawes
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+364
+
+large_file_support_test
+dir
+
+boost_filesystem.sln
+file
+
+
+
+
+2010-05-16T21:11:59.874117Z
+a1717f40810bcb040db57dbdcdffaed0
+2009-07-23T15:32:02.827217Z
+55126
+bemandawes
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8557
+
+simple_ls
+dir
+
+wide_test
+dir
+
+mbcopy
+dir
+
+convenience_test
+dir
+
+mbpath
+dir
+
+path_test
+dir
+

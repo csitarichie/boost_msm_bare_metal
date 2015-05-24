@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/test/compile_fail
+END
+test_bimap_mutable_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/test/compile_fail/test_bimap_mutable_1.cpp
+END
+test_bimap_mutable_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/test/compile_fail/test_bimap_mutable_2.cpp
+END
+test_bimap_info_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/test/compile_fail/test_bimap_info_1.cpp
+END
+test_bimap_mutable_3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/test/compile_fail/test_bimap_mutable_3.cpp
+END
+test_bimap_info_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/test/compile_fail/test_bimap_info_2.cpp
+END
+test_bimap_info_3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/bimap/test/compile_fail/test_bimap_info_3.cpp
+END

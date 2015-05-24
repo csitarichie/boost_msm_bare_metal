@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example
+END
+simple_log_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/simple_log_archive.hpp
+END
+demo_output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_output.txt
+END
+demo_exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_exception.cpp
+END
+demo_gps.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_gps.hpp
+END
+demo_portable_archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_portable_archive.cpp
+END
+portable_binary_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/portable_binary_archive.hpp
+END
+demo_dll_a.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_dll_a.hpp
+END
+demo_dll_a.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_dll_a.ipp
+END
+demo_dll_b.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_dll_b.hpp
+END
+demo_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_log.cpp
+END
+demo_dll_b.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_dll_b.ipp
+END
+portable_binary_iarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/portable_binary_iarchive.cpp
+END
+portable_binary_iarchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/portable_binary_iarchive.hpp
+END
+portable_binary_oarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/portable_binary_oarchive.cpp
+END
+demo_simple_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_simple_log.cpp
+END
+demo_shared_ptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_shared_ptr.cpp
+END
+demo_auto_ptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_auto_ptr.cpp
+END
+portable_binary_oarchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/portable_binary_oarchive.hpp
+END
+demo_fast_archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_fast_archive.cpp
+END
+demo_xml_load.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_xml_load.cpp
+END
+demo_xml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_xml.cpp
+END
+demo_xml.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_xml.hpp
+END
+demo_polymorphic_A.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_polymorphic_A.cpp
+END
+demo_polymorphic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_polymorphic.cpp
+END
+polymorphic_portable_binary_iarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/polymorphic_portable_binary_iarchive.cpp
+END
+Jamfile.v2
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/Jamfile.v2
+END
+demo_polymorphic_A.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_polymorphic_A.hpp
+END
+demo_trivial_archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_trivial_archive.cpp
+END
+demo_dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_dll.cpp
+END
+demo_save.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_save.xml
+END
+polymorphic_portable_binary_iarchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/polymorphic_portable_binary_iarchive.hpp
+END
+demofile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demofile.txt
+END
+polymorphic_portable_binary_oarchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/polymorphic_portable_binary_oarchive.cpp
+END
+log_archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/log_archive.cpp
+END
+demo_xml_save.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_xml_save.cpp
+END
+demo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo.cpp
+END
+demo_pimpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_pimpl.cpp
+END
+demo_pimpl_A.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_pimpl_A.cpp
+END
+polymorphic_portable_binary_oarchive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/polymorphic_portable_binary_oarchive.hpp
+END
+log_archive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/log_archive.hpp
+END
+demo_pimpl_A.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/serialization/example/demo_pimpl_A.hpp
+END

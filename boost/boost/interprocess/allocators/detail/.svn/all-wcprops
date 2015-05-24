@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/interprocess/allocators/detail
+END
+adaptive_node_pool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/interprocess/allocators/detail/adaptive_node_pool.hpp
+END
+node_pool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/interprocess/allocators/detail/node_pool.hpp
+END
+node_tools.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/interprocess/allocators/detail/node_tools.hpp
+END
+allocator_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/interprocess/allocators/detail/allocator_common.hpp
+END

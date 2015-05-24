@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 278
+/sandbox-branches/bhy/py3k/tools/jam:52115-56304
+/sandbox-branches/intrusive_fix_SunCC/tools/jam:55764-55783
+/tags/tools/jam/Boost_Jam_3_1_18:60774-61417
+/trunk/tools/jam:41628-60773,60888,61117,61239,61245,61263-61264,61351-61357,61398,61449,61466-61467,61643,61674,61717,61766
+END

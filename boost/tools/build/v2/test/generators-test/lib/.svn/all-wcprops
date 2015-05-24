@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/generators-test/lib
+END
+c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/generators-test/lib/c.cpp
+END
+jamfile.jam
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/generators-test/lib/jamfile.jam
+END

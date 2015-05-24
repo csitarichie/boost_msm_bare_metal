@@ -1,0 +1,21 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 11
+Id Rev Date
+K 13
+svn:mergeinfo
+V 332
+/devel/index.html:38327
+/sandbox-branches/bhy/py3k/index.html:52115-56304
+/sandbox-branches/intrusive_fix_SunCC/index.html:55764-55783
+/trunk/boost/index.html:34428,34430,34600,34875-34877,36278,37030-37032,37509-37510,37704
+/trunk/index.html:38329,38516,38576,42141,42424,42988,42990,43209-43210,43365-61539,61643,61674,61717,61766
+K 13
+svn:mime-type
+V 9
+text/html
+END

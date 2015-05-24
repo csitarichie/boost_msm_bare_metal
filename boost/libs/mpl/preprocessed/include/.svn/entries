@@ -1,0 +1,64 @@
+10
+
+dir
+62045
+http://svn.boost.org/svn/boost/tags/release/Boost_1_43_0/libs/mpl/preprocessed/include
+http://svn.boost.org/svn/boost
+
+
+
+2008-10-11T06:50:46.816603Z
+49272
+agurtovoy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b8fc166d-592f-0410-95f2-cb63ce0dd405
+
+msvc70
+dir
+
+bcc551
+dir
+
+dmc
+dir
+
+no_ttp
+dir
+
+plain
+dir
+
+typeof_based
+dir
+
+no_ctps
+dir
+
+bcc
+dir
+
+bcc_pre590
+dir
+
+gcc
+dir
+
+mwcw
+dir
+
+msvc60
+dir
+

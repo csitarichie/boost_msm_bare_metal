@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math
+END
+Stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/Stdafx.h
+END
+boost_math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/boost_math.cpp
+END
+boost_math.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/boost_math.vcproj
+END
+app.rc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/app.rc
+END
+boost_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/boost_math.h
+END
+app.ico
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/app.ico
+END
+Stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/Stdafx.cpp
+END
+boost_math.sln
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/boost_math.sln
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/ReadMe.txt
+END
+AssemblyInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/AssemblyInfo.cpp
+END
+boost_math.sln.lnk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/boost_math.sln.lnk
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/dot_net_example/boost_math/resource.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/mfc_atl
+END
+atl_ranges.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/mfc_atl/atl_ranges.html
+END
+references.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/mfc_atl/references.html
+END
+requirements.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/mfc_atl/requirements.html
+END
+mfc_ranges.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/mfc_atl/mfc_ranges.html
+END
+const_ranges.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/mfc_atl/const_ranges.html
+END

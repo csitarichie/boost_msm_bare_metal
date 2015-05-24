@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/direct-request-test
+END
+jamfile2.jam
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/direct-request-test/jamfile2.jam
+END
+a.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/direct-request-test/a.cpp
+END
+jamroot.jam
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/direct-request-test/jamroot.jam
+END
+b.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/direct-request-test/b.cpp
+END
+b_inverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/direct-request-test/b_inverse.cpp
+END
+jamfile.jam
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/tools/build/v2/test/direct-request-test/jamfile.jam
+END

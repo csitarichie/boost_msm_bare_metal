@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registry install_date="2010-05-02 17:23:39" version="1.1" last_modified="2010-05-02 17:23:43">
+	<products>
+		<product name="Sourcery G++ Common" id="d4bc5c81-77c7-4703-8f94-5e063b518f3b" version="1.0.0.257747" copyright="2008" info_url="http://www.codesourcery.com" support_url="http://www.codesourcery.com/support/" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi" last_modified="2010-05-02 17:23:39">
+		<![CDATA[Sourcery G++ Common]]>
+			<vendor name="CodeSourcery" id="7f1ebb3c-1ec7-11b2-8037-c0d9e9f9d7a6" home_page="http://www.codesourcery.com" email="sales@codesourcery.com"/>
+			<feature name="Sourcery G++ Common" last_modified="2010-05-02 17:23:43">
+			<![CDATA[This installs the Sourcery G++ Common feature.]]>
+				<component ref_id="735297d0-0269-4636-a3b6-c97cb0380fc9" version="1.0.0.257747" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_Common/Uninstall_Sourcery_Gxx_Common"/>
+				<component ref_id="2953cb23-86ff-42a1-92be-8c002a0ad7fc" version="1.0.0.257747" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features/Common.key"/>
+			</feature>
+		</product>
+	</products>
+	<components>
+		<component id="735297d0-0269-4636-a3b6-c97cb0380fc9" version="1.0.0.257747" name="Sourcery G++ Common InstallAnywhere Uninstall" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_Common/Uninstall_Sourcery_Gxx_Common" vendor="CodeSourcery">
+			<resource keyfile="false" name="Sourcery G++ Common Installer.log" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Sourcery G++ Common Installer.log" type="file" uninstall="true"/>
+			<resource keyfile="false" name="uninstall" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="Uninstall_Sourcery_Gxx_Common" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_Common" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="uninstaller.jar" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_Common/uninstaller.jar" type="file" uninstall="true"/>
+			<resource keyfile="true" name="Uninstall_Sourcery_Gxx_Common" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_Common/Uninstall_Sourcery_Gxx_Common" type="executable" uninstall="true"/>
+			<resource keyfile="false" name="Uninstall_Sourcery_Gxx_Common.lax" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_Common/Uninstall_Sourcery_Gxx_Common.lax" type="file" uninstall="true"/>
+			<resource keyfile="false" name=".com.zerog.registry.xml" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/Uninstall_Sourcery_Gxx_Common/.com.zerog.registry.xml" type="file" uninstall="true"/>
+		</component>
+		<component id="2953cb23-86ff-42a1-92be-8c002a0ad7fc" version="1.0.0.257747" name="Sourcery G++ Common" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features/Common.key" vendor="CodeSourcery">
+			<resource keyfile="false" name="uninstall" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="features" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="true" name="Common.key" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/features/Common.key" type="file" uninstall="true"/>
+			<resource keyfile="false" name="uninstall" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall" type="directory" uninstall="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="remove-links-iamm-common_files-arm-2010q1-188-arm-none-eabi" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/remove-links-iamm-common_files-arm-2010q1-188-arm-none-eabi" type="file" uninstall="true"/>
+			<resource keyfile="false" name="create-links-iamm-common_files-arm-2010q1-188-arm-none-eabi" location="/home/csita/view/initial/tools/compilers/arm/sourcery_2010_q1_none_eabi/uninstall/create-links-iamm-common_files-arm-2010q1-188-arm-none-eabi" type="file" uninstall="true"/>
+		</component>
+	</components>
+</registry>

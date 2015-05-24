@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/rounding
+END
+modf.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/rounding/modf.html
+END
+round.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/rounding/round.html
+END
+trunc.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/rounding/trunc.html
+END

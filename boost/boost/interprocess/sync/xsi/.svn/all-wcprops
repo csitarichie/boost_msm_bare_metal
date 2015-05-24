@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/interprocess/sync/xsi
+END
+xsi_named_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/interprocess/sync/xsi/xsi_named_mutex.hpp
+END
+advanced_xsi_semaphore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/interprocess/sync/xsi/advanced_xsi_semaphore.hpp
+END
+simple_xsi_semaphore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/boost/interprocess/sync/xsi/simple_xsi_semaphore.hpp
+END

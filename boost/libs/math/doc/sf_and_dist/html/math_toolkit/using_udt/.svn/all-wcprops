@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/using_udt
+END
+concepts.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/using_udt/concepts.html
+END
+dist_concept.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/using_udt/dist_concept.html
+END
+use_mpfr.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/using_udt/use_mpfr.html
+END
+archetypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/using_udt/archetypes.html
+END
+use_ntl.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/math/doc/sf_and_dist/html/math_toolkit/using_udt/use_ntl.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/custom_ccs
+END
+nonmember_ccs_exact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/custom_ccs/nonmember_ccs_exact.cpp
+END
+member_ccs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/custom_ccs/member_ccs.cpp
+END
+member_ccs_exact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/custom_ccs/member_ccs_exact.cpp
+END
+nonmember_ccs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/function_types/test/custom_ccs/nonmember_ccs.cpp
+END

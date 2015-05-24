@@ -1,0 +1,10 @@
+K 13
+svn:mergeinfo
+V 338
+/branches/unordered/trunk/libs/unordered:41808-42520
+/sandbox/libs/unordered:2732-4044
+/sandbox/unordered/libs/unordered:4045-41807
+/sandbox-branches/bhy/py3k/libs/unordered:52115-56304
+/sandbox-branches/intrusive_fix_SunCC/libs/unordered:55764-55783
+/trunk/libs/unordered:38329,38516,38576,42141,42424,42521-61639,61643,61674,61717,61766
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating
+END
+lower_bound.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/lower_bound.html
+END
+find.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/find.html
+END
+search_n.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/search_n.html
+END
+upper_bound.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/upper_bound.html
+END
+equal_range.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/equal_range.html
+END
+count.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/count.html
+END
+min_element.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/min_element.html
+END
+max_element.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/max_element.html
+END
+find_if.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/find_if.html
+END
+lexicographical_compare.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/lexicographical_compare.html
+END
+mismatch.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/mismatch.html
+END
+search.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/search.html
+END
+for_each.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/for_each.html
+END
+find_end.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/find_end.html
+END
+count_if.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/count_if.html
+END
+equal.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/equal.html
+END
+binary_search.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/binary_search.html
+END
+adjacent_find.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/adjacent_find.html
+END
+find_first_of.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/range/doc/html/range/reference/algorithms/non_mutating/find_first_of.html
+END

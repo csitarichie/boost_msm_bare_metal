@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization
+END
+auto-test-suite.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/auto-test-suite.html
+END
+manual-test-case-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/manual-test-case-template.html
+END
+nullary-test-case.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/nullary-test-case.html
+END
+master-test-suite.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/master-test-suite.html
+END
+manual-test-suite.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/manual-test-suite.html
+END
+test-case-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/test-case-template.html
+END
+auto-nullary-test-case.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/auto-nullary-test-case.html
+END
+unary-test-case.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/unary-test-case.html
+END
+test-suite.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/test-suite.html
+END
+auto-test-case-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/auto-test-case-template.html
+END
+manual-nullary-test-case.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/manual-nullary-test-case.html
+END
+expected-failures.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/boost/!svn/ver/61817/tags/release/Boost_1_43_0/libs/test/doc/html/utf/user-guide/test-organization/expected-failures.html
+END
