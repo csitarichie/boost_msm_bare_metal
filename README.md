@@ -23,11 +23,11 @@ For flashing / and debugging the Open On-Chip Debugger can be used see: http://o
 
 For cross compiling Sourcery G++ was used. see http://www.codesourcery.com
 
-folder ./boost contains boost source code.
-folder ./fw/ql contains Quantum Leaps framework
-folder ./dbg contains configuration files for flas and debug for openodc
-folder ./tools/compilers/arm/sourcery_2010_q1_none_eabi contains Sourcery G++ cross compiler
-folder ./msm-qk-ev-lm3s6965 contains the boost example and board support package and hw abstraction from arm.
+- folder ./boost contains boost source code.
+- folder ./fw/ql contains Quantum Leaps framework
+- folder ./dbg contains configuration files for flas and debug for openodc.
+- folder ./tools/compilers/arm/sourcery_2010_q1_none_eabi contains Sourcery G++ cross compiler
+- folder ./msm-qk-ev-lm3s6965 contains the boost example and board support package and hw abstraction from arm.
 
 main entry point for the project is :
 ./msm-qk-ev-lm3s6965/SimpleTutorial.cpp
